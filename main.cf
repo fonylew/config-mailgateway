@@ -73,14 +73,14 @@ mail_owner = postfix
 # other configuration parameters.
 #
 #myhostname = host.domain.tld
-#myhostname = virtual.domain.tld
+myhostname = host.example.com
 
 # The mydomain parameter specifies the local internet domain name.
 # The default is to use $myhostname minus the first component.
 # $mydomain is used as a default value for many other configuration
 # parameters.
 #
-#mydomain = domain.tld
+mydomain = example.com
 
 # SENDING MAIL
 # 
@@ -96,7 +96,7 @@ mail_owner = postfix
 # to recipient addresses that have no @domain part.
 #
 #myorigin = $myhostname
-#myorigin = $mydomain
+myorigin = $mydomain
 
 # RECEIVING MAIL
 
@@ -159,8 +159,7 @@ mail_owner = postfix
 #
 #mydestination = $myhostname, localhost.$mydomain, localhost
 #mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
-#mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain,
-#	mail.$mydomain, www.$mydomain, ftp.$mydomain
+mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain, mail.$mydomain, www.$mydomain, ftp.$mydomain
 
 # REJECTING MAIL FOR UNKNOWN LOCAL USERS
 #
@@ -182,7 +181,7 @@ mail_owner = postfix
 #   /etc/passwd, /etc/aliases, or the $virtual_alias_maps files.
 #   For example, you define $mydestination domain recipients in    
 #   the $virtual_mailbox_maps files.
-#
+virtual_alias_maps = hash:/etc/postfix/virtual
 # - You redefine the local delivery agent in master.cf.
 #
 # - You redefine the "local_transport" setting in main.cf.
@@ -379,7 +378,7 @@ mynetworks_style = host
 # "postfix reload" to eliminate the delay.
 #
 #alias_maps = dbm:/etc/aliases
-#alias_maps = hash:/etc/aliases
+#alias_maps = hash:/etc/aliase
 #alias_maps = hash:/etc/aliases, nis:mail.aliases
 #alias_maps = netinfo:/aliases
 
@@ -654,3 +653,7 @@ sample_directory = /usr/local/etc/postfix
 #
 readme_directory = /usr/local/share/doc/postfix
 inet_protocols = ipv4
+
+# AMAVISD
+content_filter = smtp-amavis:[127.0.0.1]:10024
+max_use = 10

@@ -1,0 +1,1628 @@
+May 25 15:59:02 host newsyslog[417]: logfile first created
+May 25 15:59:04 host sm-mta[652]: gethostbyaddr(10.0.2.15) failed: 1
+May 25 15:59:04 host sm-mta[653]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 25 15:59:04 host sm-mta[653]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 25 15:59:05 host sm-msp-queue[656]: starting daemon (8.14.9): queueing@00:30:00
+May 25 17:42:50 host sm-mta[635]: gethostbyaddr(10.0.2.15) failed: 1
+May 25 17:42:50 host sm-mta[636]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 25 17:42:50 host sm-mta[636]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 25 17:42:56 host sm-msp-queue[639]: starting daemon (8.14.9): queueing@00:30:00
+May 25 17:50:36 host sm-mta[621]: gethostbyaddr(10.0.2.15) failed: 1
+May 25 17:50:36 host sm-mta[622]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 25 17:50:36 host sm-mta[622]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 25 17:50:38 host sm-msp-queue[625]: starting daemon (8.14.9): queueing@00:30:00
+May 25 18:03:24 host sm-mta[579]: gethostbyaddr(10.10.9.251) failed: 2
+May 25 18:03:24 host sm-mta[580]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 25 18:03:24 host sm-mta[580]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 25 18:03:24 host sm-msp-queue[583]: starting daemon (8.14.9): queueing@00:30:00
+May 25 18:07:53 host sm-mta[571]: gethostbyaddr(10.10.9.251) failed: 2
+May 25 18:07:53 host sm-mta[572]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 25 18:07:53 host sm-mta[572]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 25 18:07:53 host sm-msp-queue[575]: starting daemon (8.14.9): queueing@00:30:00
+May 25 18:12:49 host sm-mta[573]: gethostbyaddr(10.10.9.251) failed: 2
+May 25 18:12:49 host sm-mta[574]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 25 18:12:49 host sm-mta[574]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 25 18:12:49 host sm-msp-queue[577]: starting daemon (8.14.9): queueing@00:30:00
+May 25 18:20:07 host sm-mta[571]: gethostbyaddr(10.10.9.251) failed: 2
+May 25 18:20:07 host sm-mta[572]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 25 18:20:07 host sm-mta[572]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 25 18:20:07 host sm-msp-queue[575]: starting daemon (8.14.9): queueing@00:30:00
+May 26 00:33:47 host sm-mta[578]: gethostbyaddr(10.10.9.251) failed: 2
+May 26 00:33:47 host sm-mta[579]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 00:33:47 host sm-mta[579]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 00:33:47 host sm-msp-queue[582]: starting daemon (8.14.9): queueing@00:30:00
+May 26 11:00:19 host sm-mta[625]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 11:00:19 host sm-mta[625]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 11:00:19 host sm-msp-queue[628]: starting daemon (8.14.9): queueing@00:30:00
+May 26 11:05:11 host sm-mta[623]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 11:05:11 host sm-mta[623]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 11:05:11 host sm-msp-queue[626]: starting daemon (8.14.9): queueing@00:30:00
+May 26 11:15:10 host sm-mta[675]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 11:15:10 host sm-mta[675]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 11:15:11 host sm-msp-queue[678]: starting daemon (8.14.9): queueing@00:30:00
+May 26 11:30:30 host sm-mta[608]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 11:30:30 host sm-mta[608]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 11:30:30 host sm-msp-queue[611]: starting daemon (8.14.9): queueing@00:30:00
+May 26 11:35:14 host sm-mta[619]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 11:35:14 host sm-mta[619]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 11:35:14 host sm-msp-queue[622]: starting daemon (8.14.9): queueing@00:30:00
+May 26 11:43:06 host sm-mta[623]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 11:43:06 host sm-mta[623]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 11:43:06 host sm-msp-queue[626]: starting daemon (8.14.9): queueing@00:30:00
+May 26 11:45:54 host sm-mta[630]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 11:45:54 host sm-mta[631]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 11:45:54 host sm-mta[631]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 11:45:54 host sm-msp-queue[634]: starting daemon (8.14.9): queueing@00:30:00
+May 26 11:50:25 host sm-mta[616]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 11:50:25 host sm-mta[617]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 11:50:25 host sm-mta[617]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 11:50:25 host sm-msp-queue[620]: starting daemon (8.14.9): queueing@00:30:00
+May 26 13:07:53 host sm-mta[641]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 13:07:53 host sm-mta[642]: starting daemon (8.14.9): SMTP+queueing@00:30:00
+May 26 13:07:53 host sm-mta[642]: STARTTLS=server: file /etc/mail/certs/dh.param unsafe: No such file or directory
+May 26 13:07:53 host sm-msp-queue[645]: starting daemon (8.14.9): queueing@00:30:00
+May 26 13:42:35 host amavis[839]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 13:42:36 host amavis[840]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 13:42:36 host amavis[840]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 13:42:36 host amavis[840]: Module Amavis::Conf        2.404
+May 26 13:42:36 host amavis[840]: Module Archive::Zip        1.46
+May 26 13:42:36 host amavis[840]: Module BerkeleyDB          0.55
+May 26 13:42:36 host amavis[840]: Module Compress::Raw::Zlib 2.065
+May 26 13:42:36 host amavis[840]: Module Compress::Zlib      2.064
+May 26 13:42:36 host amavis[840]: Module Crypt::OpenSSL::RSA 0.28
+May 26 13:42:36 host amavis[840]: Module DB_File             1.831
+May 26 13:42:36 host amavis[840]: Module Digest::MD5         2.53
+May 26 13:42:36 host amavis[840]: Module Digest::SHA         5.88
+May 26 13:42:36 host amavis[840]: Module Encode              2.60
+May 26 13:42:36 host amavis[840]: Module File::Temp          0.2304
+May 26 13:42:36 host amavis[840]: Module IO::Socket::INET6   2.72
+May 26 13:42:36 host amavis[840]: Module IO::Socket::IP      0.37
+May 26 13:42:36 host amavis[840]: Module MIME::Entity        5.506
+May 26 13:42:36 host amavis[840]: Module MIME::Parser        5.506
+May 26 13:42:36 host amavis[840]: Module MIME::Tools         5.506
+May 26 13:42:36 host amavis[840]: Module Mail::DKIM::Signer  0.4
+May 26 13:42:36 host amavis[840]: Module Mail::DKIM::Verifier 0.4
+May 26 13:42:36 host amavis[840]: Module Mail::Header        2.14
+May 26 13:42:36 host amavis[840]: Module Mail::Internet      2.14
+May 26 13:42:36 host amavis[840]: Module Mail::SpamAssassin  3.004001
+May 26 13:42:36 host amavis[840]: Module Net::DNS            0.83
+May 26 13:42:36 host amavis[840]: Module Net::LibIDN         0.12
+May 26 13:42:36 host amavis[840]: Module Net::Server         2.008
+May 26 13:42:36 host amavis[840]: Module NetAddr::IP         4.075
+May 26 13:42:36 host amavis[840]: Module Scalar::Util        1.38
+May 26 13:42:36 host amavis[840]: Module Socket              2.019
+May 26 13:42:36 host amavis[840]: Module Socket6             0.25
+May 26 13:42:36 host amavis[840]: Module Time::HiRes         1.9726
+May 26 13:42:36 host amavis[840]: Module Unix::Syslog        1.1
+May 26 13:42:36 host amavis[840]: Amavis::ZMQ code     NOT loaded
+May 26 13:42:36 host amavis[840]: Amavis::DB code      loaded
+May 26 13:42:36 host amavis[840]: SQL base code        NOT loaded
+May 26 13:42:36 host amavis[840]: SQL::Log code        NOT loaded
+May 26 13:42:36 host amavis[840]: SQL::Quarantine      NOT loaded
+May 26 13:42:36 host amavis[840]: Lookup::SQL code     NOT loaded
+May 26 13:42:36 host amavis[840]: Lookup::LDAP code    NOT loaded
+May 26 13:42:36 host amavis[840]: AM.PDP-in proto code loaded
+May 26 13:42:36 host amavis[840]: SMTP-in proto code   loaded
+May 26 13:42:36 host amavis[840]: Courier proto code   NOT loaded
+May 26 13:42:36 host amavis[840]: SMTP-out proto code  loaded
+May 26 13:42:36 host amavis[840]: Pipe-out proto code  NOT loaded
+May 26 13:42:36 host amavis[840]: BSMTP-out proto code NOT loaded
+May 26 13:42:36 host amavis[840]: Local-out proto code loaded
+May 26 13:42:36 host amavis[840]: OS_Fingerprint code  NOT loaded
+May 26 13:42:36 host amavis[840]: ANTI-VIRUS code      loaded
+May 26 13:42:36 host amavis[840]: ANTI-SPAM code       loaded
+May 26 13:42:36 host amavis[840]: ANTI-SPAM-EXT code   NOT loaded
+May 26 13:42:36 host amavis[840]: ANTI-SPAM-C code     NOT loaded
+May 26 13:42:36 host amavis[840]: ANTI-SPAM-SA code    loaded
+May 26 13:42:36 host amavis[840]: Unpackers code       loaded
+May 26 13:42:36 host amavis[840]: DKIM code            loaded
+May 26 13:42:36 host amavis[840]: Tools code           NOT loaded
+May 26 13:42:36 host amavis[840]: Found $file            at /usr/local/bin/file
+May 26 13:42:36 host amavis[840]: No $altermime,         not using it
+May 26 13:42:36 host amavis[840]: Internal decoder for .mail
+May 26 13:42:36 host amavis[840]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 13:42:36 host amavis[840]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 13:42:36 host amavis[840]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 13:42:36 host amavis[840]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 13:42:36 host amavis[840]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 13:42:36 host amavis[840]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 13:42:36 host amavis[840]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 13:42:36 host amavis[840]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 13:42:36 host amavis[840]: No ext program for   .lz4, tried: lz4c -d
+May 26 13:42:36 host amavis[840]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 13:42:36 host amavis[840]: Found decoder for    .cpio at /bin/pax
+May 26 13:42:36 host amavis[840]: Found decoder for    .tar  at /bin/pax
+May 26 13:42:36 host amavis[840]: Found decoder for    .deb  at /usr/bin/ar
+May 26 13:42:36 host amavis[840]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 13:42:36 host amavis[840]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 13:42:36 host amavis[840]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 13:42:36 host amavis[840]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 13:42:36 host amavis[840]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 13:42:36 host amavis[840]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 13:42:36 host amavis[840]: No ext program for   .tnef, tried: tnef
+May 26 13:42:36 host amavis[840]: Internal decoder for .tnef
+May 26 13:42:36 host amavis[840]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 13:42:36 host amavis[840]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 13:42:36 host amavis[840]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 13:42:36 host amavis[840]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 13:42:36 host amavis[840]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 13:42:36 host amavis[840]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 13:42:36 host amavis[840]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 13:42:36 host amavis[840]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 13:42:36 host amavis[840]: No decoder for       .lrz 
+May 26 13:42:36 host amavis[840]: No decoder for       .lz4 
+May 26 13:42:36 host amavis[840]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 13:42:36 host amavis[840]: Deleting db files  in /var/amavis/db
+May 26 13:42:36 host amavis[840]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 13:42:36 host amavis[840]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 13:42:36 host amavis[840]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 13:42:57 host postfix/postfix-script[847]: fatal: the Postfix mail system is not running
+May 26 13:44:28 host postfix/postfix-script[864]: error: unknown command: 'onestart'
+May 26 13:44:28 host postfix/postfix-script[865]: fatal: usage: postfix start (or stop, reload, abort, flush, check, status, set-permissions, upgrade-configuration)
+May 26 13:44:49 host postfix/postfix-script[939]: starting the Postfix mail system
+May 26 13:44:49 host postfix/master[941]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+May 26 13:47:19 host amavis[956]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 13:47:20 host amavis[958]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 13:47:20 host amavis[958]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 13:47:20 host amavis[958]: Module Amavis::Conf        2.404
+May 26 13:47:20 host amavis[958]: Module Archive::Zip        1.46
+May 26 13:47:20 host amavis[958]: Module BerkeleyDB          0.55
+May 26 13:47:20 host amavis[958]: Module Compress::Raw::Zlib 2.065
+May 26 13:47:20 host amavis[958]: Module Compress::Zlib      2.064
+May 26 13:47:20 host amavis[958]: Module Crypt::OpenSSL::RSA 0.28
+May 26 13:47:20 host amavis[958]: Module DB_File             1.831
+May 26 13:47:20 host amavis[958]: Module Digest::MD5         2.53
+May 26 13:47:20 host amavis[958]: Module Digest::SHA         5.88
+May 26 13:47:20 host amavis[958]: Module Encode              2.60
+May 26 13:47:20 host amavis[958]: Module File::Temp          0.2304
+May 26 13:47:20 host amavis[958]: Module IO::Socket::INET6   2.72
+May 26 13:47:20 host amavis[958]: Module IO::Socket::IP      0.37
+May 26 13:47:20 host amavis[958]: Module MIME::Entity        5.506
+May 26 13:47:20 host amavis[958]: Module MIME::Parser        5.506
+May 26 13:47:20 host amavis[958]: Module MIME::Tools         5.506
+May 26 13:47:20 host amavis[958]: Module Mail::DKIM::Signer  0.4
+May 26 13:47:20 host amavis[958]: Module Mail::DKIM::Verifier 0.4
+May 26 13:47:20 host amavis[958]: Module Mail::Header        2.14
+May 26 13:47:20 host amavis[958]: Module Mail::Internet      2.14
+May 26 13:47:20 host amavis[958]: Module Mail::SpamAssassin  3.004001
+May 26 13:47:20 host amavis[958]: Module Net::DNS            0.83
+May 26 13:47:20 host amavis[958]: Module Net::LibIDN         0.12
+May 26 13:47:20 host amavis[958]: Module Net::Server         2.008
+May 26 13:47:20 host amavis[958]: Module NetAddr::IP         4.075
+May 26 13:47:20 host amavis[958]: Module Scalar::Util        1.38
+May 26 13:47:20 host amavis[958]: Module Socket              2.019
+May 26 13:47:20 host amavis[958]: Module Socket6             0.25
+May 26 13:47:20 host amavis[958]: Module Time::HiRes         1.9726
+May 26 13:47:20 host amavis[958]: Module Unix::Syslog        1.1
+May 26 13:47:20 host amavis[958]: Amavis::ZMQ code     NOT loaded
+May 26 13:47:20 host amavis[958]: Amavis::DB code      loaded
+May 26 13:47:20 host amavis[958]: SQL base code        NOT loaded
+May 26 13:47:20 host amavis[958]: SQL::Log code        NOT loaded
+May 26 13:47:20 host amavis[958]: SQL::Quarantine      NOT loaded
+May 26 13:47:20 host amavis[958]: Lookup::SQL code     NOT loaded
+May 26 13:47:20 host amavis[958]: Lookup::LDAP code    NOT loaded
+May 26 13:47:20 host amavis[958]: AM.PDP-in proto code loaded
+May 26 13:47:20 host amavis[958]: SMTP-in proto code   loaded
+May 26 13:47:20 host amavis[958]: Courier proto code   NOT loaded
+May 26 13:47:20 host amavis[958]: SMTP-out proto code  loaded
+May 26 13:47:20 host amavis[958]: Pipe-out proto code  NOT loaded
+May 26 13:47:20 host amavis[958]: BSMTP-out proto code NOT loaded
+May 26 13:47:20 host amavis[958]: Local-out proto code loaded
+May 26 13:47:20 host amavis[958]: OS_Fingerprint code  NOT loaded
+May 26 13:47:20 host amavis[958]: ANTI-VIRUS code      loaded
+May 26 13:47:20 host amavis[958]: ANTI-SPAM code       loaded
+May 26 13:47:20 host amavis[958]: ANTI-SPAM-EXT code   NOT loaded
+May 26 13:47:20 host amavis[958]: ANTI-SPAM-C code     NOT loaded
+May 26 13:47:20 host amavis[958]: ANTI-SPAM-SA code    loaded
+May 26 13:47:20 host amavis[958]: Unpackers code       loaded
+May 26 13:47:20 host amavis[958]: DKIM code            loaded
+May 26 13:47:20 host amavis[958]: Tools code           NOT loaded
+May 26 13:47:20 host amavis[958]: Found $file            at /usr/local/bin/file
+May 26 13:47:20 host amavis[958]: No $altermime,         not using it
+May 26 13:47:20 host amavis[958]: Internal decoder for .mail
+May 26 13:47:20 host amavis[958]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 13:47:20 host amavis[958]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 13:47:20 host amavis[958]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 13:47:20 host amavis[958]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 13:47:20 host amavis[958]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 13:47:20 host amavis[958]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 13:47:20 host amavis[958]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 13:47:20 host amavis[958]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 13:47:20 host amavis[958]: No ext program for   .lz4, tried: lz4c -d
+May 26 13:47:20 host amavis[958]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 13:47:20 host amavis[958]: Found decoder for    .cpio at /bin/pax
+May 26 13:47:20 host amavis[958]: Found decoder for    .tar  at /bin/pax
+May 26 13:47:20 host amavis[958]: Found decoder for    .deb  at /usr/bin/ar
+May 26 13:47:20 host amavis[958]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 13:47:20 host amavis[958]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 13:47:20 host amavis[958]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 13:47:20 host amavis[958]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 13:47:20 host amavis[958]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 13:47:20 host amavis[958]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 13:47:20 host amavis[958]: No ext program for   .tnef, tried: tnef
+May 26 13:47:20 host amavis[958]: Internal decoder for .tnef
+May 26 13:47:20 host amavis[958]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 13:47:20 host amavis[958]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 13:47:20 host amavis[958]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 13:47:20 host amavis[958]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 13:47:20 host amavis[958]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 13:47:20 host amavis[958]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 13:47:20 host amavis[958]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 13:47:20 host amavis[958]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 13:47:20 host amavis[958]: No decoder for       .lrz 
+May 26 13:47:20 host amavis[958]: No decoder for       .lz4 
+May 26 13:47:20 host amavis[958]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 13:47:20 host amavis[958]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 13:47:20 host amavis[958]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 13:47:20 host amavis[958]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 13:47:20 host amavis[958]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 14:00:23 host postfix/postfix-script[1028]: refreshing the Postfix mail system
+May 26 14:00:23 host postfix/master[941]: reload -- version 2.11.5, configuration /usr/local/etc/postfix
+May 26 14:01:23 host postfix/postfix-script[1046]: stopping the Postfix mail system
+May 26 14:01:23 host postfix/master[941]: terminating on signal 15
+May 26 14:01:30 host postfix/postfix-script[1128]: starting the Postfix mail system
+May 26 14:01:30 host postfix/master[1130]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+May 26 14:07:40 host sm-mta[1138]: t4Q76gYC001138: Syntax error in parameters scanning "tp"
+May 26 14:08:39 host sm-mta[1138]: t4Q76gYC001138: from=<fon@example.com>, size=17, class=0, nrcpts=1, msgid=<201505260708.t4Q76gYC001138@host>, proto=SMTP, daemon=Daemon0, relay=localhost [127.0.0.1]
+May 26 14:09:11 host sm-mta[1136]: t4Q75iNr001136: from=GG@example.com, size=46, class=0, nrcpts=1, msgid=<201505260707.t4Q75iNr001136@host>, proto=SMTP, daemon=Daemon0, relay=localhost [127.0.0.1]
+May 26 14:09:42 host sm-mta[1142]: t4Q76gYC001138: to=<gun@example.com>, delay=00:01:27, xdelay=00:01:03, mailer=esmtp, pri=30017, relay=example.com. [93.184.216.34], dsn=4.0.0, stat=Deferred: Connection reset by example.com.
+May 26 14:14:12 host sm-mta[1144]: t4Q75iNr001136: timeout waiting for input from example.com. during client greeting
+May 26 14:14:12 host sm-mta[1144]: t4Q75iNr001136: to=FN@example.com, delay=00:06:17, xdelay=00:05:01, mailer=esmtp, pri=30046, relay=example.com. [93.184.216.34], dsn=4.0.0, stat=Deferred: Operation timed out with example.com.
+May 26 14:22:23 host sm-mta[1188]: t4Q7KqP6001188: from=TEST@example.com, size=13, class=0, nrcpts=1, msgid=<201505260721.t4Q7KqP6001188@host>, proto=SMTP, daemon=Daemon0, relay=localhost [127.0.0.1]
+May 26 14:23:27 host sm-mta[1202]: t4Q7KqP6001188: to=TEST2@example.com, delay=00:01:31, xdelay=00:01:04, mailer=esmtp, pri=30013, relay=example.com. [93.184.216.34], dsn=4.0.0, stat=Deferred: Connection reset by example.com.
+May 26 14:43:13 host sm-mta[1236]: t4Q7KqP6001188: timeout waiting for input from example.com. during client greeting
+May 26 14:43:13 host sm-mta[1236]: t4Q7KqP6001188: to=TEST2@example.com, delay=00:21:17, xdelay=00:05:19, mailer=esmtp, pri=120013, relay=example.com. [93.184.216.34], dsn=4.0.0, stat=Deferred: Operation timed out with example.com.
+May 26 14:43:13 host sm-mta[1236]: t4Q76gYC001138: to=<gun@example.com>, delay=00:34:58, xdelay=00:00:00, mailer=esmtp, pri=120017, relay=example.com., dsn=4.0.0, stat=Deferred: Operation timed out with example.com.
+May 26 14:43:13 host sm-mta[1236]: t4Q75iNr001136: to=FN@example.com, delay=00:35:18, xdelay=00:00:00, mailer=esmtp, pri=120046, relay=example.com., dsn=4.0.0, stat=Deferred: Operation timed out with example.com.
+May 26 14:49:47 host postfix/smtpd[1287]: error: open database /etc/aliases.db: No such file or directory
+May 26 14:49:47 host postfix/smtpd[1287]: connect from localhost[127.0.0.1]
+May 26 14:51:01 host spamd[1292]: config: no rules were found! Do you need to run 'sa-update'? 
+May 26 14:51:04 host postfix/smtpd[1287]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 14:51:04 host postfix/smtpd[1287]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 14:51:04 host postfix/smtpd[1287]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <FN@example.com>: Temporary lookup failure; from=<GG@example.com> to=<FN@example.com> proto=SMTP helo=<host.example.com>
+May 26 14:51:45 host spamd[1297]: config: no rules were found! Do you need to run 'sa-update'? 
+May 26 14:51:51 host postfix/smtpd[1287]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 14:51:51 host postfix/smtpd[1287]: warning: hash:/etc/aliases lookup error for "gg@example.com"
+May 26 14:51:51 host postfix/smtpd[1287]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <GG@example.com>: Temporary lookup failure; from=<GG@example.com> to=<GG@example.com> proto=SMTP helo=<host.example.com>
+May 26 14:52:23 host postfix/smtpd[1287]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 14:52:23 host postfix/smtpd[1287]: warning: hash:/etc/aliases lookup error for "gg@host.example.com"
+May 26 14:52:23 host postfix/smtpd[1287]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <GG@host.example.com>: Temporary lookup failure; from=<GG@example.com> to=<GG@host.example.com> proto=SMTP helo=<host.example.com>
+May 26 14:54:28 host postfix/smtpd[1303]: error: open database /etc/aliases.db: No such file or directory
+May 26 14:54:28 host postfix/smtpd[1303]: connect from localhost[127.0.0.1]
+May 26 14:55:26 host postfix/smtpd[1303]: warning: non-SMTP command from localhost[127.0.0.1]: from: fonyC'C'quit
+May 26 14:55:26 host postfix/smtpd[1303]: disconnect from localhost[127.0.0.1]
+May 26 14:55:34 host postfix/smtpd[1303]: connect from localhost[127.0.0.1]
+May 26 14:56:10 host postfix/smtpd[1303]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 14:56:10 host postfix/smtpd[1303]: warning: hash:/etc/aliases lookup error for "gun@example.com"
+May 26 14:56:10 host postfix/smtpd[1303]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <gun@example.com>: Temporary lookup failure; from=<fony@example.com> to=<gun@example.com> proto=SMTP helo=<example.com>
+May 26 14:57:24 host postfix/smtpd[1303]: disconnect from localhost[127.0.0.1]
+May 26 14:57:29 host sendmail[1319]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 14:57:29 host sendmail[1319]: alias database /etc/mail/aliases rebuilt by root
+May 26 14:57:29 host sendmail[1319]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 14:57:34 host postfix/smtpd[1287]: timeout after DATA from localhost[127.0.0.1]
+May 26 14:57:34 host postfix/smtpd[1287]: disconnect from localhost[127.0.0.1]
+May 26 15:04:30 host sendmail[1342]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:04:30 host sendmail[1342]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:04:30 host sendmail[1342]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:08:41 host sendmail[1350]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:08:41 host sendmail[1350]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:08:41 host sendmail[1350]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:10:40 host postfix/smtpd[1359]: error: open database /etc/aliases.db: No such file or directory
+May 26 15:10:40 host postfix/smtpd[1359]: connect from localhost[127.0.0.1]
+May 26 15:11:27 host postfix/smtpd[1359]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:11:27 host postfix/smtpd[1359]: warning: hash:/etc/aliases lookup error for "gun@example.com"
+May 26 15:11:27 host postfix/smtpd[1359]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <gun@example.com>: Temporary lookup failure; from=<fony@example.com> to=<gun@example.com> proto=SMTP helo=<example.com>
+May 26 15:12:14 host postfix/smtpd[1359]: disconnect from localhost[127.0.0.1]
+May 26 15:12:59 host sendmail[1377]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:12:59 host sendmail[1377]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:12:59 host sendmail[1377]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:13:12 host sendmail[1379]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:13:12 host sendmail[1379]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:13:12 host sendmail[1379]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:13:24 host postfix/postalias[1380]: fatal: open /etc/postfix/aliases: No such file or directory
+May 26 15:13:29 host postfix/postalias[1381]: fatal: open /etc/postfix/aliases: No such file or directory
+May 26 15:18:33 host postfix/smtpd[1409]: error: open database /etc/aliases.db: No such file or directory
+May 26 15:18:33 host postfix/smtpd[1409]: connect from localhost[127.0.0.1]
+May 26 15:19:34 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:34 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:34 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:45 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:45 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:45 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:46 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:46 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:46 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:47 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:47 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:47 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:47 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:47 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:47 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:49 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:49 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:49 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:49 host sendmail[1413]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:19:49 host sendmail[1413]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:19:49 host sendmail[1413]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:19:50 host postfix/smtpd[1409]: improper command pipelining after RCPT from localhost[127.0.0.1]: rcpt to: fn@example.com\r\nrcpt to: fn@example.com\r\nrcpt to: fn@example.com\r\nrcpt to: fn@example.com\r\n
+May 26 15:19:50 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:50 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:50 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:51 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:51 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:51 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:52 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:52 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:52 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:53 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:53 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:53 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:54 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:54 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:54 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:55 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:55 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:55 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:19:56 host postfix/smtpd[1409]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:19:56 host postfix/smtpd[1409]: warning: hash:/etc/aliases lookup error for "fn@example.com"
+May 26 15:19:56 host postfix/smtpd[1409]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fn@example.com>: Temporary lookup failure; from=<gg@example.com> to=<fn@example.com> proto=SMTP helo=<host.example.com>
+May 26 15:20:02 host postfix/smtpd[1409]: disconnect from localhost[127.0.0.1]
+May 26 15:20:17 host sendmail[1417]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:20:17 host sendmail[1417]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:20:17 host sendmail[1417]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:20:24 host sendmail[1419]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:20:24 host sendmail[1419]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:20:24 host sendmail[1419]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:20:25 host sendmail[1421]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:20:25 host sendmail[1421]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:20:25 host sendmail[1421]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:26:08 host sendmail[1446]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:26:08 host sendmail[1446]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:26:08 host sendmail[1446]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:26:14 host sendmail[1447]: gethostbyaddr(10.0.2.15) failed: 1
+May 26 15:26:14 host sendmail[1447]: alias database /etc/mail/aliases rebuilt by root
+May 26 15:26:14 host sendmail[1447]: /etc/mail/aliases: 29 aliases, longest 10 bytes, 297 bytes total
+May 26 15:27:52 host postfix/postfix-script[1457]: refreshing the Postfix mail system
+May 26 15:27:52 host postfix/master[1130]: reload -- version 2.11.5, configuration /usr/local/etc/postfix
+May 26 15:28:15 host postfix/smtpd[1464]: error: open database /etc/aliases.db: No such file or directory
+May 26 15:28:15 host postfix/smtpd[1464]: connect from localhost[127.0.0.1]
+May 26 15:28:22 host postfix/smtpd[1464]: disconnect from localhost[127.0.0.1]
+May 26 15:28:51 host postfix/smtpd[1464]: connect from localhost[127.0.0.1]
+May 26 15:30:00 host postfix/smtpd[1464]: 4F661106C3A: client=localhost[127.0.0.1]
+May 26 15:30:08 host postfix/cleanup[1470]: 4F661106C3A: message-id=<20150526083000.4F661106C3A@host.example.com>
+May 26 15:30:08 host postfix/qmgr[1461]: 4F661106C3A: from=<fony@example.com>, size=314, nrcpt=1 (queue active)
+May 26 15:30:08 host postfix/smtp[1471]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 15:30:08 host postfix/smtp[1471]: 4F661106C3A: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=20, delays=20/0.02/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 15:30:16 host postfix/smtpd[1464]: disconnect from localhost[127.0.0.1]
+May 26 15:33:28 host postfix/postfix-script[1505]: error: unknown command: ''
+May 26 15:33:28 host postfix/postfix-script[1506]: fatal: usage: postfix start (or stop, reload, abort, flush, check, status, set-permissions, upgrade-configuration)
+May 26 15:37:53 host postfix/qmgr[1461]: 4F661106C3A: from=<fony@example.com>, size=314, nrcpt=1 (queue active)
+May 26 15:37:53 host postfix/smtp[1520]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 15:37:53 host postfix/smtp[1520]: 4F661106C3A: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=485, delays=485/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 15:39:38 host postfix/smtpd[1534]: error: open database /etc/aliases.db: No such file or directory
+May 26 15:39:38 host postfix/smtpd[1534]: connect from localhost[127.0.0.1]
+May 26 15:41:26 host postfix/smtpd[1534]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 15:41:26 host postfix/smtpd[1534]: warning: hash:/etc/aliases lookup error for "quit@example.com"
+May 26 15:41:26 host postfix/smtpd[1534]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <quit>: Temporary lookup failure; from=<gun@example.com> to=<quit> proto=SMTP helo=<host.example.com>
+May 26 15:41:27 host postfix/smtpd[1534]: disconnect from localhost[127.0.0.1]
+May 26 15:41:57 host postfix/smtpd[1534]: connect from localhost[127.0.0.1]
+May 26 15:42:30 host postfix/smtpd[1534]: 9A214106503: client=localhost[127.0.0.1]
+May 26 15:42:37 host postfix/cleanup[1545]: 9A214106503: message-id=<20150526084230.9A214106503@host.example.com>
+May 26 15:42:37 host postfix/qmgr[1461]: 9A214106503: from=<test@example.com>, size=328, nrcpt=1 (queue active)
+May 26 15:42:37 host postfix/smtp[1546]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 15:42:37 host postfix/smtp[1546]: 9A214106503: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=17, delays=17/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 15:42:39 host postfix/smtpd[1534]: disconnect from localhost[127.0.0.1]
+May 26 15:47:54 host postfix/qmgr[1461]: 4F661106C3A: from=<fony@example.com>, size=314, nrcpt=1 (queue active)
+May 26 15:47:54 host postfix/qmgr[1461]: 9A214106503: from=<test@example.com>, size=328, nrcpt=1 (queue active)
+May 26 15:47:54 host postfix/smtp[1567]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 15:47:54 host postfix/smtp[1568]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 15:47:54 host postfix/smtp[1567]: 4F661106C3A: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=1086, delays=1086/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 15:47:54 host postfix/smtp[1568]: 9A214106503: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=334, delays=334/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 15:48:10 host postfix/postfix-script[1681]: stopping the Postfix mail system
+May 26 15:48:10 host postfix/master[1130]: terminating on signal 15
+May 26 15:48:59 host amavis[604]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 15:49:00 host amavis[606]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 15:49:00 host amavis[606]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 15:49:00 host amavis[606]: Module Amavis::Conf        2.404
+May 26 15:49:00 host amavis[606]: Module Archive::Zip        1.46
+May 26 15:49:00 host amavis[606]: Module BerkeleyDB          0.55
+May 26 15:49:00 host amavis[606]: Module Compress::Raw::Zlib 2.065
+May 26 15:49:00 host amavis[606]: Module Compress::Zlib      2.064
+May 26 15:49:00 host amavis[606]: Module Crypt::OpenSSL::RSA 0.28
+May 26 15:49:00 host amavis[606]: Module DB_File             1.831
+May 26 15:49:00 host amavis[606]: Module Digest::MD5         2.53
+May 26 15:49:00 host amavis[606]: Module Digest::SHA         5.88
+May 26 15:49:00 host amavis[606]: Module Encode              2.60
+May 26 15:49:00 host amavis[606]: Module File::Temp          0.2304
+May 26 15:49:00 host amavis[606]: Module IO::Socket::INET6   2.72
+May 26 15:49:00 host amavis[606]: Module IO::Socket::IP      0.37
+May 26 15:49:00 host amavis[606]: Module MIME::Entity        5.506
+May 26 15:49:00 host amavis[606]: Module MIME::Parser        5.506
+May 26 15:49:00 host amavis[606]: Module MIME::Tools         5.506
+May 26 15:49:00 host amavis[606]: Module Mail::DKIM::Signer  0.4
+May 26 15:49:00 host amavis[606]: Module Mail::DKIM::Verifier 0.4
+May 26 15:49:00 host amavis[606]: Module Mail::Header        2.14
+May 26 15:49:00 host amavis[606]: Module Mail::Internet      2.14
+May 26 15:49:00 host amavis[606]: Module Mail::SpamAssassin  3.004001
+May 26 15:49:00 host amavis[606]: Module Net::DNS            0.83
+May 26 15:49:00 host amavis[606]: Module Net::LibIDN         0.12
+May 26 15:49:00 host amavis[606]: Module Net::Server         2.008
+May 26 15:49:00 host amavis[606]: Module NetAddr::IP         4.075
+May 26 15:49:00 host amavis[606]: Module Scalar::Util        1.38
+May 26 15:49:00 host amavis[606]: Module Socket              2.019
+May 26 15:49:00 host amavis[606]: Module Socket6             0.25
+May 26 15:49:00 host amavis[606]: Module Time::HiRes         1.9726
+May 26 15:49:00 host amavis[606]: Module Unix::Syslog        1.1
+May 26 15:49:00 host amavis[606]: Amavis::ZMQ code     NOT loaded
+May 26 15:49:00 host amavis[606]: Amavis::DB code      loaded
+May 26 15:49:00 host amavis[606]: SQL base code        NOT loaded
+May 26 15:49:00 host amavis[606]: SQL::Log code        NOT loaded
+May 26 15:49:00 host amavis[606]: SQL::Quarantine      NOT loaded
+May 26 15:49:00 host amavis[606]: Lookup::SQL code     NOT loaded
+May 26 15:49:00 host amavis[606]: Lookup::LDAP code    NOT loaded
+May 26 15:49:00 host amavis[606]: AM.PDP-in proto code loaded
+May 26 15:49:00 host amavis[606]: SMTP-in proto code   loaded
+May 26 15:49:00 host amavis[606]: Courier proto code   NOT loaded
+May 26 15:49:00 host amavis[606]: SMTP-out proto code  loaded
+May 26 15:49:00 host amavis[606]: Pipe-out proto code  NOT loaded
+May 26 15:49:00 host amavis[606]: BSMTP-out proto code NOT loaded
+May 26 15:49:00 host amavis[606]: Local-out proto code loaded
+May 26 15:49:00 host amavis[606]: OS_Fingerprint code  NOT loaded
+May 26 15:49:00 host amavis[606]: ANTI-VIRUS code      loaded
+May 26 15:49:00 host amavis[606]: ANTI-SPAM code       loaded
+May 26 15:49:00 host amavis[606]: ANTI-SPAM-EXT code   NOT loaded
+May 26 15:49:00 host amavis[606]: ANTI-SPAM-C code     NOT loaded
+May 26 15:49:00 host amavis[606]: ANTI-SPAM-SA code    loaded
+May 26 15:49:00 host amavis[606]: Unpackers code       loaded
+May 26 15:49:00 host amavis[606]: DKIM code            loaded
+May 26 15:49:00 host amavis[606]: Tools code           NOT loaded
+May 26 15:49:00 host amavis[606]: Found $file            at /usr/local/bin/file
+May 26 15:49:00 host amavis[606]: No $altermime,         not using it
+May 26 15:49:00 host amavis[606]: Internal decoder for .mail
+May 26 15:49:00 host amavis[606]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 15:49:00 host amavis[606]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 15:49:00 host amavis[606]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 15:49:00 host amavis[606]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 15:49:00 host amavis[606]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 15:49:00 host amavis[606]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 15:49:00 host amavis[606]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 15:49:00 host amavis[606]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 15:49:00 host amavis[606]: No ext program for   .lz4, tried: lz4c -d
+May 26 15:49:00 host amavis[606]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 15:49:00 host amavis[606]: Found decoder for    .cpio at /bin/pax
+May 26 15:49:00 host amavis[606]: Found decoder for    .tar  at /bin/pax
+May 26 15:49:00 host amavis[606]: Found decoder for    .deb  at /usr/bin/ar
+May 26 15:49:00 host amavis[606]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 15:49:00 host amavis[606]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 15:49:00 host amavis[606]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 15:49:00 host amavis[606]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 15:49:00 host amavis[606]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 15:49:00 host amavis[606]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 15:49:00 host amavis[606]: No ext program for   .tnef, tried: tnef
+May 26 15:49:00 host amavis[606]: Internal decoder for .tnef
+May 26 15:49:00 host amavis[606]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 15:49:00 host amavis[606]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 15:49:00 host amavis[606]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 15:49:00 host amavis[606]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 15:49:00 host amavis[606]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 15:49:00 host amavis[606]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 15:49:00 host amavis[606]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 15:49:00 host amavis[606]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 15:49:00 host amavis[606]: No decoder for       .lrz 
+May 26 15:49:00 host amavis[606]: No decoder for       .lz4 
+May 26 15:49:00 host amavis[606]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 15:49:00 host amavis[606]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 15:49:00 host amavis[606]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 15:49:00 host amavis[606]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 15:49:00 host amavis[606]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 15:50:35 host postfix/postfix-script[790]: starting the Postfix mail system
+May 26 15:50:35 host postfix/master[792]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+May 26 15:51:54 host amavis[799]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 15:51:55 host amavis[801]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 15:51:55 host amavis[801]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 15:51:55 host amavis[801]: Module Amavis::Conf        2.404
+May 26 15:51:55 host amavis[801]: Module Archive::Zip        1.46
+May 26 15:51:55 host amavis[801]: Module BerkeleyDB          0.55
+May 26 15:51:55 host amavis[801]: Module Compress::Raw::Zlib 2.065
+May 26 15:51:55 host amavis[801]: Module Compress::Zlib      2.064
+May 26 15:51:55 host amavis[801]: Module Crypt::OpenSSL::RSA 0.28
+May 26 15:51:55 host amavis[801]: Module DB_File             1.831
+May 26 15:51:55 host amavis[801]: Module Digest::MD5         2.53
+May 26 15:51:55 host amavis[801]: Module Digest::SHA         5.88
+May 26 15:51:55 host amavis[801]: Module Encode              2.60
+May 26 15:51:55 host amavis[801]: Module File::Temp          0.2304
+May 26 15:51:55 host amavis[801]: Module IO::Socket::INET6   2.72
+May 26 15:51:55 host amavis[801]: Module IO::Socket::IP      0.37
+May 26 15:51:55 host amavis[801]: Module MIME::Entity        5.506
+May 26 15:51:55 host amavis[801]: Module MIME::Parser        5.506
+May 26 15:51:55 host amavis[801]: Module MIME::Tools         5.506
+May 26 15:51:55 host amavis[801]: Module Mail::DKIM::Signer  0.4
+May 26 15:51:55 host amavis[801]: Module Mail::DKIM::Verifier 0.4
+May 26 15:51:55 host amavis[801]: Module Mail::Header        2.14
+May 26 15:51:55 host amavis[801]: Module Mail::Internet      2.14
+May 26 15:51:55 host amavis[801]: Module Mail::SpamAssassin  3.004001
+May 26 15:51:55 host amavis[801]: Module Net::DNS            0.83
+May 26 15:51:55 host amavis[801]: Module Net::LibIDN         0.12
+May 26 15:51:55 host amavis[801]: Module Net::Server         2.008
+May 26 15:51:55 host amavis[801]: Module NetAddr::IP         4.075
+May 26 15:51:55 host amavis[801]: Module Scalar::Util        1.38
+May 26 15:51:55 host amavis[801]: Module Socket              2.019
+May 26 15:51:55 host amavis[801]: Module Socket6             0.25
+May 26 15:51:55 host amavis[801]: Module Time::HiRes         1.9726
+May 26 15:51:55 host amavis[801]: Module Unix::Syslog        1.1
+May 26 15:51:55 host amavis[801]: Amavis::ZMQ code     NOT loaded
+May 26 15:51:55 host amavis[801]: Amavis::DB code      loaded
+May 26 15:51:55 host amavis[801]: SQL base code        NOT loaded
+May 26 15:51:55 host amavis[801]: SQL::Log code        NOT loaded
+May 26 15:51:55 host amavis[801]: SQL::Quarantine      NOT loaded
+May 26 15:51:55 host amavis[801]: Lookup::SQL code     NOT loaded
+May 26 15:51:55 host amavis[801]: Lookup::LDAP code    NOT loaded
+May 26 15:51:55 host amavis[801]: AM.PDP-in proto code loaded
+May 26 15:51:55 host amavis[801]: SMTP-in proto code   loaded
+May 26 15:51:55 host amavis[801]: Courier proto code   NOT loaded
+May 26 15:51:55 host amavis[801]: SMTP-out proto code  loaded
+May 26 15:51:55 host amavis[801]: Pipe-out proto code  NOT loaded
+May 26 15:51:55 host amavis[801]: BSMTP-out proto code NOT loaded
+May 26 15:51:55 host amavis[801]: Local-out proto code loaded
+May 26 15:51:55 host amavis[801]: OS_Fingerprint code  NOT loaded
+May 26 15:51:55 host amavis[801]: ANTI-VIRUS code      loaded
+May 26 15:51:55 host amavis[801]: ANTI-SPAM code       loaded
+May 26 15:51:55 host amavis[801]: ANTI-SPAM-EXT code   NOT loaded
+May 26 15:51:55 host amavis[801]: ANTI-SPAM-C code     NOT loaded
+May 26 15:51:55 host amavis[801]: ANTI-SPAM-SA code    loaded
+May 26 15:51:55 host amavis[801]: Unpackers code       loaded
+May 26 15:51:55 host amavis[801]: DKIM code            loaded
+May 26 15:51:55 host amavis[801]: Tools code           NOT loaded
+May 26 15:51:55 host amavis[801]: Found $file            at /usr/local/bin/file
+May 26 15:51:55 host amavis[801]: No $altermime,         not using it
+May 26 15:51:55 host amavis[801]: Internal decoder for .mail
+May 26 15:51:55 host amavis[801]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 15:51:55 host amavis[801]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 15:51:55 host amavis[801]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 15:51:55 host amavis[801]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 15:51:55 host amavis[801]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 15:51:55 host amavis[801]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 15:51:55 host amavis[801]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 15:51:55 host amavis[801]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 15:51:55 host amavis[801]: No ext program for   .lz4, tried: lz4c -d
+May 26 15:51:55 host amavis[801]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 15:51:55 host amavis[801]: Found decoder for    .cpio at /bin/pax
+May 26 15:51:55 host amavis[801]: Found decoder for    .tar  at /bin/pax
+May 26 15:51:55 host amavis[801]: Found decoder for    .deb  at /usr/bin/ar
+May 26 15:51:55 host amavis[801]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 15:51:55 host amavis[801]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 15:51:55 host amavis[801]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 15:51:55 host amavis[801]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 15:51:55 host amavis[801]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 15:51:55 host amavis[801]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 15:51:55 host amavis[801]: No ext program for   .tnef, tried: tnef
+May 26 15:51:55 host amavis[801]: Internal decoder for .tnef
+May 26 15:51:55 host amavis[801]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 15:51:55 host amavis[801]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 15:51:55 host amavis[801]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 15:51:55 host amavis[801]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 15:51:55 host amavis[801]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 15:51:55 host amavis[801]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 15:51:55 host amavis[801]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 15:51:55 host amavis[801]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 15:51:55 host amavis[801]: No decoder for       .lrz 
+May 26 15:51:55 host amavis[801]: No decoder for       .lz4 
+May 26 15:51:55 host amavis[801]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 15:51:55 host amavis[801]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 15:51:55 host amavis[801]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 15:51:55 host amavis[801]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 15:51:55 host amavis[801]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 15:52:12 host postfix/postfix-script[909]: stopping the Postfix mail system
+May 26 15:52:12 host postfix/master[792]: terminating on signal 15
+May 26 15:52:55 host amavis[589]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 15:52:55 host amavis[591]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 15:52:55 host amavis[591]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 15:52:55 host amavis[591]: Module Amavis::Conf        2.404
+May 26 15:52:55 host amavis[591]: Module Archive::Zip        1.46
+May 26 15:52:55 host amavis[591]: Module BerkeleyDB          0.55
+May 26 15:52:55 host amavis[591]: Module Compress::Raw::Zlib 2.065
+May 26 15:52:55 host amavis[591]: Module Compress::Zlib      2.064
+May 26 15:52:55 host amavis[591]: Module Crypt::OpenSSL::RSA 0.28
+May 26 15:52:55 host amavis[591]: Module DB_File             1.831
+May 26 15:52:55 host amavis[591]: Module Digest::MD5         2.53
+May 26 15:52:55 host amavis[591]: Module Digest::SHA         5.88
+May 26 15:52:55 host amavis[591]: Module Encode              2.60
+May 26 15:52:55 host amavis[591]: Module File::Temp          0.2304
+May 26 15:52:55 host amavis[591]: Module IO::Socket::INET6   2.72
+May 26 15:52:55 host amavis[591]: Module IO::Socket::IP      0.37
+May 26 15:52:55 host amavis[591]: Module MIME::Entity        5.506
+May 26 15:52:55 host amavis[591]: Module MIME::Parser        5.506
+May 26 15:52:55 host amavis[591]: Module MIME::Tools         5.506
+May 26 15:52:55 host amavis[591]: Module Mail::DKIM::Signer  0.4
+May 26 15:52:55 host amavis[591]: Module Mail::DKIM::Verifier 0.4
+May 26 15:52:55 host amavis[591]: Module Mail::Header        2.14
+May 26 15:52:55 host amavis[591]: Module Mail::Internet      2.14
+May 26 15:52:55 host amavis[591]: Module Mail::SpamAssassin  3.004001
+May 26 15:52:55 host amavis[591]: Module Net::DNS            0.83
+May 26 15:52:55 host amavis[591]: Module Net::LibIDN         0.12
+May 26 15:52:55 host amavis[591]: Module Net::Server         2.008
+May 26 15:52:55 host amavis[591]: Module NetAddr::IP         4.075
+May 26 15:52:55 host amavis[591]: Module Scalar::Util        1.38
+May 26 15:52:55 host amavis[591]: Module Socket              2.019
+May 26 15:52:55 host amavis[591]: Module Socket6             0.25
+May 26 15:52:55 host amavis[591]: Module Time::HiRes         1.9726
+May 26 15:52:55 host amavis[591]: Module Unix::Syslog        1.1
+May 26 15:52:55 host amavis[591]: Amavis::ZMQ code     NOT loaded
+May 26 15:52:55 host amavis[591]: Amavis::DB code      loaded
+May 26 15:52:55 host amavis[591]: SQL base code        NOT loaded
+May 26 15:52:55 host amavis[591]: SQL::Log code        NOT loaded
+May 26 15:52:55 host amavis[591]: SQL::Quarantine      NOT loaded
+May 26 15:52:55 host amavis[591]: Lookup::SQL code     NOT loaded
+May 26 15:52:55 host amavis[591]: Lookup::LDAP code    NOT loaded
+May 26 15:52:55 host amavis[591]: AM.PDP-in proto code loaded
+May 26 15:52:55 host amavis[591]: SMTP-in proto code   loaded
+May 26 15:52:55 host amavis[591]: Courier proto code   NOT loaded
+May 26 15:52:55 host amavis[591]: SMTP-out proto code  loaded
+May 26 15:52:55 host amavis[591]: Pipe-out proto code  NOT loaded
+May 26 15:52:55 host amavis[591]: BSMTP-out proto code NOT loaded
+May 26 15:52:55 host amavis[591]: Local-out proto code loaded
+May 26 15:52:55 host amavis[591]: OS_Fingerprint code  NOT loaded
+May 26 15:52:55 host amavis[591]: ANTI-VIRUS code      loaded
+May 26 15:52:55 host amavis[591]: ANTI-SPAM code       loaded
+May 26 15:52:55 host amavis[591]: ANTI-SPAM-EXT code   NOT loaded
+May 26 15:52:55 host amavis[591]: ANTI-SPAM-C code     NOT loaded
+May 26 15:52:55 host amavis[591]: ANTI-SPAM-SA code    loaded
+May 26 15:52:55 host amavis[591]: Unpackers code       loaded
+May 26 15:52:55 host amavis[591]: DKIM code            loaded
+May 26 15:52:55 host amavis[591]: Tools code           NOT loaded
+May 26 15:52:55 host amavis[591]: Found $file            at /usr/local/bin/file
+May 26 15:52:55 host amavis[591]: No $altermime,         not using it
+May 26 15:52:55 host amavis[591]: Internal decoder for .mail
+May 26 15:52:55 host amavis[591]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 15:52:55 host amavis[591]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 15:52:55 host amavis[591]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 15:52:55 host amavis[591]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 15:52:55 host amavis[591]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 15:52:55 host amavis[591]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 15:52:55 host amavis[591]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 15:52:55 host amavis[591]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 15:52:55 host amavis[591]: No ext program for   .lz4, tried: lz4c -d
+May 26 15:52:55 host amavis[591]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 15:52:55 host amavis[591]: Found decoder for    .cpio at /bin/pax
+May 26 15:52:55 host amavis[591]: Found decoder for    .tar  at /bin/pax
+May 26 15:52:55 host amavis[591]: Found decoder for    .deb  at /usr/bin/ar
+May 26 15:52:55 host amavis[591]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 15:52:55 host amavis[591]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 15:52:55 host amavis[591]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 15:52:55 host amavis[591]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 15:52:55 host amavis[591]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 15:52:55 host amavis[591]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 15:52:55 host amavis[591]: No ext program for   .tnef, tried: tnef
+May 26 15:52:55 host amavis[591]: Internal decoder for .tnef
+May 26 15:52:55 host amavis[591]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 15:52:55 host amavis[591]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 15:52:55 host amavis[591]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 15:52:55 host amavis[591]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 15:52:55 host amavis[591]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 15:52:55 host amavis[591]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 15:52:55 host amavis[591]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 15:52:55 host amavis[591]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 15:52:55 host amavis[591]: No decoder for       .lrz 
+May 26 15:52:55 host amavis[591]: No decoder for       .lz4 
+May 26 15:52:55 host amavis[591]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 15:52:55 host amavis[591]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 15:52:55 host amavis[591]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 15:52:55 host amavis[591]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 15:52:55 host amavis[591]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 15:53:24 host postfix/postfix-script[668]: starting the Postfix mail system
+May 26 15:53:24 host postfix/master[670]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+May 26 15:53:24 host postfix/qmgr[673]: 9A214106503: from=<test@example.com>, size=328, nrcpt=1 (queue active)
+May 26 15:53:24 host postfix/smtp[677]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 15:53:24 host postfix/smtp[677]: 9A214106503: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=664, delays=664/0.04/0.01/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 15:53:45 host postfix/smtpd[779]: error: open database /etc/aliases.db: No such file or directory
+May 26 15:53:45 host postfix/smtpd[779]: connect from localhost[127.0.0.1]
+May 26 15:55:00 host postfix/smtpd[779]: C75D81064F5: client=localhost[127.0.0.1]
+May 26 15:55:08 host postfix/cleanup[790]: C75D81064F5: message-id=<20150526085500.C75D81064F5@host.example.com>
+May 26 15:55:08 host postfix/qmgr[673]: C75D81064F5: from=<test@example.com>, size=322, nrcpt=1 (queue active)
+May 26 15:55:08 host postfix/smtp[791]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 15:55:08 host postfix/smtp[791]: C75D81064F5: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=30, delays=30/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 15:55:11 host postfix/smtpd[779]: disconnect from localhost[127.0.0.1]
+May 26 16:38:01 host postfix/qmgr[673]: 4F661106C3A: from=<fony@example.com>, size=314, nrcpt=1 (queue active)
+May 26 16:38:01 host postfix/qmgr[673]: 9A214106503: from=<test@example.com>, size=328, nrcpt=1 (queue active)
+May 26 16:38:01 host postfix/qmgr[673]: C75D81064F5: from=<test@example.com>, size=322, nrcpt=1 (queue active)
+May 26 16:38:01 host postfix/smtp[814]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 16:38:01 host postfix/smtp[815]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 16:38:01 host postfix/smtp[814]: 4F661106C3A: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=4093, delays=4093/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:38:01 host postfix/smtp[815]: 9A214106503: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=3341, delays=3341/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:38:01 host postfix/smtp[814]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 16:38:01 host postfix/smtp[814]: C75D81064F5: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=2603, delays=2603/0.02/0.01/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:39:23 host postfix/smtpd[821]: error: open database /etc/aliases.db: No such file or directory
+May 26 16:39:23 host postfix/smtpd[821]: connect from localhost[127.0.0.1]
+May 26 16:39:40 host postfix/smtpd[824]: error: open database /etc/aliases.db: No such file or directory
+May 26 16:39:40 host postfix/smtpd[824]: connect from localhost[127.0.0.1]
+May 26 16:40:11 host postfix/smtpd[824]: warning: non-SMTP command from localhost[127.0.0.1]: from: <fony@example.com>
+May 26 16:40:11 host postfix/smtpd[824]: disconnect from localhost[127.0.0.1]
+May 26 16:40:15 host postfix/smtpd[821]: 4541B106506: client=localhost[127.0.0.1]
+May 26 16:40:20 host postfix/smtpd[824]: connect from localhost[127.0.0.1]
+May 26 16:40:26 host postfix/cleanup[828]: 4541B106506: message-id=<20150526094015.4541B106506@host.example.com>
+May 26 16:40:26 host postfix/qmgr[673]: 4541B106506: from=<gun@example.com>, size=324, nrcpt=1 (queue active)
+May 26 16:40:26 host postfix/error[830]: 4541B106506: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=31, delays=31/0.01/0/0.01, dsn=4.4.1, status=deferred (delivery temporarily suspended: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:40:29 host postfix/smtpd[821]: disconnect from localhost[127.0.0.1]
+May 26 16:40:45 host postfix/smtpd[824]: C89BA106505: client=localhost[127.0.0.1]
+May 26 16:40:57 host postfix/cleanup[828]: C89BA106505: message-id=<20150526094045.C89BA106505@host.example.com>
+May 26 16:40:57 host postfix/qmgr[673]: C89BA106505: from=<fony@example.com>, size=311, nrcpt=1 (queue active)
+May 26 16:40:57 host postfix/error[830]: C89BA106505: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=22, delays=22/0/0/0, dsn=4.4.1, status=deferred (delivery temporarily suspended: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:41:02 host postfix/smtpd[824]: disconnect from localhost[127.0.0.1]
+May 26 16:41:21 host postfix/scache[818]: statistics: start interval May 26 16:38:01
+May 26 16:41:21 host postfix/scache[818]: statistics: domain lookup hits=0 miss=1 success=0%
+May 26 16:41:21 host postfix/scache[818]: statistics: address lookup hits=0 miss=1 success=0%
+May 26 16:48:01 host postfix/qmgr[673]: 4541B106506: from=<gun@example.com>, size=324, nrcpt=1 (queue active)
+May 26 16:48:01 host postfix/qmgr[673]: C89BA106505: from=<fony@example.com>, size=311, nrcpt=1 (queue active)
+May 26 16:48:01 host postfix/smtp[850]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 16:48:01 host postfix/smtp[852]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 16:48:01 host postfix/smtp[850]: 4541B106506: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=485, delays=485/0.02/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:48:01 host postfix/smtp[852]: C89BA106505: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=446, delays=446/0.03/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:56:50 host postfix/smtpd[871]: error: open database /etc/aliases.db: No such file or directory
+May 26 16:56:50 host postfix/smtpd[871]: connect from localhost[127.0.0.1]
+May 26 16:58:01 host postfix/qmgr[673]: 4541B106506: from=<gun@example.com>, size=324, nrcpt=1 (queue active)
+May 26 16:58:01 host postfix/qmgr[673]: C89BA106505: from=<fony@example.com>, size=311, nrcpt=1 (queue active)
+May 26 16:58:01 host postfix/smtp[877]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 16:58:01 host postfix/smtp[878]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 16:58:01 host postfix/smtp[877]: 4541B106506: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=1085, delays=1085/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:58:01 host postfix/smtp[878]: C89BA106505: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=1046, delays=1046/0.02/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 16:58:07 host postfix/smtpd[871]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 16:58:07 host postfix/smtpd[871]: warning: hash:/etc/aliases lookup error for "fonny@example.com"
+May 26 16:58:07 host postfix/smtpd[871]: NOQUEUE: reject: RCPT from localhost[127.0.0.1]: 451 4.3.0 <fonny@example.com>: Temporary lookup failure; from=<gun@example.com> to=<fonny@example.com> proto=SMTP helo=<host.example.com>
+May 26 16:58:44 host postfix/smtpd[871]: A15E6106578: client=localhost[127.0.0.1]
+May 26 16:59:53 host postfix/cleanup[883]: A15E6106578: message-id=<20150526095844.A15E6106578@host.example.com>
+May 26 16:59:53 host postfix/qmgr[673]: A15E6106578: from=<gun@example.com>, size=314, nrcpt=1 (queue active)
+May 26 16:59:53 host postfix/smtp[884]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 16:59:53 host postfix/smtp[884]: A15E6106578: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=117, delays=117/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:00:09 host postfix/smtpd[871]: disconnect from localhost[127.0.0.1]
+May 26 17:03:33 host amavis[913]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 17:03:34 host amavis[915]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 17:03:34 host amavis[915]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 17:03:34 host amavis[915]: Module Amavis::Conf        2.404
+May 26 17:03:34 host amavis[915]: Module Archive::Zip        1.46
+May 26 17:03:34 host amavis[915]: Module BerkeleyDB          0.55
+May 26 17:03:34 host amavis[915]: Module Compress::Raw::Zlib 2.065
+May 26 17:03:34 host amavis[915]: Module Compress::Zlib      2.064
+May 26 17:03:34 host amavis[915]: Module Crypt::OpenSSL::RSA 0.28
+May 26 17:03:34 host amavis[915]: Module DB_File             1.831
+May 26 17:03:34 host amavis[915]: Module Digest::MD5         2.53
+May 26 17:03:34 host amavis[915]: Module Digest::SHA         5.88
+May 26 17:03:34 host amavis[915]: Module Encode              2.60
+May 26 17:03:34 host amavis[915]: Module File::Temp          0.2304
+May 26 17:03:34 host amavis[915]: Module IO::Socket::INET6   2.72
+May 26 17:03:34 host amavis[915]: Module IO::Socket::IP      0.37
+May 26 17:03:34 host amavis[915]: Module MIME::Entity        5.506
+May 26 17:03:34 host amavis[915]: Module MIME::Parser        5.506
+May 26 17:03:34 host amavis[915]: Module MIME::Tools         5.506
+May 26 17:03:34 host amavis[915]: Module Mail::DKIM::Signer  0.4
+May 26 17:03:34 host amavis[915]: Module Mail::DKIM::Verifier 0.4
+May 26 17:03:34 host amavis[915]: Module Mail::Header        2.14
+May 26 17:03:34 host amavis[915]: Module Mail::Internet      2.14
+May 26 17:03:34 host amavis[915]: Module Mail::SpamAssassin  3.004001
+May 26 17:03:34 host amavis[915]: Module Net::DNS            0.83
+May 26 17:03:34 host amavis[915]: Module Net::LibIDN         0.12
+May 26 17:03:34 host amavis[915]: Module Net::Server         2.008
+May 26 17:03:34 host amavis[915]: Module NetAddr::IP         4.075
+May 26 17:03:34 host amavis[915]: Module Scalar::Util        1.38
+May 26 17:03:34 host amavis[915]: Module Socket              2.019
+May 26 17:03:34 host amavis[915]: Module Socket6             0.25
+May 26 17:03:34 host amavis[915]: Module Time::HiRes         1.9726
+May 26 17:03:34 host amavis[915]: Module Unix::Syslog        1.1
+May 26 17:03:34 host amavis[915]: Amavis::ZMQ code     NOT loaded
+May 26 17:03:34 host amavis[915]: Amavis::DB code      loaded
+May 26 17:03:34 host amavis[915]: SQL base code        NOT loaded
+May 26 17:03:34 host amavis[915]: SQL::Log code        NOT loaded
+May 26 17:03:34 host amavis[915]: SQL::Quarantine      NOT loaded
+May 26 17:03:34 host amavis[915]: Lookup::SQL code     NOT loaded
+May 26 17:03:34 host amavis[915]: Lookup::LDAP code    NOT loaded
+May 26 17:03:34 host amavis[915]: AM.PDP-in proto code loaded
+May 26 17:03:34 host amavis[915]: SMTP-in proto code   loaded
+May 26 17:03:34 host amavis[915]: Courier proto code   NOT loaded
+May 26 17:03:34 host amavis[915]: SMTP-out proto code  loaded
+May 26 17:03:34 host amavis[915]: Pipe-out proto code  NOT loaded
+May 26 17:03:34 host amavis[915]: BSMTP-out proto code NOT loaded
+May 26 17:03:34 host amavis[915]: Local-out proto code loaded
+May 26 17:03:34 host amavis[915]: OS_Fingerprint code  NOT loaded
+May 26 17:03:34 host amavis[915]: ANTI-VIRUS code      loaded
+May 26 17:03:34 host amavis[915]: ANTI-SPAM code       loaded
+May 26 17:03:34 host amavis[915]: ANTI-SPAM-EXT code   NOT loaded
+May 26 17:03:34 host amavis[915]: ANTI-SPAM-C code     NOT loaded
+May 26 17:03:34 host amavis[915]: ANTI-SPAM-SA code    loaded
+May 26 17:03:34 host amavis[915]: Unpackers code       loaded
+May 26 17:03:34 host amavis[915]: DKIM code            loaded
+May 26 17:03:34 host amavis[915]: Tools code           NOT loaded
+May 26 17:03:34 host amavis[915]: Found $file            at /usr/local/bin/file
+May 26 17:03:34 host amavis[915]: No $altermime,         not using it
+May 26 17:03:34 host amavis[915]: Internal decoder for .mail
+May 26 17:03:34 host amavis[915]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 17:03:34 host amavis[915]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 17:03:34 host amavis[915]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 17:03:34 host amavis[915]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 17:03:34 host amavis[915]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 17:03:34 host amavis[915]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 17:03:34 host amavis[915]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 17:03:34 host amavis[915]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 17:03:34 host amavis[915]: No ext program for   .lz4, tried: lz4c -d
+May 26 17:03:34 host amavis[915]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 17:03:34 host amavis[915]: Found decoder for    .cpio at /bin/pax
+May 26 17:03:34 host amavis[915]: Found decoder for    .tar  at /bin/pax
+May 26 17:03:34 host amavis[915]: Found decoder for    .deb  at /usr/bin/ar
+May 26 17:03:34 host amavis[915]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 17:03:34 host amavis[915]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 17:03:34 host amavis[915]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 17:03:34 host amavis[915]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 17:03:34 host amavis[915]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 17:03:34 host amavis[915]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 17:03:34 host amavis[915]: No ext program for   .tnef, tried: tnef
+May 26 17:03:34 host amavis[915]: Internal decoder for .tnef
+May 26 17:03:34 host amavis[915]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 17:03:34 host amavis[915]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 17:03:34 host amavis[915]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 17:03:34 host amavis[915]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 17:03:34 host amavis[915]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 17:03:34 host amavis[915]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 17:03:34 host amavis[915]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 17:03:34 host amavis[915]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 17:03:34 host amavis[915]: No decoder for       .lrz 
+May 26 17:03:34 host amavis[915]: No decoder for       .lz4 
+May 26 17:03:34 host amavis[915]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 17:03:34 host amavis[915]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 17:03:34 host amavis[915]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 17:03:34 host amavis[915]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:03:34 host amavis[915]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:06:23 host amavis[922]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 17:06:23 host amavis[924]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 17:06:23 host amavis[924]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 17:06:23 host amavis[924]: Module Amavis::Conf        2.404
+May 26 17:06:23 host amavis[924]: Module Archive::Zip        1.46
+May 26 17:06:23 host amavis[924]: Module BerkeleyDB          0.55
+May 26 17:06:23 host amavis[924]: Module Compress::Raw::Zlib 2.065
+May 26 17:06:23 host amavis[924]: Module Compress::Zlib      2.064
+May 26 17:06:23 host amavis[924]: Module Crypt::OpenSSL::RSA 0.28
+May 26 17:06:23 host amavis[924]: Module DB_File             1.831
+May 26 17:06:23 host amavis[924]: Module Digest::MD5         2.53
+May 26 17:06:23 host amavis[924]: Module Digest::SHA         5.88
+May 26 17:06:23 host amavis[924]: Module Encode              2.60
+May 26 17:06:23 host amavis[924]: Module File::Temp          0.2304
+May 26 17:06:23 host amavis[924]: Module IO::Socket::INET6   2.72
+May 26 17:06:23 host amavis[924]: Module IO::Socket::IP      0.37
+May 26 17:06:23 host amavis[924]: Module MIME::Entity        5.506
+May 26 17:06:23 host amavis[924]: Module MIME::Parser        5.506
+May 26 17:06:23 host amavis[924]: Module MIME::Tools         5.506
+May 26 17:06:23 host amavis[924]: Module Mail::DKIM::Signer  0.4
+May 26 17:06:23 host amavis[924]: Module Mail::DKIM::Verifier 0.4
+May 26 17:06:23 host amavis[924]: Module Mail::Header        2.14
+May 26 17:06:23 host amavis[924]: Module Mail::Internet      2.14
+May 26 17:06:23 host amavis[924]: Module Mail::SpamAssassin  3.004001
+May 26 17:06:23 host amavis[924]: Module Net::DNS            0.83
+May 26 17:06:23 host amavis[924]: Module Net::LibIDN         0.12
+May 26 17:06:23 host amavis[924]: Module Net::Server         2.008
+May 26 17:06:23 host amavis[924]: Module NetAddr::IP         4.075
+May 26 17:06:23 host amavis[924]: Module Scalar::Util        1.38
+May 26 17:06:23 host amavis[924]: Module Socket              2.019
+May 26 17:06:23 host amavis[924]: Module Socket6             0.25
+May 26 17:06:23 host amavis[924]: Module Time::HiRes         1.9726
+May 26 17:06:23 host amavis[924]: Module Unix::Syslog        1.1
+May 26 17:06:23 host amavis[924]: Amavis::ZMQ code     NOT loaded
+May 26 17:06:23 host amavis[924]: Amavis::DB code      loaded
+May 26 17:06:23 host amavis[924]: SQL base code        NOT loaded
+May 26 17:06:23 host amavis[924]: SQL::Log code        NOT loaded
+May 26 17:06:23 host amavis[924]: SQL::Quarantine      NOT loaded
+May 26 17:06:23 host amavis[924]: Lookup::SQL code     NOT loaded
+May 26 17:06:23 host amavis[924]: Lookup::LDAP code    NOT loaded
+May 26 17:06:23 host amavis[924]: AM.PDP-in proto code loaded
+May 26 17:06:23 host amavis[924]: SMTP-in proto code   loaded
+May 26 17:06:23 host amavis[924]: Courier proto code   NOT loaded
+May 26 17:06:23 host amavis[924]: SMTP-out proto code  loaded
+May 26 17:06:23 host amavis[924]: Pipe-out proto code  NOT loaded
+May 26 17:06:23 host amavis[924]: BSMTP-out proto code NOT loaded
+May 26 17:06:23 host amavis[924]: Local-out proto code loaded
+May 26 17:06:23 host amavis[924]: OS_Fingerprint code  NOT loaded
+May 26 17:06:23 host amavis[924]: ANTI-VIRUS code      loaded
+May 26 17:06:23 host amavis[924]: ANTI-SPAM code       loaded
+May 26 17:06:23 host amavis[924]: ANTI-SPAM-EXT code   NOT loaded
+May 26 17:06:23 host amavis[924]: ANTI-SPAM-C code     NOT loaded
+May 26 17:06:23 host amavis[924]: ANTI-SPAM-SA code    loaded
+May 26 17:06:23 host amavis[924]: Unpackers code       loaded
+May 26 17:06:23 host amavis[924]: DKIM code            loaded
+May 26 17:06:23 host amavis[924]: Tools code           NOT loaded
+May 26 17:06:23 host amavis[924]: Found $file            at /usr/local/bin/file
+May 26 17:06:23 host amavis[924]: No $altermime,         not using it
+May 26 17:06:23 host amavis[924]: Internal decoder for .mail
+May 26 17:06:23 host amavis[924]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 17:06:23 host amavis[924]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 17:06:23 host amavis[924]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 17:06:23 host amavis[924]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 17:06:23 host amavis[924]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 17:06:23 host amavis[924]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 17:06:23 host amavis[924]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 17:06:23 host amavis[924]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 17:06:23 host amavis[924]: No ext program for   .lz4, tried: lz4c -d
+May 26 17:06:23 host amavis[924]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 17:06:23 host amavis[924]: Found decoder for    .cpio at /bin/pax
+May 26 17:06:23 host amavis[924]: Found decoder for    .tar  at /bin/pax
+May 26 17:06:23 host amavis[924]: Found decoder for    .deb  at /usr/bin/ar
+May 26 17:06:23 host amavis[924]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 17:06:23 host amavis[924]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 17:06:23 host amavis[924]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 17:06:23 host amavis[924]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 17:06:23 host amavis[924]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 17:06:23 host amavis[924]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 17:06:23 host amavis[924]: No ext program for   .tnef, tried: tnef
+May 26 17:06:23 host amavis[924]: Internal decoder for .tnef
+May 26 17:06:23 host amavis[924]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 17:06:23 host amavis[924]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 17:06:23 host amavis[924]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 17:06:23 host amavis[924]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 17:06:23 host amavis[924]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 17:06:23 host amavis[924]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 17:06:23 host amavis[924]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 17:06:23 host amavis[924]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 17:06:23 host amavis[924]: No decoder for       .lrz 
+May 26 17:06:23 host amavis[924]: No decoder for       .lz4 
+May 26 17:06:23 host amavis[924]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 17:06:23 host amavis[924]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 17:06:23 host amavis[924]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 17:06:23 host amavis[924]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:06:23 host amavis[924]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:08:01 host postfix/qmgr[673]: A15E6106578: from=<gun@example.com>, size=314, nrcpt=1 (queue active)
+May 26 17:08:01 host postfix/smtp[931]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:08:01 host postfix/smtp[931]: A15E6106578: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=606, delays=606/0.02/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:14:27 host amavis[970]: logging initialized, log level 5, syslog: amavis.mail
+May 26 17:14:27 host amavis[970]: Valid PID file (younger than sys uptime 0 0:40:41)
+May 26 17:14:27 host amavis[970]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 17:14:27 host amavis[970]: perl=5.020002, user=, EUID: 110 (110);  group=, EGID: 110 110 (110 110)
+May 26 17:14:28 host amavis[970]: INFO: no optional modules: unicore::lib::Perl::SpacePer.pl unicore::lib::Nt::De.pl Unix::Getrusage
+May 26 17:14:28 host amavis[970]: SpamControl: scanner SpamAssassin, module Amavis::SpamControl::SpamAssassin
+May 26 17:14:28 host amavis[970]: INFO: SA version: 3.4.1, 3.004001, no optional modules: Net::CIDR::Lite URI URI::Escape URI::Heuristic URI::QueryParam URI::Split URI::URL URI::WithBase URI::_foreign URI::_generic URI::_ldap URI::_login URI::_query URI::_segment URI::_server URI::_userpass URI::_idna URI::_punycode URI::data URI::ftp URI::gopher URI::http URI::https URI::ldap URI::ldapi URI::ldaps URI::mailto URI::mms URI::news URI::nntp URI::pop URI::rlogin URI::rsync URI::rtsp URI::rtspu URI::sip URI::sips URI::snews URI::ssh URI::telnet URI::tn3270 URI::urn URI::urn::oid URI::file URI::file::Base URI::file::Unix URI::file::Win32 Razor2::Client::Agent Image::Info Image::Info::GIF Image::Info::JPEG Image::Info::PNG Image::Info::BMP Image::Info::TIFF Mail::SPF Mail::SPF::Server Mail::SPF::Request Mail::SPF::Mech Mail::SPF::Mech::A Mail::SPF::Mech::PTR Mail::SPF::Mech::All Mail::SPF::Mech::Exists Mail::SPF::Mech::IP4 Mail::SPF::Mech::IP6 Mail::SPF::Mech::Include Mail::SPF::Mech::MX Mail::SPF::Mod...
+May 26 17:14:28 host amavis[970]: ... Mail::SPF::Mod::Exp Mail::SPF::Mod::Redirect Mail::SPF::SenderIPAddrMech Mail::SPF::v1::Record Mail::SPF::v2::Record
+May 26 17:14:28 host amavis[970]: SpamControl: init_pre_chroot on SpamAssassin done
+May 26 17:14:28 host amavis[970]: socket module IO::Socket::IP, protocol families available: INET, INET6
+May 26 17:14:28 host amavis[970]: bind to /var/amavis/amavisd.sock|unix, 127.0.0.1:10024/tcp, [::1]:10024/tcp
+May 26 17:14:28 host amavis[970]: _WARN: Pid_file "/var/amavis/amavisd.pid" already exists.  Overwriting!
+May 26 17:14:28 host amavis[972]: Net::Server: Process Backgrounded
+May 26 17:14:28 host amavis[972]: Net::Server: 2015/05/26-17:14:28 Amavis (type Net::Server::PreForkSimple) starting! pid(972)
+May 26 17:14:28 host amavis[972]: Net::Server: Binding to UNIX socket file "/var/amavis/amavisd.sock"
+May 26 17:14:28 host amavis[972]: Net::Server: Binding to TCP port 10024 on host 127.0.0.1 with IPv4
+May 26 17:14:28 host amavis[972]: Net::Server: Binding to TCP port 10024 on host ::1 with IPv6
+May 26 17:14:28 host amavis[972]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 17:14:28 host amavis[972]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 17:14:28 host amavis[972]: config files read: /usr/local/etc/amavisd.conf
+May 26 17:14:28 host amavis[972]: Module Amavis::Conf        2.404
+May 26 17:14:28 host amavis[972]: Module Archive::Zip        1.46
+May 26 17:14:28 host amavis[972]: Module BerkeleyDB          0.55
+May 26 17:14:28 host amavis[972]: Module Compress::Raw::Zlib 2.065
+May 26 17:14:28 host amavis[972]: Module Compress::Zlib      2.064
+May 26 17:14:28 host amavis[972]: Module Crypt::OpenSSL::RSA 0.28
+May 26 17:14:28 host amavis[972]: Module DB_File             1.831
+May 26 17:14:28 host amavis[972]: Module Digest::MD5         2.53
+May 26 17:14:28 host amavis[972]: Module Digest::SHA         5.88
+May 26 17:14:28 host amavis[972]: Module Encode              2.60
+May 26 17:14:28 host amavis[972]: Module File::Temp          0.2304
+May 26 17:14:28 host amavis[972]: Module IO::Socket::INET6   2.72
+May 26 17:14:28 host amavis[972]: Module IO::Socket::IP      0.37
+May 26 17:14:28 host amavis[972]: Module MIME::Entity        5.506
+May 26 17:14:28 host amavis[972]: Module MIME::Parser        5.506
+May 26 17:14:28 host amavis[972]: Module MIME::Tools         5.506
+May 26 17:14:28 host amavis[972]: Module Mail::DKIM::Signer  0.4
+May 26 17:14:28 host amavis[972]: Module Mail::DKIM::Verifier 0.4
+May 26 17:14:28 host amavis[972]: Module Mail::Header        2.14
+May 26 17:14:28 host amavis[972]: Module Mail::Internet      2.14
+May 26 17:14:28 host amavis[972]: Module Mail::SpamAssassin  3.004001
+May 26 17:14:28 host amavis[972]: Module Net::DNS            0.83
+May 26 17:14:28 host amavis[972]: Module Net::LibIDN         0.12
+May 26 17:14:28 host amavis[972]: Module Net::Server         2.008
+May 26 17:14:28 host amavis[972]: Module NetAddr::IP         4.075
+May 26 17:14:28 host amavis[972]: Module Scalar::Util        1.38
+May 26 17:14:28 host amavis[972]: Module Socket              2.019
+May 26 17:14:28 host amavis[972]: Module Socket6             0.25
+May 26 17:14:28 host amavis[972]: Module Time::HiRes         1.9726
+May 26 17:14:28 host amavis[972]: Module Unix::Syslog        1.1
+May 26 17:14:28 host amavis[972]: Amavis::ZMQ code     NOT loaded
+May 26 17:14:28 host amavis[972]: Amavis::DB code      loaded
+May 26 17:14:28 host amavis[972]: SQL base code        NOT loaded
+May 26 17:14:28 host amavis[972]: SQL::Log code        NOT loaded
+May 26 17:14:28 host amavis[972]: SQL::Quarantine      NOT loaded
+May 26 17:14:28 host amavis[972]: Lookup::SQL code     NOT loaded
+May 26 17:14:28 host amavis[972]: Lookup::LDAP code    NOT loaded
+May 26 17:14:28 host amavis[972]: AM.PDP-in proto code loaded
+May 26 17:14:28 host amavis[972]: SMTP-in proto code   loaded
+May 26 17:14:28 host amavis[972]: Courier proto code   NOT loaded
+May 26 17:14:28 host amavis[972]: SMTP-out proto code  loaded
+May 26 17:14:28 host amavis[972]: Pipe-out proto code  NOT loaded
+May 26 17:14:28 host amavis[972]: BSMTP-out proto code NOT loaded
+May 26 17:14:28 host amavis[972]: Local-out proto code loaded
+May 26 17:14:28 host amavis[972]: OS_Fingerprint code  NOT loaded
+May 26 17:14:28 host amavis[972]: ANTI-VIRUS code      loaded
+May 26 17:14:28 host amavis[972]: ANTI-SPAM code       loaded
+May 26 17:14:28 host amavis[972]: ANTI-SPAM-EXT code   NOT loaded
+May 26 17:14:28 host amavis[972]: ANTI-SPAM-C code     NOT loaded
+May 26 17:14:28 host amavis[972]: ANTI-SPAM-SA code    loaded
+May 26 17:14:28 host amavis[972]: Unpackers code       loaded
+May 26 17:14:28 host amavis[972]: DKIM code            loaded
+May 26 17:14:28 host amavis[972]: Tools code           NOT loaded
+May 26 17:14:28 host amavis[972]: Found $file            at /usr/local/bin/file
+May 26 17:14:28 host amavis[972]: No $altermime,         not using it
+May 26 17:14:28 host amavis[972]: Internal decoder for .mail
+May 26 17:14:28 host amavis[972]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 17:14:28 host amavis[972]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 17:14:28 host amavis[972]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 17:14:28 host amavis[972]: Internal decoder for .gz   (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 17:14:28 host amavis[972]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 17:14:28 host amavis[972]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 17:14:28 host amavis[972]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 17:14:28 host amavis[972]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 17:14:28 host amavis[972]: No ext program for   .lz4, tried: lz4c -d
+May 26 17:14:28 host amavis[972]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 17:14:28 host amavis[972]: Found decoder for    .cpio at /bin/pax
+May 26 17:14:28 host amavis[972]: Found decoder for    .tar  at /bin/pax
+May 26 17:14:28 host amavis[972]: Found decoder for    .deb  at /usr/bin/ar
+May 26 17:14:28 host amavis[972]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 17:14:28 host amavis[972]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 17:14:28 host amavis[972]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 17:14:28 host amavis[972]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 17:14:28 host amavis[972]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 17:14:28 host amavis[972]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 17:14:28 host amavis[972]: No ext program for   .tnef, tried: tnef
+May 26 17:14:28 host amavis[972]: Internal decoder for .tnef
+May 26 17:14:28 host amavis[972]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 17:14:28 host amavis[972]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 17:14:28 host amavis[972]: Internal decoder for .zip  (backup, not used)
+May 26 17:14:28 host amavis[972]: Internal decoder for .kmz  (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 17:14:28 host amavis[972]: Found decoder for    .gz   at /usr/local/bin/7za (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .bz2  at /usr/local/bin/7za (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .Z    at /usr/local/bin/7za (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .tar  at /usr/local/bin/7za (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .xz   at /usr/local/bin/7z (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .lzma at /usr/local/bin/7z (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 17:14:28 host amavis[972]: Found decoder for    .cpio at /usr/local/bin/7z (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .arj  at /usr/local/bin/7z (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .rar  at /usr/local/bin/7z (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 17:14:28 host amavis[972]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 17:14:28 host amavis[972]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 17:14:28 host amavis[972]: Found decoder for    .cab  at /usr/local/bin/7z (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .deb  at /usr/local/bin/7z (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .rpm  at /usr/local/bin/7z (backup, not used)
+May 26 17:14:28 host amavis[972]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 17:14:28 host amavis[972]: No decoder for       .lrz 
+May 26 17:14:28 host amavis[972]: No decoder for       .lz4 
+May 26 17:14:28 host amavis[972]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 17:14:28 host amavis[972]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 17:14:28 host amavis[972]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 17:14:28 host amavis[972]: initializing Mail::SpamAssassin (0)
+May 26 17:14:28 host amavis[972]: SpamAssassin debug facilities: info
+May 26 17:14:28 host amavis[972]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:14:28 host amavis[972]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:15:57 host amavis[979]: logging initialized, log level 5, syslog: amavis.mail
+May 26 17:15:57 host amavis[979]: Valid PID file (younger than sys uptime 0 0:42:11)
+May 26 17:15:57 host amavis[979]: The amavisd daemon is not running
+May 26 17:16:02 host amavis[981]: logging initialized, log level 5, syslog: amavis.mail
+May 26 17:16:02 host amavis[981]: Valid PID file (younger than sys uptime 0 0:42:16)
+May 26 17:16:02 host amavis[981]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 17:16:02 host amavis[981]: perl=5.020002, user=, EUID: 110 (110);  group=, EGID: 110 110 (110 110)
+May 26 17:16:02 host amavis[981]: INFO: no optional modules: unicore::lib::Perl::SpacePer.pl unicore::lib::Nt::De.pl Unix::Getrusage
+May 26 17:16:02 host amavis[981]: SpamControl: scanner SpamAssassin, module Amavis::SpamControl::SpamAssassin
+May 26 17:16:02 host amavis[981]: INFO: SA version: 3.4.1, 3.004001, no optional modules: Net::CIDR::Lite URI URI::Escape URI::Heuristic URI::QueryParam URI::Split URI::URL URI::WithBase URI::_foreign URI::_generic URI::_ldap URI::_login URI::_query URI::_segment URI::_server URI::_userpass URI::_idna URI::_punycode URI::data URI::ftp URI::gopher URI::http URI::https URI::ldap URI::ldapi URI::ldaps URI::mailto URI::mms URI::news URI::nntp URI::pop URI::rlogin URI::rsync URI::rtsp URI::rtspu URI::sip URI::sips URI::snews URI::ssh URI::telnet URI::tn3270 URI::urn URI::urn::oid URI::file URI::file::Base URI::file::Unix URI::file::Win32 Razor2::Client::Agent Image::Info Image::Info::GIF Image::Info::JPEG Image::Info::PNG Image::Info::BMP Image::Info::TIFF Mail::SPF Mail::SPF::Server Mail::SPF::Request Mail::SPF::Mech Mail::SPF::Mech::A Mail::SPF::Mech::PTR Mail::SPF::Mech::All Mail::SPF::Mech::Exists Mail::SPF::Mech::IP4 Mail::SPF::Mech::IP6 Mail::SPF::Mech::Include Mail::SPF::Mech::MX Mail::SPF::Mod...
+May 26 17:16:02 host amavis[981]: ... Mail::SPF::Mod::Exp Mail::SPF::Mod::Redirect Mail::SPF::SenderIPAddrMech Mail::SPF::v1::Record Mail::SPF::v2::Record
+May 26 17:16:02 host amavis[981]: SpamControl: init_pre_chroot on SpamAssassin done
+May 26 17:16:02 host amavis[981]: socket module IO::Socket::IP, protocol families available: INET, INET6
+May 26 17:16:02 host amavis[981]: bind to /var/amavis/amavisd.sock|unix, 127.0.0.1:10024/tcp, [::1]:10024/tcp
+May 26 17:16:02 host amavis[981]: _WARN: Pid_file "/var/amavis/amavisd.pid" already exists.  Overwriting!
+May 26 17:16:02 host amavis[983]: Net::Server: Process Backgrounded
+May 26 17:16:02 host amavis[983]: Net::Server: 2015/05/26-17:16:02 Amavis (type Net::Server::PreForkSimple) starting! pid(983)
+May 26 17:16:02 host amavis[983]: Net::Server: Binding to UNIX socket file "/var/amavis/amavisd.sock"
+May 26 17:16:02 host amavis[983]: Net::Server: Binding to TCP port 10024 on host 127.0.0.1 with IPv4
+May 26 17:16:02 host amavis[983]: Net::Server: Binding to TCP port 10024 on host ::1 with IPv6
+May 26 17:16:02 host amavis[983]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 17:16:02 host amavis[983]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 17:16:02 host amavis[983]: config files read: /usr/local/etc/amavisd.conf
+May 26 17:16:02 host amavis[983]: Module Amavis::Conf        2.404
+May 26 17:16:02 host amavis[983]: Module Archive::Zip        1.46
+May 26 17:16:02 host amavis[983]: Module BerkeleyDB          0.55
+May 26 17:16:02 host amavis[983]: Module Compress::Raw::Zlib 2.065
+May 26 17:16:02 host amavis[983]: Module Compress::Zlib      2.064
+May 26 17:16:02 host amavis[983]: Module Crypt::OpenSSL::RSA 0.28
+May 26 17:16:02 host amavis[983]: Module DB_File             1.831
+May 26 17:16:02 host amavis[983]: Module Digest::MD5         2.53
+May 26 17:16:02 host amavis[983]: Module Digest::SHA         5.88
+May 26 17:16:02 host amavis[983]: Module Encode              2.60
+May 26 17:16:02 host amavis[983]: Module File::Temp          0.2304
+May 26 17:16:02 host amavis[983]: Module IO::Socket::INET6   2.72
+May 26 17:16:02 host amavis[983]: Module IO::Socket::IP      0.37
+May 26 17:16:02 host amavis[983]: Module MIME::Entity        5.506
+May 26 17:16:02 host amavis[983]: Module MIME::Parser        5.506
+May 26 17:16:02 host amavis[983]: Module MIME::Tools         5.506
+May 26 17:16:02 host amavis[983]: Module Mail::DKIM::Signer  0.4
+May 26 17:16:02 host amavis[983]: Module Mail::DKIM::Verifier 0.4
+May 26 17:16:02 host amavis[983]: Module Mail::Header        2.14
+May 26 17:16:02 host amavis[983]: Module Mail::Internet      2.14
+May 26 17:16:02 host amavis[983]: Module Mail::SpamAssassin  3.004001
+May 26 17:16:02 host amavis[983]: Module Net::DNS            0.83
+May 26 17:16:02 host amavis[983]: Module Net::LibIDN         0.12
+May 26 17:16:02 host amavis[983]: Module Net::Server         2.008
+May 26 17:16:02 host amavis[983]: Module NetAddr::IP         4.075
+May 26 17:16:02 host amavis[983]: Module Scalar::Util        1.38
+May 26 17:16:02 host amavis[983]: Module Socket              2.019
+May 26 17:16:02 host amavis[983]: Module Socket6             0.25
+May 26 17:16:02 host amavis[983]: Module Time::HiRes         1.9726
+May 26 17:16:02 host amavis[983]: Module Unix::Syslog        1.1
+May 26 17:16:02 host amavis[983]: Amavis::ZMQ code     NOT loaded
+May 26 17:16:02 host amavis[983]: Amavis::DB code      loaded
+May 26 17:16:02 host amavis[983]: SQL base code        NOT loaded
+May 26 17:16:02 host amavis[983]: SQL::Log code        NOT loaded
+May 26 17:16:02 host amavis[983]: SQL::Quarantine      NOT loaded
+May 26 17:16:02 host amavis[983]: Lookup::SQL code     NOT loaded
+May 26 17:16:02 host amavis[983]: Lookup::LDAP code    NOT loaded
+May 26 17:16:02 host amavis[983]: AM.PDP-in proto code loaded
+May 26 17:16:02 host amavis[983]: SMTP-in proto code   loaded
+May 26 17:16:02 host amavis[983]: Courier proto code   NOT loaded
+May 26 17:16:02 host amavis[983]: SMTP-out proto code  loaded
+May 26 17:16:02 host amavis[983]: Pipe-out proto code  NOT loaded
+May 26 17:16:02 host amavis[983]: BSMTP-out proto code NOT loaded
+May 26 17:16:02 host amavis[983]: Local-out proto code loaded
+May 26 17:16:02 host amavis[983]: OS_Fingerprint code  NOT loaded
+May 26 17:16:02 host amavis[983]: ANTI-VIRUS code      loaded
+May 26 17:16:02 host amavis[983]: ANTI-SPAM code       loaded
+May 26 17:16:02 host amavis[983]: ANTI-SPAM-EXT code   NOT loaded
+May 26 17:16:02 host amavis[983]: ANTI-SPAM-C code     NOT loaded
+May 26 17:16:02 host amavis[983]: ANTI-SPAM-SA code    loaded
+May 26 17:16:02 host amavis[983]: Unpackers code       loaded
+May 26 17:16:02 host amavis[983]: DKIM code            loaded
+May 26 17:16:02 host amavis[983]: Tools code           NOT loaded
+May 26 17:16:02 host amavis[983]: Found $file            at /usr/local/bin/file
+May 26 17:16:02 host amavis[983]: No $altermime,         not using it
+May 26 17:16:02 host amavis[983]: Internal decoder for .mail
+May 26 17:16:02 host amavis[983]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 17:16:02 host amavis[983]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 17:16:02 host amavis[983]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 17:16:02 host amavis[983]: Internal decoder for .gz   (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 17:16:02 host amavis[983]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 17:16:02 host amavis[983]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 17:16:02 host amavis[983]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 17:16:02 host amavis[983]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 17:16:02 host amavis[983]: No ext program for   .lz4, tried: lz4c -d
+May 26 17:16:02 host amavis[983]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 17:16:02 host amavis[983]: Found decoder for    .cpio at /bin/pax
+May 26 17:16:02 host amavis[983]: Found decoder for    .tar  at /bin/pax
+May 26 17:16:02 host amavis[983]: Found decoder for    .deb  at /usr/bin/ar
+May 26 17:16:02 host amavis[983]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 17:16:02 host amavis[983]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 17:16:02 host amavis[983]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 17:16:02 host amavis[983]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 17:16:02 host amavis[983]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 17:16:02 host amavis[983]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 17:16:02 host amavis[983]: No ext program for   .tnef, tried: tnef
+May 26 17:16:02 host amavis[983]: Internal decoder for .tnef
+May 26 17:16:02 host amavis[983]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 17:16:02 host amavis[983]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 17:16:02 host amavis[983]: Internal decoder for .zip  (backup, not used)
+May 26 17:16:02 host amavis[983]: Internal decoder for .kmz  (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 17:16:02 host amavis[983]: Found decoder for    .gz   at /usr/local/bin/7za (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .bz2  at /usr/local/bin/7za (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .Z    at /usr/local/bin/7za (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .tar  at /usr/local/bin/7za (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .xz   at /usr/local/bin/7z (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .lzma at /usr/local/bin/7z (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 17:16:02 host amavis[983]: Found decoder for    .cpio at /usr/local/bin/7z (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .arj  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .rar  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 17:16:02 host amavis[983]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 17:16:02 host amavis[983]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 17:16:02 host amavis[983]: Found decoder for    .cab  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .deb  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .rpm  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:02 host amavis[983]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 17:16:02 host amavis[983]: No decoder for       .lrz 
+May 26 17:16:02 host amavis[983]: No decoder for       .lz4 
+May 26 17:16:02 host amavis[983]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 17:16:02 host amavis[983]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 17:16:02 host amavis[983]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 17:16:02 host amavis[983]: initializing Mail::SpamAssassin (0)
+May 26 17:16:02 host amavis[983]: SpamAssassin debug facilities: info
+May 26 17:16:02 host amavis[983]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:16:02 host amavis[983]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:16:04 host amavis[984]: logging initialized, log level 5, syslog: amavis.mail
+May 26 17:16:04 host amavis[984]: Valid PID file (younger than sys uptime 0 0:42:18)
+May 26 17:16:04 host amavis[984]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 17:16:04 host amavis[984]: perl=5.020002, user=, EUID: 110 (110);  group=, EGID: 110 110 (110 110)
+May 26 17:16:04 host amavis[984]: INFO: no optional modules: unicore::lib::Perl::SpacePer.pl unicore::lib::Nt::De.pl Unix::Getrusage
+May 26 17:16:04 host amavis[984]: SpamControl: scanner SpamAssassin, module Amavis::SpamControl::SpamAssassin
+May 26 17:16:05 host amavis[984]: INFO: SA version: 3.4.1, 3.004001, no optional modules: Net::CIDR::Lite URI URI::Escape URI::Heuristic URI::QueryParam URI::Split URI::URL URI::WithBase URI::_foreign URI::_generic URI::_ldap URI::_login URI::_query URI::_segment URI::_server URI::_userpass URI::_idna URI::_punycode URI::data URI::ftp URI::gopher URI::http URI::https URI::ldap URI::ldapi URI::ldaps URI::mailto URI::mms URI::news URI::nntp URI::pop URI::rlogin URI::rsync URI::rtsp URI::rtspu URI::sip URI::sips URI::snews URI::ssh URI::telnet URI::tn3270 URI::urn URI::urn::oid URI::file URI::file::Base URI::file::Unix URI::file::Win32 Razor2::Client::Agent Image::Info Image::Info::GIF Image::Info::JPEG Image::Info::PNG Image::Info::BMP Image::Info::TIFF Mail::SPF Mail::SPF::Server Mail::SPF::Request Mail::SPF::Mech Mail::SPF::Mech::A Mail::SPF::Mech::PTR Mail::SPF::Mech::All Mail::SPF::Mech::Exists Mail::SPF::Mech::IP4 Mail::SPF::Mech::IP6 Mail::SPF::Mech::Include Mail::SPF::Mech::MX Mail::SPF::Mod...
+May 26 17:16:05 host amavis[984]: ... Mail::SPF::Mod::Exp Mail::SPF::Mod::Redirect Mail::SPF::SenderIPAddrMech Mail::SPF::v1::Record Mail::SPF::v2::Record
+May 26 17:16:05 host amavis[984]: SpamControl: init_pre_chroot on SpamAssassin done
+May 26 17:16:05 host amavis[984]: socket module IO::Socket::IP, protocol families available: INET, INET6
+May 26 17:16:05 host amavis[984]: bind to /var/amavis/amavisd.sock|unix, 127.0.0.1:10024/tcp, [::1]:10024/tcp
+May 26 17:16:05 host amavis[984]: _WARN: Pid_file "/var/amavis/amavisd.pid" already exists.  Overwriting!
+May 26 17:16:05 host amavis[986]: Net::Server: Process Backgrounded
+May 26 17:16:05 host amavis[986]: Net::Server: 2015/05/26-17:16:05 Amavis (type Net::Server::PreForkSimple) starting! pid(986)
+May 26 17:16:05 host amavis[986]: Net::Server: Binding to UNIX socket file "/var/amavis/amavisd.sock"
+May 26 17:16:05 host amavis[986]: Net::Server: Binding to TCP port 10024 on host 127.0.0.1 with IPv4
+May 26 17:16:05 host amavis[986]: Net::Server: Binding to TCP port 10024 on host ::1 with IPv6
+May 26 17:16:05 host amavis[986]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 17:16:05 host amavis[986]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 17:16:05 host amavis[986]: config files read: /usr/local/etc/amavisd.conf
+May 26 17:16:05 host amavis[986]: Module Amavis::Conf        2.404
+May 26 17:16:05 host amavis[986]: Module Archive::Zip        1.46
+May 26 17:16:05 host amavis[986]: Module BerkeleyDB          0.55
+May 26 17:16:05 host amavis[986]: Module Compress::Raw::Zlib 2.065
+May 26 17:16:05 host amavis[986]: Module Compress::Zlib      2.064
+May 26 17:16:05 host amavis[986]: Module Crypt::OpenSSL::RSA 0.28
+May 26 17:16:05 host amavis[986]: Module DB_File             1.831
+May 26 17:16:05 host amavis[986]: Module Digest::MD5         2.53
+May 26 17:16:05 host amavis[986]: Module Digest::SHA         5.88
+May 26 17:16:05 host amavis[986]: Module Encode              2.60
+May 26 17:16:05 host amavis[986]: Module File::Temp          0.2304
+May 26 17:16:05 host amavis[986]: Module IO::Socket::INET6   2.72
+May 26 17:16:05 host amavis[986]: Module IO::Socket::IP      0.37
+May 26 17:16:05 host amavis[986]: Module MIME::Entity        5.506
+May 26 17:16:05 host amavis[986]: Module MIME::Parser        5.506
+May 26 17:16:05 host amavis[986]: Module MIME::Tools         5.506
+May 26 17:16:05 host amavis[986]: Module Mail::DKIM::Signer  0.4
+May 26 17:16:05 host amavis[986]: Module Mail::DKIM::Verifier 0.4
+May 26 17:16:05 host amavis[986]: Module Mail::Header        2.14
+May 26 17:16:05 host amavis[986]: Module Mail::Internet      2.14
+May 26 17:16:05 host amavis[986]: Module Mail::SpamAssassin  3.004001
+May 26 17:16:05 host amavis[986]: Module Net::DNS            0.83
+May 26 17:16:05 host amavis[986]: Module Net::LibIDN         0.12
+May 26 17:16:05 host amavis[986]: Module Net::Server         2.008
+May 26 17:16:05 host amavis[986]: Module NetAddr::IP         4.075
+May 26 17:16:05 host amavis[986]: Module Scalar::Util        1.38
+May 26 17:16:05 host amavis[986]: Module Socket              2.019
+May 26 17:16:05 host amavis[986]: Module Socket6             0.25
+May 26 17:16:05 host amavis[986]: Module Time::HiRes         1.9726
+May 26 17:16:05 host amavis[986]: Module Unix::Syslog        1.1
+May 26 17:16:05 host amavis[986]: Amavis::ZMQ code     NOT loaded
+May 26 17:16:05 host amavis[986]: Amavis::DB code      loaded
+May 26 17:16:05 host amavis[986]: SQL base code        NOT loaded
+May 26 17:16:05 host amavis[986]: SQL::Log code        NOT loaded
+May 26 17:16:05 host amavis[986]: SQL::Quarantine      NOT loaded
+May 26 17:16:05 host amavis[986]: Lookup::SQL code     NOT loaded
+May 26 17:16:05 host amavis[986]: Lookup::LDAP code    NOT loaded
+May 26 17:16:05 host amavis[986]: AM.PDP-in proto code loaded
+May 26 17:16:05 host amavis[986]: SMTP-in proto code   loaded
+May 26 17:16:05 host amavis[986]: Courier proto code   NOT loaded
+May 26 17:16:05 host amavis[986]: SMTP-out proto code  loaded
+May 26 17:16:05 host amavis[986]: Pipe-out proto code  NOT loaded
+May 26 17:16:05 host amavis[986]: BSMTP-out proto code NOT loaded
+May 26 17:16:05 host amavis[986]: Local-out proto code loaded
+May 26 17:16:05 host amavis[986]: OS_Fingerprint code  NOT loaded
+May 26 17:16:05 host amavis[986]: ANTI-VIRUS code      loaded
+May 26 17:16:05 host amavis[986]: ANTI-SPAM code       loaded
+May 26 17:16:05 host amavis[986]: ANTI-SPAM-EXT code   NOT loaded
+May 26 17:16:05 host amavis[986]: ANTI-SPAM-C code     NOT loaded
+May 26 17:16:05 host amavis[986]: ANTI-SPAM-SA code    loaded
+May 26 17:16:05 host amavis[986]: Unpackers code       loaded
+May 26 17:16:05 host amavis[986]: DKIM code            loaded
+May 26 17:16:05 host amavis[986]: Tools code           NOT loaded
+May 26 17:16:05 host amavis[986]: Found $file            at /usr/local/bin/file
+May 26 17:16:05 host amavis[986]: No $altermime,         not using it
+May 26 17:16:05 host amavis[986]: Internal decoder for .mail
+May 26 17:16:05 host amavis[986]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 17:16:05 host amavis[986]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 17:16:05 host amavis[986]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 17:16:05 host amavis[986]: Internal decoder for .gz   (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 17:16:05 host amavis[986]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 17:16:05 host amavis[986]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 17:16:05 host amavis[986]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 17:16:05 host amavis[986]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 17:16:05 host amavis[986]: No ext program for   .lz4, tried: lz4c -d
+May 26 17:16:05 host amavis[986]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 17:16:05 host amavis[986]: Found decoder for    .cpio at /bin/pax
+May 26 17:16:05 host amavis[986]: Found decoder for    .tar  at /bin/pax
+May 26 17:16:05 host amavis[986]: Found decoder for    .deb  at /usr/bin/ar
+May 26 17:16:05 host amavis[986]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 17:16:05 host amavis[986]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 17:16:05 host amavis[986]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 17:16:05 host amavis[986]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 17:16:05 host amavis[986]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 17:16:05 host amavis[986]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 17:16:05 host amavis[986]: No ext program for   .tnef, tried: tnef
+May 26 17:16:05 host amavis[986]: Internal decoder for .tnef
+May 26 17:16:05 host amavis[986]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 17:16:05 host amavis[986]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 17:16:05 host amavis[986]: Internal decoder for .zip  (backup, not used)
+May 26 17:16:05 host amavis[986]: Internal decoder for .kmz  (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 17:16:05 host amavis[986]: Found decoder for    .gz   at /usr/local/bin/7za (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .bz2  at /usr/local/bin/7za (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .Z    at /usr/local/bin/7za (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .tar  at /usr/local/bin/7za (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .xz   at /usr/local/bin/7z (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .lzma at /usr/local/bin/7z (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 17:16:05 host amavis[986]: Found decoder for    .cpio at /usr/local/bin/7z (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .arj  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .rar  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 17:16:05 host amavis[986]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 17:16:05 host amavis[986]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 17:16:05 host amavis[986]: Found decoder for    .cab  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .deb  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .rpm  at /usr/local/bin/7z (backup, not used)
+May 26 17:16:05 host amavis[986]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 17:16:05 host amavis[986]: No decoder for       .lrz 
+May 26 17:16:05 host amavis[986]: No decoder for       .lz4 
+May 26 17:16:05 host amavis[986]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 17:16:05 host amavis[986]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 17:16:05 host amavis[986]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 17:16:05 host amavis[986]: initializing Mail::SpamAssassin (0)
+May 26 17:16:05 host amavis[986]: SpamAssassin debug facilities: info
+May 26 17:16:05 host amavis[986]: (!!)TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:16:05 host amavis[986]: (!)_DIE: Suicide () TROUBLE in pre_loop_hook: config: no rules were found!  Do you need to run 'sa-update'?
+May 26 17:16:07 host amavis[987]: logging initialized, log level 5, syslog: amavis.mail
+May 26 17:16:07 host amavis[987]: Valid PID file (younger than sys uptime 0 0:42:21)
+May 26 17:16:07 host amavis[987]: The amavisd daemon is not running
+May 26 17:18:01 host postfix/qmgr[673]: 4541B106506: from=<gun@example.com>, size=324, nrcpt=1 (queue active)
+May 26 17:18:01 host postfix/qmgr[673]: C89BA106505: from=<fony@example.com>, size=311, nrcpt=1 (queue active)
+May 26 17:18:01 host postfix/qmgr[673]: A15E6106578: from=<gun@example.com>, size=314, nrcpt=1 (queue active)
+May 26 17:18:01 host postfix/smtp[991]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:18:01 host postfix/smtp[992]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:18:01 host postfix/smtp[991]: 4541B106506: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=2285, delays=2285/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:18:01 host postfix/smtp[992]: C89BA106505: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=2246, delays=2246/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:18:01 host postfix/smtp[991]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:18:01 host postfix/smtp[991]: A15E6106578: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=1205, delays=1205/0.04/0.01/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:21:21 host postfix/scache[997]: statistics: start interval May 26 17:18:01
+May 26 17:21:21 host postfix/scache[997]: statistics: domain lookup hits=0 miss=1 success=0%
+May 26 17:21:21 host postfix/scache[997]: statistics: address lookup hits=0 miss=1 success=0%
+May 26 17:23:01 host postfix/qmgr[673]: C75D81064F5: from=<test@example.com>, size=322, nrcpt=1 (queue active)
+May 26 17:23:01 host postfix/smtp[1017]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:23:01 host postfix/smtp[1017]: C75D81064F5: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=5303, delays=5303/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:32:52 host spamd[1038]: config: no rules were found! Do you need to run 'sa-update'? 
+May 26 17:38:01 host postfix/qmgr[673]: 9A214106503: from=<test@example.com>, size=328, nrcpt=1 (queue active)
+May 26 17:38:01 host postfix/qmgr[673]: A15E6106578: from=<gun@example.com>, size=314, nrcpt=1 (queue active)
+May 26 17:38:01 host postfix/smtp[1055]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:38:01 host postfix/smtp[1056]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:38:01 host postfix/smtp[1055]: 9A214106503: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=6941, delays=6941/0.01/0.01/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:38:01 host postfix/smtp[1056]: A15E6106578: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=2405, delays=2405/0.01/0.01/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:48:01 host postfix/qmgr[673]: 4F661106C3A: from=<fony@example.com>, size=314, nrcpt=1 (queue active)
+May 26 17:48:01 host postfix/smtp[1100]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:48:01 host postfix/smtp[1100]: 4F661106C3A: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=8294, delays=8294/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:48:13 host spamd[1108]: config: no rules were found! Do you need to run 'sa-update'? 
+May 26 17:58:01 host postfix/qmgr[673]: 4541B106506: from=<gun@example.com>, size=324, nrcpt=1 (queue active)
+May 26 17:58:01 host postfix/qmgr[673]: C89BA106505: from=<fony@example.com>, size=311, nrcpt=1 (queue active)
+May 26 17:58:01 host postfix/smtp[1160]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:58:01 host postfix/smtp[1161]: connect to 127.0.0.1[127.0.0.1]:10024: Connection refused
+May 26 17:58:01 host postfix/smtp[1160]: 4541B106506: to=<user1@example.com>, orig_to=<fony@example.com>, relay=none, delay=4685, delays=4685/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 17:58:01 host postfix/smtp[1161]: C89BA106505: to=<user2@example.com>, orig_to=<gun@example.com>, relay=none, delay=4646, delays=4646/0.01/0/0, dsn=4.4.1, status=deferred (connect to 127.0.0.1[127.0.0.1]:10024: Connection refused)
+May 26 18:15:40 host spamd[1244]: Can't locate Mail/SpamAssassin/CompiledRegexps/body_0.pm in @INC (you may need to install the Mail::SpamAssassin::CompiledRegexps::body_0 module) (@INC contains: /var/db/spamassassin/compiled/5.020/3.004001 /var/db/spamassassin/compiled/5.020/3.004001/auto /usr/local/lib/perl5/site_perl /usr/local/lib/perl5/site_perl/mach/5.20 /usr/local/lib/perl5/5.20/mach /usr/local/lib/perl5/5.20 /usr/local/lib/perl5/site_perl/5.20 /usr/local/lib/perl5/site_perl/5.20/mach) at (eval 1080) line 1. 
+May 26 18:15:41 host spamd[1244]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+May 26 18:15:41 host spamd[1244]: spamd: server pid: 1244 
+May 26 18:15:41 host spamd[1244]: spamd: server successfully spawned child process, pid 1246 
+May 26 18:15:41 host spamd[1244]: spamd: server successfully spawned child process, pid 1247 
+May 26 18:15:41 host spamd[1244]: prefork: child states: II 
+May 26 18:16:56 host spamd[1244]: spamd: server killed by SIGINT, shutting down 
+May 26 18:17:03 host amavis[1250]: logging initialized, log level 5, syslog: amavis.mail
+May 26 18:17:03 host amavis[1250]: Valid PID file (younger than sys uptime 0 1:43:17)
+May 26 18:17:03 host amavis[1250]: starting. /usr/local/sbin/amavisd at host.example.com amavisd-new-2.10.1 (20141025), Unicode aware
+May 26 18:17:03 host amavis[1250]: perl=5.020002, user=, EUID: 110 (110);  group=, EGID: 110 110 (110 110)
+May 26 18:17:03 host amavis[1250]: INFO: no optional modules: unicore::lib::Perl::SpacePer.pl unicore::lib::Nt::De.pl Unix::Getrusage
+May 26 18:17:03 host amavis[1250]: SpamControl: scanner SpamAssassin, module Amavis::SpamControl::SpamAssassin
+May 26 18:17:04 host amavis[1250]: INFO: SA version: 3.4.1, 3.004001, no optional modules: Net::CIDR::Lite URI URI::Escape URI::Heuristic URI::QueryParam URI::Split URI::URL URI::WithBase URI::_foreign URI::_generic URI::_ldap URI::_login URI::_query URI::_segment URI::_server URI::_userpass URI::_idna URI::_punycode URI::data URI::ftp URI::gopher URI::http URI::https URI::ldap URI::ldapi URI::ldaps URI::mailto URI::mms URI::news URI::nntp URI::pop URI::rlogin URI::rsync URI::rtsp URI::rtspu URI::sip URI::sips URI::snews URI::ssh URI::telnet URI::tn3270 URI::urn URI::urn::oid URI::file URI::file::Base URI::file::Unix URI::file::Win32 Razor2::Client::Agent Image::Info Image::Info::GIF Image::Info::JPEG Image::Info::PNG Image::Info::BMP Image::Info::TIFF Mail::SPF Mail::SPF::Server Mail::SPF::Request Mail::SPF::Mech Mail::SPF::Mech::A Mail::SPF::Mech::PTR Mail::SPF::Mech::All Mail::SPF::Mech::Exists Mail::SPF::Mech::IP4 Mail::SPF::Mech::IP6 Mail::SPF::Mech::Include Mail::SPF::Mech::MX Mail::SPF::Mod...
+May 26 18:17:04 host amavis[1250]: ... Mail::SPF::Mod::Exp Mail::SPF::Mod::Redirect Mail::SPF::SenderIPAddrMech Mail::SPF::v1::Record Mail::SPF::v2::Record
+May 26 18:17:04 host amavis[1250]: SpamControl: init_pre_chroot on SpamAssassin done
+May 26 18:17:04 host amavis[1250]: socket module IO::Socket::IP, protocol families available: INET, INET6
+May 26 18:17:04 host amavis[1250]: bind to /var/amavis/amavisd.sock|unix, 127.0.0.1:10024/tcp, [::1]:10024/tcp
+May 26 18:17:04 host amavis[1250]: _WARN: Pid_file "/var/amavis/amavisd.pid" already exists.  Overwriting!
+May 26 18:17:04 host amavis[1252]: Net::Server: Process Backgrounded
+May 26 18:17:04 host amavis[1252]: Net::Server: 2015/05/26-18:17:04 Amavis (type Net::Server::PreForkSimple) starting! pid(1252)
+May 26 18:17:04 host amavis[1252]: Net::Server: Binding to UNIX socket file "/var/amavis/amavisd.sock"
+May 26 18:17:04 host amavis[1252]: Net::Server: Binding to TCP port 10024 on host 127.0.0.1 with IPv4
+May 26 18:17:04 host amavis[1252]: Net::Server: Binding to TCP port 10024 on host ::1 with IPv6
+May 26 18:17:04 host amavis[1252]: Net::Server: Group Not Defined.  Defaulting to EGID '110 110'
+May 26 18:17:04 host amavis[1252]: Net::Server: User Not Defined.  Defaulting to EUID '110'
+May 26 18:17:04 host amavis[1252]: config files read: /usr/local/etc/amavisd.conf
+May 26 18:17:04 host amavis[1252]: Module Amavis::Conf        2.404
+May 26 18:17:04 host amavis[1252]: Module Archive::Zip        1.46
+May 26 18:17:04 host amavis[1252]: Module BerkeleyDB          0.55
+May 26 18:17:04 host amavis[1252]: Module Compress::Raw::Zlib 2.065
+May 26 18:17:04 host amavis[1252]: Module Compress::Zlib      2.064
+May 26 18:17:04 host amavis[1252]: Module Crypt::OpenSSL::RSA 0.28
+May 26 18:17:04 host amavis[1252]: Module DB_File             1.831
+May 26 18:17:04 host amavis[1252]: Module Digest::MD5         2.53
+May 26 18:17:04 host amavis[1252]: Module Digest::SHA         5.88
+May 26 18:17:04 host amavis[1252]: Module Encode              2.60
+May 26 18:17:04 host amavis[1252]: Module File::Temp          0.2304
+May 26 18:17:04 host amavis[1252]: Module IO::Socket::INET6   2.72
+May 26 18:17:04 host amavis[1252]: Module IO::Socket::IP      0.37
+May 26 18:17:04 host amavis[1252]: Module MIME::Entity        5.506
+May 26 18:17:04 host amavis[1252]: Module MIME::Parser        5.506
+May 26 18:17:04 host amavis[1252]: Module MIME::Tools         5.506
+May 26 18:17:04 host amavis[1252]: Module Mail::DKIM::Signer  0.4
+May 26 18:17:04 host amavis[1252]: Module Mail::DKIM::Verifier 0.4
+May 26 18:17:04 host amavis[1252]: Module Mail::Header        2.14
+May 26 18:17:04 host amavis[1252]: Module Mail::Internet      2.14
+May 26 18:17:04 host amavis[1252]: Module Mail::SpamAssassin  3.004001
+May 26 18:17:04 host amavis[1252]: Module Net::DNS            0.83
+May 26 18:17:04 host amavis[1252]: Module Net::LibIDN         0.12
+May 26 18:17:04 host amavis[1252]: Module Net::Server         2.008
+May 26 18:17:04 host amavis[1252]: Module NetAddr::IP         4.075
+May 26 18:17:04 host amavis[1252]: Module Scalar::Util        1.38
+May 26 18:17:04 host amavis[1252]: Module Socket              2.019
+May 26 18:17:04 host amavis[1252]: Module Socket6             0.25
+May 26 18:17:04 host amavis[1252]: Module Time::HiRes         1.9726
+May 26 18:17:04 host amavis[1252]: Module Unix::Syslog        1.1
+May 26 18:17:04 host amavis[1252]: Amavis::ZMQ code     NOT loaded
+May 26 18:17:04 host amavis[1252]: Amavis::DB code      loaded
+May 26 18:17:04 host amavis[1252]: SQL base code        NOT loaded
+May 26 18:17:04 host amavis[1252]: SQL::Log code        NOT loaded
+May 26 18:17:04 host amavis[1252]: SQL::Quarantine      NOT loaded
+May 26 18:17:04 host amavis[1252]: Lookup::SQL code     NOT loaded
+May 26 18:17:04 host amavis[1252]: Lookup::LDAP code    NOT loaded
+May 26 18:17:04 host amavis[1252]: AM.PDP-in proto code loaded
+May 26 18:17:04 host amavis[1252]: SMTP-in proto code   loaded
+May 26 18:17:04 host amavis[1252]: Courier proto code   NOT loaded
+May 26 18:17:04 host amavis[1252]: SMTP-out proto code  loaded
+May 26 18:17:04 host amavis[1252]: Pipe-out proto code  NOT loaded
+May 26 18:17:04 host amavis[1252]: BSMTP-out proto code NOT loaded
+May 26 18:17:04 host amavis[1252]: Local-out proto code loaded
+May 26 18:17:04 host amavis[1252]: OS_Fingerprint code  NOT loaded
+May 26 18:17:04 host amavis[1252]: ANTI-VIRUS code      loaded
+May 26 18:17:04 host amavis[1252]: ANTI-SPAM code       loaded
+May 26 18:17:04 host amavis[1252]: ANTI-SPAM-EXT code   NOT loaded
+May 26 18:17:04 host amavis[1252]: ANTI-SPAM-C code     NOT loaded
+May 26 18:17:04 host amavis[1252]: ANTI-SPAM-SA code    loaded
+May 26 18:17:04 host amavis[1252]: Unpackers code       loaded
+May 26 18:17:04 host amavis[1252]: DKIM code            loaded
+May 26 18:17:04 host amavis[1252]: Tools code           NOT loaded
+May 26 18:17:04 host amavis[1252]: Found $file            at /usr/local/bin/file
+May 26 18:17:04 host amavis[1252]: No $altermime,         not using it
+May 26 18:17:04 host amavis[1252]: Internal decoder for .mail
+May 26 18:17:04 host amavis[1252]: Found decoder for    .F    at /usr/local/bin/unfreeze
+May 26 18:17:04 host amavis[1252]: Found decoder for    .Z    at /usr/bin/uncompress
+May 26 18:17:04 host amavis[1252]: Found decoder for    .gz   at /usr/bin/gzip -d
+May 26 18:17:04 host amavis[1252]: Internal decoder for .gz   (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .bz2  at /usr/bin/bzip2 -d
+May 26 18:17:04 host amavis[1252]: Found decoder for    .xz   at /usr/bin/xzdec
+May 26 18:17:04 host amavis[1252]: Found decoder for    .lzma at /usr/bin/xz -dc --format=lzma
+May 26 18:17:04 host amavis[1252]: No ext program for   .lrz, tried: lrzip -q -k -d -o -, lrzcat -q -k
+May 26 18:17:04 host amavis[1252]: Found decoder for    .lzo  at /usr/local/bin/lzop -d
+May 26 18:17:04 host amavis[1252]: No ext program for   .lz4, tried: lz4c -d
+May 26 18:17:04 host amavis[1252]: Found decoder for    .rpm  at /usr/local/bin/rpm2cpio.pl
+May 26 18:17:04 host amavis[1252]: Found decoder for    .cpio at /bin/pax
+May 26 18:17:04 host amavis[1252]: Found decoder for    .tar  at /bin/pax
+May 26 18:17:04 host amavis[1252]: Found decoder for    .deb  at /usr/bin/ar
+May 26 18:17:04 host amavis[1252]: Found decoder for    .rar  at /usr/local/bin/unrar
+May 26 18:17:04 host amavis[1252]: Found decoder for    .arj  at /usr/local/bin/arj
+May 26 18:17:04 host amavis[1252]: Found decoder for    .arc  at /usr/local/bin/arc
+May 26 18:17:04 host amavis[1252]: Found decoder for    .zoo  at /usr/local/bin/zoo
+May 26 18:17:04 host amavis[1252]: Found decoder for    .doc  at /usr/local/bin/ripole
+May 26 18:17:04 host amavis[1252]: Found decoder for    .cab  at /usr/local/bin/cabextract
+May 26 18:17:04 host amavis[1252]: No ext program for   .tnef, tried: tnef
+May 26 18:17:04 host amavis[1252]: Internal decoder for .tnef
+May 26 18:17:04 host amavis[1252]: Found decoder for    .zip  at /usr/local/bin/7za
+May 26 18:17:04 host amavis[1252]: Found decoder for    .kmz  at /usr/local/bin/7za
+May 26 18:17:04 host amavis[1252]: Internal decoder for .zip  (backup, not used)
+May 26 18:17:04 host amavis[1252]: Internal decoder for .kmz  (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .7z   at /usr/local/bin/7zr
+May 26 18:17:04 host amavis[1252]: Found decoder for    .gz   at /usr/local/bin/7za (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .bz2  at /usr/local/bin/7za (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .Z    at /usr/local/bin/7za (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .tar  at /usr/local/bin/7za (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .xz   at /usr/local/bin/7z (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .lzma at /usr/local/bin/7z (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .jar  at /usr/local/bin/7z
+May 26 18:17:04 host amavis[1252]: Found decoder for    .cpio at /usr/local/bin/7z (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .arj  at /usr/local/bin/7z (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .rar  at /usr/local/bin/7z (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .swf  at /usr/local/bin/7z
+May 26 18:17:04 host amavis[1252]: Found decoder for    .lha  at /usr/local/bin/7z
+May 26 18:17:04 host amavis[1252]: Found decoder for    .iso  at /usr/local/bin/7z
+May 26 18:17:04 host amavis[1252]: Found decoder for    .cab  at /usr/local/bin/7z (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .deb  at /usr/local/bin/7z (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .rpm  at /usr/local/bin/7z (backup, not used)
+May 26 18:17:04 host amavis[1252]: Found decoder for    .exe  at /usr/local/bin/unrar; /usr/local/bin/lha; /usr/local/bin/arj
+May 26 18:17:04 host amavis[1252]: No decoder for       .lrz 
+May 26 18:17:04 host amavis[1252]: No decoder for       .lz4 
+May 26 18:17:04 host amavis[1252]: Found secondary av scanner ClamAV-clamscan at /usr/local/bin/clamscan
+May 26 18:17:04 host amavis[1252]: Deleting db files __db.001,__db.002,__db.003,snmp.db,nanny.db in /var/amavis/db
+May 26 18:17:04 host amavis[1252]: Creating db in /var/amavis/db/; BerkeleyDB 0.55, libdb 5.3
+May 26 18:17:04 host amavis[1252]: initializing Mail::SpamAssassin (0)
+May 26 18:17:04 host amavis[1252]: SpamAssassin debug facilities: info
+May 26 18:17:05 host amavis[1252]: SpamAssassin loaded plugins: AskDNS, AutoLearnThreshold, Bayes, BodyEval, Check, DNSEval, FreeMail, HTMLEval, HTTPSMismatch, Hashcash, HeaderEval, ImageInfo, MIMEEval, MIMEHeader, RelayEval, ReplaceTags, Rule2XSBody, SpamCop, URIDNSBL, URIDetail, URIEval, VBounce, WLBLEval, WhiteListSubject
+May 26 18:17:05 host amavis[1252]: SpamControl: init_pre_fork on SpamAssassin done
+May 26 18:17:05 host amavis[1252]: extra modules loaded after daemonizing/chrooting: Mail/SpamAssassin/Plugin/FreeMail.pm, Mail/SpamAssassin/Plugin/SpamCop.pm, Net/Cmd.pm, Net/Config.pm, Net/SMTP.pm
+May 26 18:17:29 host postfix/smtpd[1261]: error: open database /etc/aliases.db: No such file or directory
+May 26 18:17:29 host postfix/smtpd[1261]: connect from localhost[127.0.0.1]
+May 26 18:18:01 host postfix/qmgr[673]: A15E6106578: from=<gun@example.com>, size=314, nrcpt=1 (queue active)
+May 26 18:18:01 host amavis[1253]: (01253-01) ESMTP [127.0.0.1]:10024 /var/amavis/tmp/amavis-20150526T181801-01253-CdE5C7BG: <gun@example.com> -> <user1@example.com> SIZE=314 Received: from host.example.com ([127.0.0.1]) by host (host.example.com [127.0.0.1]) (amavisd-new, port 10024) with ESMTP for <user1@example.com>; Tue, 26 May 2015 18:18:01 +0700 (ICT)
+May 26 18:18:01 host amavis[1253]: (01253-01) Checking: MwI0yeYF2_fN [127.0.0.1] <gun@example.com> -> <user1@example.com>
+May 26 18:18:01 host amavis[1253]: (01253-01) p001 1 Content-Type: text/plain, size: 6 B, name: 
+May 26 18:18:01 host amavis[1253]: (01253-01) (!)WARN: all primary virus scanners failed, considering backups
+May 26 18:18:11 host postfix/smtpd[1261]: E701C10662E: client=localhost[127.0.0.1]
+May 26 18:18:20 host postfix/cleanup[1270]: E701C10662E: message-id=<20150526111811.E701C10662E@host.example.com>
+May 26 18:18:20 host postfix/qmgr[673]: E701C10662E: from=<gun@example.com>, size=320, nrcpt=1 (queue active)
+May 26 18:18:20 host amavis[1254]: (01254-01) ESMTP [127.0.0.1]:10024 /var/amavis/tmp/amavis-20150526T181820-01254-8E38IjDz: <gun@example.com> -> <user1@example.com> SIZE=320 Received: from host.example.com ([127.0.0.1]) by host (host.example.com [127.0.0.1]) (amavisd-new, port 10024) with ESMTP for <user1@example.com>; Tue, 26 May 2015 18:18:20 +0700 (ICT)
+May 26 18:18:20 host amavis[1254]: (01254-01) Checking: X7tEHBe5OZxS [127.0.0.1] <gun@example.com> -> <user1@example.com>
+May 26 18:18:20 host amavis[1254]: (01254-01) p001 1 Content-Type: text/plain, size: 12 B, name: 
+May 26 18:18:20 host amavis[1254]: (01254-01) (!)WARN: all primary virus scanners failed, considering backups
+May 26 18:18:22 host postfix/smtpd[1274]: connect from localhost[127.0.0.1]
+May 26 18:18:22 host postfix/smtpd[1274]: 56209106C3F: client=localhost[127.0.0.1]
+May 26 18:18:22 host postfix/cleanup[1270]: 56209106C3F: message-id=<20150526095844.A15E6106578@host.example.com>
+May 26 18:18:22 host postfix/qmgr[673]: 56209106C3F: from=<gun@example.com>, size=735, nrcpt=1 (queue active)
+May 26 18:18:22 host amavis[1253]: (01253-01) MwI0yeYF2_fN FWD from <gun@example.com> -> <user1@example.com>, BODY=7BIT 250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 56209106C3F
+May 26 18:18:22 host postfix/local[1275]: error: open database /etc/aliases.db: No such file or directory
+May 26 18:18:22 host postfix/local[1275]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 18:18:22 host postfix/local[1275]: warning: hash:/etc/aliases: lookup of 'user1' failed
+May 26 18:18:22 host postfix/local[1275]: 56209106C3F: to=<user1@example.com>, relay=local, delay=0.07, delays=0.01/0.03/0/0.03, dsn=4.3.0, status=deferred (alias database unavailable)
+May 26 18:18:22 host amavis[1253]: (01253-01) Passed CLEAN {RelayedInbound}, [127.0.0.1] <gun@example.com> -> <user1@example.com>, Message-ID: <20150526095844.A15E6106578@host.example.com>, mail_id: MwI0yeYF2_fN, Hits: 1.974, size: 314, queued_as: 56209106C3F, 21422 ms
+May 26 18:18:22 host amavis[1253]: (01253-01) TIMING-SA total 1451 ms - parse: 20 (1.4%), extract_message_metadata: 50 (3.5%), get_uri_detail_list: 1.01 (0.1%), tests_pri_-1000: 10 (0.7%), tests_pri_-950: 8 (0.5%), tests_pri_-900: 1.36 (0.1%), tests_pri_-400: 1.17 (0.1%), tests_pri_0: 93 (6.4%), tests_pri_500: 181 (12.5%), poll_dns_idle: 136 (9.3%), get_report: 0.39 (0.0%)
+May 26 18:18:22 host postfix/smtp[1265]: A15E6106578: to=<user1@example.com>, orig_to=<fony@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=4826, delays=4805/0.04/0.01/21, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 56209106C3F)
+May 26 18:18:22 host postfix/qmgr[673]: A15E6106578: removed
+May 26 18:18:22 host amavis[1253]: (01253-01) size: 314, TIMING [total 21438 ms] - SMTP greeting: 8 (0%)0, SMTP EHLO: 2.1 (0%)0, SMTP pre-MAIL: 0.7 (0%)0, mkdir tempdir: 1.1 (0%)0, create email.txt: 0.5 (0%)0, SMTP pre-DATA-flush: 5 (0%)0, SMTP DATA: 94 (0%)1, check_init: 0.9 (0%)1, digest_hdr: 4.6 (0%)1, digest_body_dkim: 1.0 (0%)1, collect_info: 2.2 (0%)1, mkdir parts: 3.0 (0%)1, mime_decode: 7 (0%)1, get-file-type1: 89 (0%)1, parts_decode: 0.2 (0%)1, check_header: 0.7 (0%)1, AV-scan-1: 19272 (90%)91, spam-wb-list: 21 (0%)91, SA msg read: 63 (0%)91, SA parse: 49 (0%)92, SA check: 1176 (5%)97, decide_mail_destiny: 284 (1%)98, notif-quar: 8 (0%)98, fwd-connect: 168 (1%)99, fwd-mail-pip: 24 (0%)99, fwd-rcpt-pip: 3.6 (0%)99, fwd-data-chkpnt: 0.1 (0%)99, write-header: 4.4 (0%)99, fwd-data-contents: 0.1 (0%)99, fwd-end-chkpnt: 9 (0%)99, prepare-dsn: 55 (0%)100, report: 32 (0%)100, main_log_entry: 34 (0%)100, update_snmp: 9 (0%)100, SMTP pre-response: 0.7 (0%)100, SMTP response: 0.8 (0%)100, unlink-2-f...
+May 26 18:18:22 host amavis[1253]: (01253-01) ...iles: 3.7 (0%)100, rundown: 1.4 (0%)100
+May 26 18:18:22 host postfix/smtpd[1261]: disconnect from localhost[127.0.0.1]
+May 26 18:18:36 host postfix/smtpd[1278]: connect from localhost[127.0.0.1]
+May 26 18:18:36 host postfix/smtpd[1278]: 9BAB3106C42: client=localhost[127.0.0.1]
+May 26 18:18:36 host postfix/cleanup[1270]: 9BAB3106C42: message-id=<20150526111811.E701C10662E@host.example.com>
+May 26 18:18:36 host postfix/qmgr[673]: 9BAB3106C42: from=<gun@example.com>, size=741, nrcpt=1 (queue active)
+May 26 18:18:36 host amavis[1254]: (01254-01) X7tEHBe5OZxS FWD from <gun@example.com> -> <user1@example.com>, BODY=7BIT 250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 9BAB3106C42
+May 26 18:18:36 host postfix/local[1275]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 18:18:36 host postfix/local[1275]: warning: hash:/etc/aliases: lookup of 'user1' failed
+May 26 18:18:36 host postfix/local[1275]: 9BAB3106C42: to=<user1@example.com>, relay=local, delay=0.04, delays=0.03/0.01/0/0.01, dsn=4.3.0, status=deferred (alias database unavailable)
+May 26 18:18:36 host amavis[1254]: (01254-01) Passed CLEAN {RelayedInbound}, [127.0.0.1] <gun@example.com> -> <user1@example.com>, Message-ID: <20150526111811.E701C10662E@host.example.com>, mail_id: X7tEHBe5OZxS, Hits: 1.974, size: 320, queued_as: 9BAB3106C42, 16445 ms
+May 26 18:18:36 host amavis[1254]: (01254-01) TIMING-SA total 213 ms - parse: 6 (3.0%), extract_message_metadata: 12 (5.5%), get_uri_detail_list: 0.19 (0.1%), tests_pri_-1000: 16 (7.3%), tests_pri_-950: 3.4 (1.6%), tests_pri_-900: 1.33 (0.6%), tests_pri_-400: 1.17 (0.5%), tests_pri_0: 107 (50.4%), tests_pri_500: 19 (8.7%), get_report: 0.71 (0.3%)
+May 26 18:18:36 host amavis[1254]: (01254-01) size: 320, TIMING [total 16459 ms] - SMTP greeting: 215 (1%)1, SMTP EHLO: 6 (0%)1, SMTP pre-MAIL: 2.4 (0%)1, mkdir tempdir: 6 (0%)1, create email.txt: 0.8 (0%)1, SMTP pre-DATA-flush: 17 (0%)1, SMTP DATA: 87 (1%)2, check_init: 2.1 (0%)2, digest_hdr: 11 (0%)2, digest_body_dkim: 1.7 (0%)2, collect_info: 5 (0%)2, mkdir parts: 6 (0%)2, mime_decode: 44 (0%)2, get-file-type1: 74 (0%)3, parts_decode: 0.7 (0%)3, check_header: 1.2 (0%)3, AV-scan-1: 15593 (95%)98, spam-wb-list: 7 (0%)98, SA msg read: 10 (0%)98, SA parse: 11 (0%)98, SA check: 195 (1%)99, decide_mail_destiny: 15 (0%)99, notif-quar: 1.1 (0%)99, fwd-connect: 64 (0%)99, fwd-mail-pip: 27 (0%)100, fwd-rcpt-pip: 0.4 (0%)100, fwd-data-chkpnt: 0.1 (0%)100, write-header: 1.3 (0%)100, fwd-data-contents: 0.1 (0%)100, fwd-end-chkpnt: 9 (0%)100, prepare-dsn: 12 (0%)100, report: 8 (0%)100, main_log_entry: 13 (0%)100, update_snmp: 6 (0%)100, SMTP pre-response: 0.5 (0%)100, SMTP response: 3.0 (0%)100, unlink-2-fil...
+May 26 18:18:36 host amavis[1254]: (01254-01) ...es: 2.5 (0%)100, rundown: 1.9 (0%)100
+May 26 18:18:36 host postfix/smtp[1271]: E701C10662E: to=<user1@example.com>, orig_to=<fony@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=39, delays=22/0.11/0.3/16, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 9BAB3106C42)
+May 26 18:18:36 host postfix/qmgr[673]: E701C10662E: removed
+May 26 18:23:22 host postfix/smtpd[1274]: timeout after END-OF-MESSAGE from localhost[127.0.0.1]
+May 26 18:23:22 host postfix/smtpd[1274]: disconnect from localhost[127.0.0.1]
+May 26 18:23:36 host postfix/smtpd[1278]: timeout after END-OF-MESSAGE from localhost[127.0.0.1]
+May 26 18:23:36 host postfix/smtpd[1278]: disconnect from localhost[127.0.0.1]
+May 26 18:28:01 host postfix/qmgr[673]: 9BAB3106C42: from=<gun@example.com>, size=741, nrcpt=1 (queue active)
+May 26 18:28:01 host postfix/qmgr[673]: 56209106C3F: from=<gun@example.com>, size=735, nrcpt=1 (queue active)
+May 26 18:28:01 host postfix/local[1326]: error: open database /etc/aliases.db: No such file or directory
+May 26 18:28:01 host postfix/local[1326]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 18:28:01 host postfix/local[1326]: warning: hash:/etc/aliases: lookup of 'user1' failed
+May 26 18:28:01 host postfix/local[1327]: error: open database /etc/aliases.db: No such file or directory
+May 26 18:28:01 host postfix/local[1327]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 18:28:01 host postfix/local[1327]: warning: hash:/etc/aliases: lookup of 'user1' failed
+May 26 18:28:01 host postfix/local[1326]: 9BAB3106C42: to=<user1@example.com>, relay=local, delay=565, delays=565/0.02/0/0.02, dsn=4.3.0, status=deferred (alias database unavailable)
+May 26 18:28:01 host postfix/local[1327]: 56209106C3F: to=<user1@example.com>, relay=local, delay=580, delays=580/0.01/0/0.02, dsn=4.3.0, status=deferred (alias database unavailable)
+May 26 18:33:01 host postfix/qmgr[673]: C75D81064F5: from=<test@example.com>, size=322, nrcpt=1 (queue active)
+May 26 18:33:01 host amavis[1253]: (01253-02) ESMTP [127.0.0.1]:10024 /var/amavis/tmp/amavis-20150526T181801-01253-CdE5C7BG: <test@example.com> -> <user1@example.com> SIZE=322 Received: from host.example.com ([127.0.0.1]) by host (host.example.com [127.0.0.1]) (amavisd-new, port 10024) with ESMTP for <user1@example.com>; Tue, 26 May 2015 18:33:01 +0700 (ICT)
+May 26 18:33:01 host amavis[1253]: (01253-02) Checking: HsoMRIMLJ28H [127.0.0.1] <test@example.com> -> <user1@example.com>
+May 26 18:33:01 host amavis[1253]: (01253-02) p001 1 Content-Type: text/plain, size: 13 B, name: 
+May 26 18:33:01 host amavis[1253]: (01253-02) (!)WARN: all primary virus scanners failed, considering backups
+May 26 18:33:21 host postfix/smtpd[1354]: connect from localhost[127.0.0.1]
+May 26 18:33:21 host postfix/smtpd[1354]: 978BA10686F: client=localhost[127.0.0.1]
+May 26 18:33:21 host postfix/cleanup[1356]: 978BA10686F: message-id=<20150526085500.C75D81064F5@host.example.com>
+May 26 18:33:21 host postfix/smtpd[1354]: disconnect from localhost[127.0.0.1]
+May 26 18:33:21 host postfix/qmgr[673]: 978BA10686F: from=<test@example.com>, size=743, nrcpt=1 (queue active)
+May 26 18:33:21 host amavis[1253]: (01253-02) HsoMRIMLJ28H FWD from <test@example.com> -> <user1@example.com>, BODY=7BIT 250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 978BA10686F
+May 26 18:33:21 host postfix/local[1357]: error: open database /etc/aliases.db: No such file or directory
+May 26 18:33:21 host postfix/local[1357]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 18:33:21 host postfix/local[1357]: warning: hash:/etc/aliases: lookup of 'user1' failed
+May 26 18:33:21 host postfix/local[1357]: 978BA10686F: to=<user1@example.com>, relay=local, delay=0.07, delays=0.04/0.02/0/0.02, dsn=4.3.0, status=deferred (alias database unavailable)
+May 26 18:33:21 host amavis[1253]: (01253-02) Passed CLEAN {RelayedInbound}, [127.0.0.1] <test@example.com> -> <user1@example.com>, Message-ID: <20150526085500.C75D81064F5@host.example.com>, mail_id: HsoMRIMLJ28H, Hits: 1.975, size: 322, queued_as: 978BA10686F, 20686 ms
+May 26 18:33:21 host amavis[1253]: (01253-02) TIMING-SA total 1242 ms - parse: 44 (3.5%), extract_message_metadata: 84 (6.8%), get_uri_detail_list: 7 (0.5%), tests_pri_-1000: 131 (10.5%), tests_pri_-950: 13 (1.1%), tests_pri_-900: 6 (0.5%), tests_pri_-400: 2.9 (0.2%), tests_pri_0: 575 (46.3%), tests_pri_500: 76 (6.1%), get_report: 2.3 (0.2%)
+May 26 18:33:21 host postfix/smtp[1351]: C75D81064F5: to=<user1@example.com>, orig_to=<fony@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=9524, delays=9503/0.01/0.05/21, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 978BA10686F)
+May 26 18:33:21 host postfix/qmgr[673]: C75D81064F5: removed
+May 26 18:33:21 host amavis[1253]: (01253-02) size: 322, TIMING [total 20731 ms] - SMTP greeting: 17 (0%)0, SMTP EHLO: 3.8 (0%)0, SMTP pre-MAIL: 0.9 (0%)0, SMTP pre-DATA-flush: 14 (0%)0, SMTP DATA: 93 (0%)1, check_init: 2.2 (0%)1, digest_hdr: 13 (0%)1, digest_body_dkim: 2.5 (0%)1, collect_info: 5 (0%)1, mime_decode: 34 (0%)1, get-file-type1: 70 (0%)1, parts_decode: 1.3 (0%)1, check_header: 1.4 (0%)1, AV-scan-1: 18646 (90%)91, spam-wb-list: 51 (0%)91, SA msg read: 23 (0%)92, SA parse: 75 (0%)92, SA check: 1171 (6%)98, decide_mail_destiny: 52 (0%)98, notif-quar: 21 (0%)98, fwd-connect: 177 (1%)99, fwd-mail-pip: 46 (0%)99, fwd-rcpt-pip: 2.3 (0%)99, fwd-data-chkpnt: 0.1 (0%)99, write-header: 4.7 (0%)99, fwd-data-contents: 0.6 (0%)99, fwd-end-chkpnt: 29 (0%)99, prepare-dsn: 44 (0%)99, report: 39 (0%)100, main_log_entry: 46 (0%)100, update_snmp: 25 (0%)100, SMTP pre-response: 0.6 (0%)100, SMTP response: 0.8 (0%)100, unlink-2-files: 11 (0%)100, rundown: 6 (0%)100
+May 26 18:38:01 host postfix/qmgr[673]: 9BAB3106C42: from=<gun@example.com>, size=741, nrcpt=1 (queue active)
+May 26 18:38:01 host postfix/local[1363]: error: open database /etc/aliases.db: No such file or directory
+May 26 18:38:01 host postfix/qmgr[673]: 56209106C3F: from=<gun@example.com>, size=735, nrcpt=1 (queue active)
+May 26 18:38:01 host postfix/local[1363]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 18:38:01 host postfix/local[1363]: warning: hash:/etc/aliases: lookup of 'user1' failed
+May 26 18:38:01 host postfix/local[1364]: error: open database /etc/aliases.db: No such file or directory
+May 26 18:38:01 host postfix/local[1364]: warning: hash:/etc/aliases is unavailable. open database /etc/aliases.db: No such file or directory
+May 26 18:38:01 host postfix/local[1364]: warning: hash:/etc/aliases: lookup of 'user1' failed
+May 26 18:38:01 host postfix/local[1363]: 9BAB3106C42: to=<user1@example.com>, relay=local, delay=1165, delays=1165/0.02/0/0.02, dsn=4.3.0, status=deferred (alias database unavailable)
+May 26 18:38:01 host postfix/local[1364]: 56209106C3F: to=<user1@example.com>, relay=local, delay=1180, delays=1180/0.01/0/0.01, dsn=4.3.0, status=deferred (alias database unavailable)
