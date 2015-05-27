@@ -2,6 +2,10 @@ cd /usr/ports/mail/postfix
 make install clean
 ln -s /usr/local/etc/postfix /etc/postfix
 
+pkg
+pkg install amavisd-new
+pkg install clamav
+
 echo '' >>/etc/rc.conf
 echo 'postfix_enable="YES"' >> /etc/rc.conf
 echo 'clamav_clamd_enable="YES"' >> /etc/rc.conf
