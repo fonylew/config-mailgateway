@@ -1,0 +1,187 @@
+May 27 15:59:52 host spamd[593]: logger: removing stderr method 
+May 27 15:59:54 host spamd[595]: Can't locate Mail/SpamAssassin/CompiledRegexps/body_0.pm in @INC (you may need to install the Mail::SpamAssassin::CompiledRegexps::body_0 module) (@INC contains: /var/db/spamassassin/compiled/5.020/3.004001 /var/db/spamassassin/compiled/5.020/3.004001/auto /usr/local/lib/perl5/site_perl /usr/local/lib/perl5/site_perl/mach/5.20 /usr/local/lib/perl5/5.20/mach /usr/local/lib/perl5/5.20 /usr/local/lib/perl5/site_perl/5.20 /usr/local/lib/perl5/site_perl/5.20/mach) at (eval 1080) line 1. 
+May 27 15:59:55 host spamd[595]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+May 27 15:59:55 host spamd[595]: spamd: server pid: 595 
+May 27 15:59:55 host spamd[595]: spamd: server successfully spawned child process, pid 597 
+May 27 15:59:55 host spamd[595]: spamd: server successfully spawned child process, pid 600 
+May 27 15:59:55 host spamd[595]: prefork: child states: II 
+May 27 16:00:32 host postfix/postfix-script[680]: warning: damaged message: corrupt/25202106C62
+May 27 16:00:32 host postfix/postfix-script[681]: starting the Postfix mail system
+May 27 16:00:32 host postfix/master[683]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+May 27 16:01:36 host postfix/smtpd[795]: connect from localhost[127.0.0.1]
+May 27 16:01:36 host postfix/smtpd[795]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: aaa@xxx.com\r\nrcpt to: test@example.com\r\ndata\r\nsubject:yyy\r\n\r\n\r\naaadd\r\n.\r\n
+May 27 16:01:36 host postfix/smtpd[795]: 97EC7106505: client=localhost[127.0.0.1]
+May 27 16:01:36 host postfix/cleanup[798]: 97EC7106505: message-id=<20150527090136.97EC7106505@host.example.com>
+May 27 16:01:36 host postfix/qmgr[686]: 97EC7106505: from=<aaa@xxx.com>, size=320, nrcpt=1 (queue active)
+May 27 16:01:37 host postfix/smtpd[795]: disconnect from localhost[127.0.0.1]
+May 27 16:01:49 host postfix/smtpd[803]: connect from localhost[127.0.0.1]
+May 27 16:01:50 host postfix/smtpd[803]: 38B0910650A: client=localhost[127.0.0.1]
+May 27 16:01:50 host postfix/cleanup[798]: 38B0910650A: message-id=<20150527090136.97EC7106505@host.example.com>
+May 27 16:01:50 host postfix/qmgr[686]: 38B0910650A: from=<aaa@xxx.com>, size=936, nrcpt=1 (queue active)
+May 27 16:01:51 host postfix/local[804]: 38B0910650A: to=<user3@example.com>, relay=local, delay=1.5, delays=0.47/0.51/0/0.55, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 16:01:51 host postfix/qmgr[686]: 38B0910650A: removed
+May 27 16:01:52 host postfix/smtp[799]: 97EC7106505: to=<user3@example.com>, orig_to=<test@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=16, delays=0.02/0.01/0.93/15, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 38B0910650A)
+May 27 16:01:52 host postfix/qmgr[686]: 97EC7106505: removed
+May 27 16:06:50 host postfix/smtpd[803]: timeout after END-OF-MESSAGE from localhost[127.0.0.1]
+May 27 16:06:50 host postfix/smtpd[803]: disconnect from localhost[127.0.0.1]
+May 27 16:08:09 host postfix/smtpd[844]: connect from localhost[127.0.0.1]
+May 27 16:08:09 host postfix/smtpd[844]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: spam@xxx.scom\r\nrcpt to: test@example.com\r\ndata\r\nsubject:heyyy\r\n\r\n\r\nhi\r\n.\r\n
+May 27 16:08:09 host postfix/smtpd[844]: 1FD9610650A: client=localhost[127.0.0.1]
+May 27 16:08:09 host postfix/cleanup[846]: 1FD9610650A: message-id=<20150527090809.1FD9610650A@host.example.com>
+May 27 16:08:09 host postfix/qmgr[686]: 1FD9610650A: from=<spam@xxx.scom>, size=321, nrcpt=1 (queue active)
+May 27 16:08:10 host postfix/smtpd[844]: disconnect from localhost[127.0.0.1]
+May 27 16:08:10 host postfix/smtpd[803]: connect from localhost[127.0.0.1]
+May 27 16:08:10 host postfix/smtpd[803]: 42561106C4A: client=localhost[127.0.0.1]
+May 27 16:08:10 host postfix/cleanup[846]: 42561106C4A: message-id=<20150527090809.1FD9610650A@host.example.com>
+May 27 16:08:10 host postfix/qmgr[686]: 42561106C4A: from=<spam@xxx.scom>, size=983, nrcpt=1 (queue active)
+May 27 16:08:10 host postfix/local[850]: 42561106C4A: to=<user3@example.com>, relay=local, delay=0.02, delays=0.01/0.01/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 16:08:10 host postfix/qmgr[686]: 42561106C4A: removed
+May 27 16:08:10 host postfix/smtp[847]: 1FD9610650A: to=<user3@example.com>, orig_to=<test@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=1.2, delays=0.01/0.01/0.24/0.94, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 42561106C4A)
+May 27 16:08:10 host postfix/qmgr[686]: 1FD9610650A: removed
+May 27 16:10:28 host postfix/smtpd[884]: connect from localhost[127.0.0.1]
+May 27 16:10:28 host postfix/smtpd[884]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: asd\r\nrcpt to: test@example.com\r\ndata\r\nsubject:asd\r\n\r\n\r\nasd\r\n.\r\n
+May 27 16:10:28 host postfix/smtpd[884]: D014410650A: client=localhost[127.0.0.1]
+May 27 16:10:28 host postfix/cleanup[886]: D014410650A: message-id=<20150527091028.D014410650A@host.example.com>
+May 27 16:10:28 host postfix/qmgr[686]: D014410650A: from=<asd@example.com>, size=322, nrcpt=1 (queue active)
+May 27 16:10:29 host postfix/smtpd[884]: disconnect from localhost[127.0.0.1]
+May 27 16:10:47 host postfix/smtpd[895]: connect from localhost[127.0.0.1]
+May 27 16:10:47 host postfix/smtpd[895]: 8E848106C4C: client=localhost[127.0.0.1]
+May 27 16:10:47 host postfix/cleanup[886]: 8E848106C4C: message-id=<20150527091028.D014410650A@host.example.com>
+May 27 16:10:47 host postfix/smtpd[895]: disconnect from localhost[127.0.0.1]
+May 27 16:10:47 host postfix/qmgr[686]: 8E848106C4C: from=<asd@example.com>, size=938, nrcpt=1 (queue active)
+May 27 16:10:47 host postfix/local[896]: 8E848106C4C: to=<user3@example.com>, relay=local, delay=0.1, delays=0.05/0.04/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 16:10:47 host postfix/qmgr[686]: 8E848106C4C: removed
+May 27 16:10:47 host postfix/smtp[887]: D014410650A: to=<user3@example.com>, orig_to=<test@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=19, delays=0.01/0/0/19, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 8E848106C4C)
+May 27 16:10:47 host postfix/qmgr[686]: D014410650A: removed
+May 27 16:11:31 host postfix/smtpd[884]: connect from localhost[127.0.0.1]
+May 27 16:11:31 host postfix/smtpd[884]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: ff@example.com\r\nrcpt to: test@example.com\r\ndata\r\nsubject:dd\r\n\r\n\r\ndd\r\n.\r\n
+May 27 16:11:31 host postfix/smtpd[884]: 9D66010650A: client=localhost[127.0.0.1]
+May 27 16:11:31 host postfix/cleanup[886]: 9D66010650A: message-id=<20150527091131.9D66010650A@host.example.com>
+May 27 16:11:31 host postfix/smtpd[911]: connect from localhost[127.0.0.1]
+May 27 16:11:31 host postfix/smtpd[911]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: fony@example.com\r\nrcpt to: test@example.com\r\ndata\r\nsubject:spam\r\n\r\n\r\nspam\r\n.\r\n
+May 27 16:11:31 host postfix/qmgr[686]: 9D66010650A: from=<ff@example.com>, size=319, nrcpt=1 (queue active)
+May 27 16:11:31 host postfix/smtpd[911]: A05CC106C4A: client=localhost[127.0.0.1]
+May 27 16:11:31 host postfix/cleanup[886]: A05CC106C4A: message-id=<20150527091131.A05CC106C4A@host.example.com>
+May 27 16:11:31 host postfix/qmgr[686]: A05CC106C4A: from=<fony@example.com>, size=325, nrcpt=1 (queue active)
+May 27 16:11:32 host postfix/smtpd[884]: disconnect from localhost[127.0.0.1]
+May 27 16:11:32 host postfix/smtpd[911]: disconnect from localhost[127.0.0.1]
+May 27 16:11:32 host postfix/smtpd[895]: connect from localhost[127.0.0.1]
+May 27 16:11:32 host postfix/smtpd[895]: A765E106C4E: client=localhost[127.0.0.1]
+May 27 16:11:32 host postfix/cleanup[886]: A765E106C4E: message-id=<20150527091131.A05CC106C4A@host.example.com>
+May 27 16:11:32 host postfix/smtpd[895]: disconnect from localhost[127.0.0.1]
+May 27 16:11:32 host postfix/qmgr[686]: A765E106C4E: from=<fony@example.com>, size=941, nrcpt=1 (queue active)
+May 27 16:11:32 host postfix/local[896]: A765E106C4E: to=<user3@example.com>, relay=local, delay=0.02, delays=0.01/0/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 16:11:32 host postfix/qmgr[686]: A765E106C4E: removed
+May 27 16:11:32 host postfix/smtp[912]: A05CC106C4A: to=<user3@example.com>, orig_to=<test@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=1.1, delays=0.01/0.01/0.12/0.92, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as A765E106C4E)
+May 27 16:11:32 host postfix/qmgr[686]: A05CC106C4A: removed
+May 27 16:11:33 host postfix/smtpd[803]: 6C237106C4C: client=localhost[127.0.0.1]
+May 27 16:11:33 host postfix/cleanup[886]: 6C237106C4C: message-id=<20150527091131.9D66010650A@host.example.com>
+May 27 16:11:33 host postfix/smtpd[803]: disconnect from localhost[127.0.0.1]
+May 27 16:11:33 host postfix/qmgr[686]: 6C237106C4C: from=<ff@example.com>, size=935, nrcpt=1 (queue active)
+May 27 16:11:33 host postfix/local[896]: 6C237106C4C: to=<user3@example.com>, relay=local, delay=0.02, delays=0.01/0/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 16:11:33 host postfix/qmgr[686]: 6C237106C4C: removed
+May 27 16:11:33 host postfix/smtp[887]: 9D66010650A: to=<user3@example.com>, orig_to=<test@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=1.8, delays=0.01/0/1.1/0.71, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 6C237106C4C)
+May 27 16:11:33 host postfix/qmgr[686]: 9D66010650A: removed
+May 27 16:13:15 host postfix/postfix-script[1034]: stopping the Postfix mail system
+May 27 16:13:15 host postfix/master[683]: terminating on signal 15
+May 27 16:13:18 host spamd[595]: spamd: server killed by SIGTERM, shutting down 
+May 27 16:14:02 host spamd[589]: logger: removing stderr method 
+May 27 16:14:03 host spamd[591]: Can't locate Mail/SpamAssassin/CompiledRegexps/body_0.pm in @INC (you may need to install the Mail::SpamAssassin::CompiledRegexps::body_0 module) (@INC contains: /var/db/spamassassin/compiled/5.020/3.004001 /var/db/spamassassin/compiled/5.020/3.004001/auto /usr/local/lib/perl5/site_perl /usr/local/lib/perl5/site_perl/mach/5.20 /usr/local/lib/perl5/5.20/mach /usr/local/lib/perl5/5.20 /usr/local/lib/perl5/site_perl/5.20 /usr/local/lib/perl5/site_perl/5.20/mach) at (eval 1080) line 1. 
+May 27 16:14:04 host spamd[591]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+May 27 16:14:04 host spamd[591]: spamd: server pid: 591 
+May 27 16:14:04 host spamd[591]: spamd: server successfully spawned child process, pid 593 
+May 27 16:14:04 host spamd[591]: spamd: server successfully spawned child process, pid 596 
+May 27 16:14:04 host spamd[591]: prefork: child states: IS 
+May 27 16:14:04 host spamd[591]: prefork: child states: II 
+May 27 16:14:42 host postfix/postfix-script[676]: warning: damaged message: corrupt/25202106C62
+May 27 16:14:42 host postfix/postfix-script[677]: starting the Postfix mail system
+May 27 16:14:42 host postfix/master[679]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+May 27 16:15:48 host postfix/smtpd[804]: connect from localhost[127.0.0.1]
+May 27 16:15:48 host postfix/smtpd[804]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: dd@dd.com\r\nrcpt to: test@example.com\r\ndata\r\nsubject:dd\r\n\r\n\r\ndd\r\n.\r\n
+May 27 16:15:48 host postfix/smtpd[804]: 966FF106C3D: client=localhost[127.0.0.1]
+May 27 16:15:48 host postfix/cleanup[807]: 966FF106C3D: message-id=<20150527091548.966FF106C3D@host.example.com>
+May 27 16:15:48 host postfix/qmgr[682]: 966FF106C3D: from=<dd@dd.com>, size=314, nrcpt=1 (queue active)
+May 27 16:15:49 host postfix/smtpd[804]: disconnect from localhost[127.0.0.1]
+May 27 16:15:53 host postfix/smtpd[812]: connect from localhost[127.0.0.1]
+May 27 16:15:53 host postfix/smtpd[812]: AC975106C3F: client=localhost[127.0.0.1]
+May 27 16:15:53 host postfix/cleanup[807]: AC975106C3F: message-id=<20150527091548.966FF106C3D@host.example.com>
+May 27 16:15:53 host postfix/qmgr[682]: AC975106C3F: from=<dd@dd.com>, size=930, nrcpt=1 (queue active)
+May 27 16:15:53 host postfix/local[813]: AC975106C3F: to=<user3@example.com>, relay=local, delay=0.06, delays=0.01/0.03/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 16:15:53 host postfix/qmgr[682]: AC975106C3F: removed
+May 27 16:15:53 host postfix/smtp[808]: 966FF106C3D: to=<user3@example.com>, orig_to=<test@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=5.2, delays=0.02/0.01/0.88/4.3, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as AC975106C3F)
+May 27 16:15:53 host postfix/qmgr[682]: 966FF106C3D: removed
+May 27 16:18:08 host postfix/postfix-script[925]: stopping the Postfix mail system
+May 27 16:18:08 host postfix/master[679]: terminating on signal 15
+May 27 16:18:11 host spamd[591]: spamd: server killed by SIGTERM, shutting down 
+May 27 16:20:26 host spamd[587]: logger: removing stderr method 
+May 27 16:20:28 host spamd[589]: Can't locate Mail/SpamAssassin/CompiledRegexps/body_0.pm in @INC (you may need to install the Mail::SpamAssassin::CompiledRegexps::body_0 module) (@INC contains: /var/db/spamassassin/compiled/5.020/3.004001 /var/db/spamassassin/compiled/5.020/3.004001/auto /usr/local/lib/perl5/site_perl /usr/local/lib/perl5/site_perl/mach/5.20 /usr/local/lib/perl5/5.20/mach /usr/local/lib/perl5/5.20 /usr/local/lib/perl5/site_perl/5.20 /usr/local/lib/perl5/site_perl/5.20/mach) at (eval 1080) line 1. 
+May 27 16:20:28 host spamd[589]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+May 27 16:20:28 host spamd[589]: spamd: server pid: 589 
+May 27 16:20:29 host spamd[589]: spamd: server successfully spawned child process, pid 593 
+May 27 16:20:29 host spamd[589]: spamd: server successfully spawned child process, pid 594 
+May 27 16:20:29 host spamd[589]: prefork: child states: II 
+May 27 16:21:10 host postfix/postfix-script[674]: warning: damaged message: corrupt/25202106C62
+May 27 16:21:10 host postfix/postfix-script[675]: starting the Postfix mail system
+May 27 16:21:10 host postfix/master[677]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+May 27 16:23:01 host postfix/smtpd[798]: connect from localhost[127.0.0.1]
+May 27 16:23:01 host postfix/smtpd[798]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: GG@GG.com\r\nrcpt to: test@example.com\r\ndata\r\nsubject:tesst\r\n\r\n\r\ntest\r\n.\r\n
+May 27 16:23:01 host postfix/smtpd[798]: 24708106506: client=localhost[127.0.0.1]
+May 27 16:23:01 host postfix/cleanup[801]: 24708106506: message-id=<20150527092301.24708106506@host.example.com>
+May 27 16:23:01 host postfix/qmgr[680]: 24708106506: from=<GG@GG.com>, size=319, nrcpt=1 (queue active)
+May 27 16:23:02 host postfix/smtpd[798]: disconnect from localhost[127.0.0.1]
+May 27 16:23:05 host postfix/smtpd[806]: connect from localhost[127.0.0.1]
+May 27 16:23:05 host postfix/smtpd[806]: CD039106C67: client=localhost[127.0.0.1]
+May 27 16:23:05 host postfix/cleanup[801]: CD039106C67: message-id=<20150527092301.24708106506@host.example.com>
+May 27 16:23:05 host postfix/qmgr[680]: CD039106C67: from=<GG@GG.com>, size=958, nrcpt=1 (queue active)
+May 27 16:23:05 host postfix/local[807]: CD039106C67: to=<user3@example.com>, relay=local, delay=0.06, delays=0.02/0.03/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 16:23:05 host postfix/qmgr[680]: CD039106C67: removed
+May 27 16:23:05 host postfix/smtp[802]: 24708106506: to=<user3@example.com>, orig_to=<test@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=4.9, delays=0.02/0.02/1.1/3.8, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as CD039106C67)
+May 27 16:23:05 host postfix/qmgr[680]: 24708106506: removed
+May 27 16:28:05 host postfix/smtpd[806]: timeout after END-OF-MESSAGE from localhost[127.0.0.1]
+May 27 16:28:05 host postfix/smtpd[806]: disconnect from localhost[127.0.0.1]
+May 27 17:09:29 host postfix/smtpd[951]: connect from localhost[127.0.0.1]
+May 27 17:09:29 host postfix/smtpd[951]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: fony@example.com\r\nrcpt to: gun@example.com\r\ndata\r\ndsjkfla\r\n.\r\n
+May 27 17:09:29 host postfix/smtpd[951]: 6C38A106C68: client=localhost[127.0.0.1]
+May 27 17:09:29 host postfix/cleanup[954]: 6C38A106C68: message-id=<20150527100929.6C38A106C68@host.example.com>
+May 27 17:09:29 host postfix/qmgr[680]: 6C38A106C68: from=<fony@example.com>, size=311, nrcpt=1 (queue active)
+May 27 17:09:30 host postfix/smtpd[951]: disconnect from localhost[127.0.0.1]
+May 27 17:09:35 host postfix/smtpd[957]: connect from localhost[127.0.0.1]
+May 27 17:09:35 host postfix/smtpd[957]: 8FDF7106C76: client=localhost[127.0.0.1]
+May 27 17:09:35 host postfix/cleanup[954]: 8FDF7106C76: message-id=<20150527100929.6C38A106C68@host.example.com>
+May 27 17:09:35 host postfix/qmgr[680]: 8FDF7106C76: from=<fony@example.com>, size=948, nrcpt=1 (queue active)
+May 27 17:09:35 host postfix/local[958]: 8FDF7106C76: to=<gun@example.com>, relay=local, delay=0.12, delays=0.04/0.07/0/0.01, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 17:09:35 host postfix/qmgr[680]: 8FDF7106C76: removed
+May 27 17:09:35 host postfix/smtp[955]: 6C38A106C68: to=<gun@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=6.4, delays=0.02/0.02/0.69/5.7, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 8FDF7106C76)
+May 27 17:09:35 host postfix/qmgr[680]: 6C38A106C68: removed
+May 27 17:12:48 host postfix/smtpd[980]: connect from localhost[127.0.0.1]
+May 27 17:12:48 host postfix/smtpd[980]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: fony@example.com\r\nrcpt to: gun@example.com\r\ndata\r\ntestdata\r\n.\r\n
+May 27 17:12:48 host postfix/smtpd[980]: CAF8B106506: client=localhost[127.0.0.1]
+May 27 17:12:48 host postfix/cleanup[982]: CAF8B106506: message-id=<20150527101248.CAF8B106506@host.example.com>
+May 27 17:12:48 host postfix/qmgr[680]: CAF8B106506: from=<fony@example.com>, size=312, nrcpt=1 (queue active)
+May 27 17:12:49 host postfix/smtpd[980]: disconnect from localhost[127.0.0.1]
+May 27 17:12:50 host postfix/smtpd[985]: connect from localhost[127.0.0.1]
+May 27 17:12:50 host postfix/smtpd[985]: 4C274106C76: client=localhost[127.0.0.1]
+May 27 17:12:50 host postfix/cleanup[982]: 4C274106C76: message-id=<20150527101248.CAF8B106506@host.example.com>
+May 27 17:12:50 host postfix/qmgr[680]: 4C274106C76: from=<fony@example.com>, size=949, nrcpt=1 (queue active)
+May 27 17:12:50 host postfix/smtpd[985]: disconnect from localhost[127.0.0.1]
+May 27 17:12:50 host postfix/local[986]: 4C274106C76: to=<gun@example.com>, relay=local, delay=0.03, delays=0.01/0.01/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 17:12:50 host postfix/qmgr[680]: 4C274106C76: removed
+May 27 17:12:50 host postfix/smtp[983]: CAF8B106506: to=<gun@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=1.6, delays=0.01/0.01/0.43/1.1, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as 4C274106C76)
+May 27 17:12:50 host postfix/qmgr[680]: CAF8B106506: removed
+May 27 17:14:35 host postfix/smtpd[957]: timeout after END-OF-MESSAGE from localhost[127.0.0.1]
+May 27 17:14:35 host postfix/smtpd[957]: disconnect from localhost[127.0.0.1]
+May 27 17:22:55 host postfix/smtpd[1030]: connect from localhost[127.0.0.1]
+May 27 17:22:55 host postfix/smtpd[1030]: improper command pipelining after HELO from localhost[127.0.0.1]: mail from: fony@example.com\r\nrcpt to: gun@example.com\r\ndata\r\ntestdata\r\n.\r\n
+May 27 17:22:55 host postfix/smtpd[1030]: AC0CC106C76: client=localhost[127.0.0.1]
+May 27 17:22:55 host postfix/cleanup[1033]: AC0CC106C76: message-id=<20150527102255.AC0CC106C76@host.example.com>
+May 27 17:22:55 host postfix/qmgr[680]: AC0CC106C76: from=<fony@example.com>, size=312, nrcpt=1 (queue active)
+May 27 17:22:55 host postfix/smtpd[1036]: connect from localhost[127.0.0.1]
+May 27 17:22:55 host postfix/smtpd[1036]: F3D06106C77: client=localhost[127.0.0.1]
+May 27 17:22:55 host postfix/cleanup[1033]: F3D06106C77: message-id=<20150527102255.AC0CC106C76@host.example.com>
+May 27 17:22:55 host postfix/smtpd[1036]: disconnect from localhost[127.0.0.1]
+May 27 17:22:55 host postfix/qmgr[680]: F3D06106C77: from=<fony@example.com>, size=949, nrcpt=1 (queue active)
+May 27 17:22:56 host postfix/local[1037]: F3D06106C77: to=<gun@example.com>, relay=local, delay=0.02, delays=0.01/0.01/0/0, dsn=2.0.0, status=sent (delivered to mailbox)
+May 27 17:22:56 host postfix/qmgr[680]: F3D06106C77: removed
+May 27 17:22:56 host postfix/smtp[1034]: AC0CC106C76: to=<gun@example.com>, relay=127.0.0.1[127.0.0.1]:10024, delay=0.33, delays=0.01/0.01/0.01/0.3, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as F3D06106C77)
+May 27 17:22:56 host postfix/qmgr[680]: AC0CC106C76: removed
+May 27 17:22:56 host postfix/smtpd[1030]: disconnect from localhost[127.0.0.1]
