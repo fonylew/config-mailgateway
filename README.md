@@ -36,6 +36,20 @@ amavisd_enable="YES"
 amavisd_ram="512m" #optional
 ```
 
+## Update spamassassin
+
+```bash
+sa-update --channel apache.claz.org//spamassassin/source --install Mail-SpamAssassin-rules-3.4.1.r1675274.tgz
+```
+but it didn't work
+so
+
+```bash
+cd /var/db/spamassassin
+mkdir 3.004001
+wget apache.claz.org//spamassassin/source/Mail-SpamAssassin-rules-3.4.1.r1675274.tgz
+tar -xvf Mail-SpamAssassin-rules-3.4.1.r1675274.tgz
+```
 
 ## Virtual Box
 For ssh access without vrdp.
