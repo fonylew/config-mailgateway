@@ -5,6 +5,7 @@ ln -s /usr/local/etc/postfix /etc/postfix
 pkg
 pkg install amavisd-new
 pkg install clamav
+pkg install wget
 
 echo '' >>/etc/rc.conf
 echo 'postfix_enable="YES"' >> /etc/rc.conf
