@@ -12,6 +12,10 @@ make install clean
 ### Config files for postfix are located in /etc/postfix
 ` main.cf` `master.cf`
 
+##### using postfix with different user
+set usernames and their mails in `virtual` file
+after that run this command `postmap /etc/postfix/virtual` for applying change in the file.
+
 ## Installing amavisd-new
 You must install pkg for package management by executin `pkg` (for FreeBSD 10+)
 
@@ -38,6 +42,7 @@ amavisd_ram="512m" #optional
 
 ## Update spamassassin
 
+originally, the recommend method to update is 
 ```bash
 sa-update --channel apache.claz.org//spamassassin/source --install Mail-SpamAssassin-rules-3.4.1.r1675274.tgz
 ```
