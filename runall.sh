@@ -1,4 +1,5 @@
 ./install.sh
 ./patch.sh
 ./adduser.sh
-./shortcut/run.sh
+cd shortcut
+./run.sh

@@ -21,5 +21,6 @@ echo 'sendmail_msp_queue_enable="NO"' >> /etc/rc.conf
 
 cd /var/db/spamassassin
 mkdir 3.004001
+cd 3.004001
 wget apache.claz.org//spamassassin/source/Mail-SpamAssassin-rules-3.4.1.r1675274.tgz
 tar -xvf Mail-SpamAssassin-rules-3.4.1.r1675274.tgz
