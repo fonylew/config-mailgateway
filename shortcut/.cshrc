@@ -24,6 +24,7 @@ alias lo0	vim /var/log/local0
 alias ulocal	cd /usr/local/etc
 alias saconf	vim /usr/local/etc/mail/spamassassin/local.cf
 alias aconf	vim /usr/local/etc/amavisd.conf
+alias tdir	cd /home/user3/Maildir
 
 # A righteous umask
 umask 22

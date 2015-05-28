@@ -1,0 +1,14 @@
+# .procmailrc
+# routes incoming mail to appropriate mailboxes
+PATH=/usr/bin:/usr/local/bin
+MAILDIR=$HOME/Maildir/   # all mailboxes are in .mailspool/
+DEFAULT=$HOME/Maildir/
+LOGFILE=/var/log/procmail.log
+SHELL=/bin/sh
+
+# Put mail from DC-Linux mailing list into mailbox dclinux
+
+# Catch SPAM
+:0:
+* ^X-Spam-Flag: YES
+Spam/

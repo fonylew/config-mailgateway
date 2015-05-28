@@ -657,3 +657,8 @@ inet_protocols = ipv4
 # AMAVISD
 content_filter = smtp-amavis:[127.0.0.1]:10024
 max_use = 10
+
+#Procmail
+mailbox_command = /usr/local/bin/procmail
+
+ 

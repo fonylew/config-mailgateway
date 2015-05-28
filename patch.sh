@@ -2,6 +2,7 @@ rm /usr/local/etc/postfix/main.cf
 rm /usr/local/etc/postfix/master.cf
 rm /usr/local/etc/amavisd.conf
 rm /usr/local/etc/mail/spamassassin/local.cf
+rm /usr/local/etc/clamd.conf
 
 #aliases file here
 
