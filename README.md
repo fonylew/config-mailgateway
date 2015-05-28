@@ -66,4 +66,11 @@ VBoxHeadless --startvm FreeBSD --vrdp=off
 After that you can login with:
 ```ssh -p 2222 root@localhost```
 
+## procmail
+```
+edit file main.cf
+mailbox_command = /usr/local/bin/procmail
+
+```
+
 
