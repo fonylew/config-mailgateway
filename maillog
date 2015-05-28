@@ -378,3 +378,7 @@ May 28 11:15:30 host postfix/qmgr[1363]: 81D10106C55: removed
 May 28 11:16:26 host postfix/qmgr[1363]: 7408D106C4B: from=<gun@example.com>, size=782, nrcpt=1 (queue active)
 May 28 11:17:30 host postfix/smtp[1516]: 7408D106C4B: to=<biggun002@gmail.com>, relay=gmail.com[216.58.196.37]:25, delay=1537, delays=1473/0.01/63/0, dsn=4.4.2, status=deferred (lost connection with gmail.com[216.58.196.37] while receiving the initial server greeting)
 May 28 11:17:30 host postfix/smtp[1451]: E0F98106C46: to=<gun@gmail.com>, relay=gmail.com[173.194.126.117]:25, delay=1763, delays=1399/0.02/365/0, dsn=4.4.2, status=deferred (conversation with gmail.com[173.194.126.117] timed out while receiving the initial server greeting)
+May 28 11:46:26 host postfix/qmgr[1363]: 7408D106C4B: from=<gun@example.com>, size=782, nrcpt=1 (queue active)
+May 28 11:51:26 host postfix/qmgr[1363]: E0F98106C46: from=<gg@examample.com>, size=731, nrcpt=1 (queue active)
+May 28 11:51:30 host postfix/smtp[1682]: 7408D106C4B: to=<biggun002@gmail.com>, relay=gmail.com[216.58.196.37]:25, delay=3577, delays=3273/0.01/304/0, dsn=4.4.2, status=deferred (conversation with gmail.com[216.58.196.37] timed out while receiving the initial server greeting)
+May 28 11:56:26 host postfix/smtp[1689]: E0F98106C46: conversation with gmail.com[173.194.126.86] timed out while receiving the initial server greeting
