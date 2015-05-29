@@ -1,4 +1,6 @@
 pkg install procmail
+pkg install mutt
+
 #handling user here
 pkg install redis
 ./userconf.sh

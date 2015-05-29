@@ -1764,3 +1764,37 @@ May 29 15:18:58 host postfix/qmgr[697]: E0F98106C46: from=<gg@examample.com>, si
 May 29 15:18:59 host postfix/smtp[1597]: 7408D106C4B: conversation with gmail.com[173.194.126.53] timed out while receiving the initial server greeting
 May 29 15:20:04 host postfix/smtp[1597]: 7408D106C4B: to=<biggun002@gmail.com>, relay=gmail.com[173.194.126.54]:25, delay=102491, delays=102125/0.02/366/0, dsn=4.4.2, status=deferred (lost connection with gmail.com[173.194.126.54] while receiving the initial server greeting)
 May 29 15:20:07 host postfix/smtp[1635]: E0F98106C46: to=<gun@gmail.com>, relay=gmail.com[216.58.196.37]:25, delay=102719, delays=102650/0.02/69/0, dsn=4.4.2, status=deferred (lost connection with gmail.com[216.58.196.37] while receiving the initial server greeting)
+May 29 16:05:04 host sendmail[1947]: t4T954ub001947: from=root, size=322, class=0, nrcpts=1, msgid=<201505290905.t4T954ub001947@host>, relay=root@localhost
+May 29 16:05:04 host sendmail[1948]: t4T954Np001948: from=root, size=317, class=0, nrcpts=1, msgid=<201505290905.t4T954Np001948@host>, relay=root@localhost
+May 29 16:05:04 host postfix/smtpd[1949]: connect from localhost[127.0.0.1]
+May 29 16:05:04 host postfix/smtpd[1951]: connect from localhost[127.0.0.1]
+May 29 16:05:04 host postfix/smtpd[1951]: 29A24106DCF: client=localhost[127.0.0.1]
+May 29 16:05:04 host postfix/smtpd[1949]: 2B6B2106DD0: client=localhost[127.0.0.1]
+May 29 16:05:04 host postfix/cleanup[1954]: 2B6B2106DD0: message-id=<201505290905.t4T954ub001947@host>
+May 29 16:05:04 host postfix/cleanup[1953]: 29A24106DCF: message-id=<201505290905.t4T954Np001948@host>
+May 29 16:05:04 host sendmail[1948]: t4T954Np001948: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=30317, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (Ok: queued as 29A24106DCF)
+May 29 16:05:04 host sendmail[1947]: t4T954ub001947: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=30322, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (Ok: queued as 2B6B2106DD0)
+May 29 16:05:04 host postfix/smtpd[1951]: disconnect from localhost[127.0.0.1]
+May 29 16:05:04 host postfix/smtpd[1949]: disconnect from localhost[127.0.0.1]
+May 29 16:05:04 host postfix/qmgr[697]: 29A24106DCF: from=<root@host.example.com>, size=762, nrcpt=1 (queue active)
+May 29 16:05:04 host postfix/qmgr[697]: 2B6B2106DD0: from=<root@host.example.com>, size=767, nrcpt=1 (queue active)
+May 29 16:05:04 host postfix/smtpd[1959]: connect from localhost[127.0.0.1]
+May 29 16:05:04 host postfix/smtpd[1960]: connect from localhost[127.0.0.1]
+May 29 16:05:04 host postfix/smtpd[1959]: AE74F106DD1: client=localhost[127.0.0.1]
+May 29 16:05:04 host postfix/smtpd[1960]: AE8C7106DD2: client=localhost[127.0.0.1]
+May 29 16:05:04 host postfix/cleanup[1953]: AE74F106DD1: message-id=<201505290905.t4T954ub001947@host>
+May 29 16:05:04 host postfix/cleanup[1954]: AE8C7106DD2: message-id=<201505290905.t4T954Np001948@host>
+May 29 16:05:04 host postfix/smtpd[1959]: disconnect from localhost[127.0.0.1]
+May 29 16:05:04 host postfix/smtpd[1960]: disconnect from localhost[127.0.0.1]
+May 29 16:05:04 host postfix/qmgr[697]: AE74F106DD1: from=<root@host.example.com>, size=1196, nrcpt=1 (queue active)
+May 29 16:05:04 host postfix/qmgr[697]: AE8C7106DD2: from=<root@host.example.com>, size=1191, nrcpt=1 (queue active)
+May 29 16:05:04 host postfix/smtp[1956]: 2B6B2106DD0: to=<root@host.example.com>, orig_to=<root@host>, relay=127.0.0.1[127.0.0.1]:10024, delay=0.61, delays=0.14/0.02/0.01/0.45, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as AE74F106DD1)
+May 29 16:05:04 host postfix/smtp[1955]: 29A24106DCF: to=<root@host.example.com>, orig_to=<root@host>, relay=127.0.0.1[127.0.0.1]:10024, delay=0.61, delays=0.13/0.01/0.01/0.45, dsn=2.0.0, status=sent (250 2.0.0 from MTA(smtp:[127.0.0.1]:10025): 250 2.0.0 Ok: queued as AE8C7106DD2)
+May 29 16:05:04 host postfix/qmgr[697]: 2B6B2106DD0: removed
+May 29 16:05:04 host postfix/qmgr[697]: 29A24106DCF: removed
+May 29 16:05:04 host postfix/local[1962]: AE8C7106DD2: to=<root@host.example.com>, relay=local, delay=0.07, delays=0.02/0.05/0/0.01, dsn=2.0.0, status=sent (delivered to command: /usr/local/bin/procmail)
+May 29 16:05:04 host postfix/local[1961]: AE74F106DD1: to=<root@host.example.com>, relay=local, delay=0.07, delays=0.01/0.05/0/0.01, dsn=2.0.0, status=sent (delivered to command: /usr/local/bin/procmail)
+May 29 16:05:04 host postfix/qmgr[697]: AE8C7106DD2: removed
+May 29 16:05:04 host postfix/qmgr[697]: AE74F106DD1: removed
+May 29 16:10:59 host postfix/postmap[1987]: warning: /usr/local/etc/postfix/virtual.db: duplicate entry: "gun@example.com"
+May 29 16:10:59 host postfix/postmap[1987]: warning: /usr/local/etc/postfix/virtual.db: duplicate entry: "name@example.com"
