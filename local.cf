@@ -33,6 +33,7 @@
 #
 # required_score 5.0
 
+bayes_store_module  Mail::SpamAssassin::BayesStore::Redis
 
 #   Use Bayesian classifier (default: 1)
 #
@@ -42,7 +43,11 @@
 #   Bayesian classifier auto-learning (default: 1)
 #
  bayes_auto_learn 1
-
+##Bayes-redis
+use_bayes_rules 1
+bayes_autolearn_to_journal 
+bayes_sql_dsn  server=localhost:6379
+bayes_auto_expire  1
 
 #   Set headers which may provide inappropriate cues to the Bayesian
 #   classifier

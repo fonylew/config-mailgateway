@@ -1,5 +1,6 @@
 pkg install procmail
 #handling user here
-ln .procmailrc /home/user3/
-ln .procmailrc /home/fon/
-ln .procmailrc /home/gun/
+pkg install redis
+./userconf.sh
+echo 'redis_enable="YES"' >> /etc/rc.conf
+
