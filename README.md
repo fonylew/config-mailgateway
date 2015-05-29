@@ -92,3 +92,21 @@ echo "00 09 * * 1-5 echo hello" >> mycron
 crontab mycron
 rm mycron
 ```
+=======
+sa-learn --no-sync --spam /home/user3/Maildir/Spam/{cur,new}
+sa-learn --no-sync --ham /home/user3/Maildir/{cur,new}
+```
+
+## Crontab
+tested on user3
+`crontab -e`
+
+```
+#Auto learn
+0 * * * *          /usr/local/bin/sa-learn --spam /home/user3/Maildir/Spam/{cur,new} > \ /dev/null 2>&1
+0 * * * *          /usr/local/bin/sa-learn --ham /home/user3/Maildir/{cur,new} > \ /dev/null 2>&1
+```
+
+### List all user
+` cat /etc/passwd | grep /home | cut -d: -f1 `
+>>>>>>> 3c3e241666f24cdcfb30d62d16959629658e9081
