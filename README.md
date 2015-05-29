@@ -81,3 +81,14 @@ edit .procmailrc so that it can classify spam in to Spam folder.
 sa-learn --no-sync --spam ~/Maildir/Spam/{cur,new}
 sa-learn --no-sync --ham ~/Maildir/{cur,new}
 ```
+
+## ADD Crontab
+```
+#write out current crontab
+crontab -l > mycron
+#echo new cron into cron file
+echo "00 09 * * 1-5 echo hello" >> mycron
+#install new cron file
+crontab mycron
+rm mycron
+```
