@@ -2,6 +2,16 @@
 
 Login as root
 
+## Virtual Box
+For ssh access without vrdp.
+
+``` bash
+VBoxHeadless --startvm FreeBSD --vrdp=off
+```
+[This guide](https://leemendelowitz.github.io/blog/ubuntu-server-virtualbox.html)
+After that you can login with:
+```ssh -p 2222 root@localhost```
+
 ## Installing postfix
 
 ``` bash
@@ -56,14 +66,31 @@ wget apache.claz.org//spamassassin/source/Mail-SpamAssassin-rules-3.4.1.r1675274
 tar -xvf Mail-SpamAssassin-rules-3.4.1.r1675274.tgz
 ```
 
-## Virtual Box
-For ssh access without vrdp.
+## procmail
+edit file main.cf
 
-``` bash
-VBoxHeadless --startvm FreeBSD --vrdp=off
 ```
-[This guide](https://leemendelowitz.github.io/blog/ubuntu-server-virtualbox.html)
-After that you can login with:
-```ssh -p 2222 root@localhost```
+mailbox_command = /usr/local/bin/procmail
 
+```
 
+## SA-Learn
+edit .procmailrc so that it can classify spam in to Spam folder.
+
+```
+sa-learn --no-sync --spam /home/user3/Maildir/Spam/{cur,new}
+sa-learn --no-sync --ham /home/user3/Maildir/{cur,new}
+```
+
+## Crontab
+tested on user3
+`crontab -e`
+
+```
+#Auto learn
+0 * * * *          /usr/local/bin/sa-learn --spam /home/user3/Maildir/Spam/{cur,new} > \ /dev/null 2>&1
+0 * * * *          /usr/local/bin/sa-learn --ham /home/user3/Maildir/{cur,new} > \ /dev/null 2>&1
+```
+
+### List all user
+` cat /etc/passwd | grep /home | cut -d: -f1 `
