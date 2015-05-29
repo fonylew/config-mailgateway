@@ -78,6 +78,19 @@ mailbox_command = /usr/local/bin/procmail
 edit .procmailrc so that it can classify spam in to Spam folder.
 
 ```
-sa-learn --no-sync --spam ~/Maildir/Spam/{cur,new}
-sa-learn --no-sync --ham ~/Maildir/{cur,new}
+sa-learn --no-sync --spam /home/user3/Maildir/Spam/{cur,new}
+sa-learn --no-sync --ham /home/user3/Maildir/{cur,new}
 ```
+
+## Crontab
+tested on user3
+`crontab -e`
+
+```
+#Auto learn
+0 * * * *          /usr/local/bin/sa-learn --spam /home/user3/Maildir/Spam/{cur,new} > \ /dev/null 2>&1
+0 * * * *          /usr/local/bin/sa-learn --ham /home/user3/Maildir/{cur,new} > \ /dev/null 2>&1
+```
+
+### List all user
+` cat /etc/passwd | grep /home | cut -d: -f1 `
