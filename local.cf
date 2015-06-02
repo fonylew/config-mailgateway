@@ -49,6 +49,8 @@ bayes_autolearn_to_journal
 bayes_sql_dsn  server=localhost:6379
 bayes_auto_expire  1
 
+blacklist_from gun@gun.com
+
 #   Set headers which may provide inappropriate cues to the Bayesian
 #   classifier
 #
