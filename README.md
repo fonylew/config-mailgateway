@@ -103,8 +103,8 @@ tested on user3
 
 ```
 #Auto learn
-0 * * * *          /usr/local/bin/sa-learn --spam /home/user3/Maildir/Spam/{cur,new} > \ /dev/null 2>&1
-0 * * * *          /usr/local/bin/sa-learn --ham /home/user3/Maildir/{cur,new} > \ /dev/null 2>&1
+0 * * * *          /usr/local/bin/sa-learn --spam /home/user3/Maildir/Spam/{cur,new} 2>&1 > /dev/null
+0 * * * *          /usr/local/bin/sa-learn --ham /home/user3/Maildir/{cur,new} 2>&1 > /dev/null
 ```
 
 ### List all user
