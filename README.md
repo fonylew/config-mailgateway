@@ -131,11 +131,36 @@ pkg install p5-Text-CSV
 pkg install p5-Data-UUID
 pkg install p5-Template-Toolkit
 pkg install p5-Net-Server
+pkg install p5-Sub-Uplevel
+pkg install p5-TestException
+pkg install p5-locale-gettext
+pkg install help2man
+pkg install php5
+pkg install pear
 
+pkg install pear-Mail_Mime
 pkg install png
 pkg install php56-gd
 pkg install pear-Image_Color
 
 pkg install p5-DBI
 pkg install p5-DBD-mysql
+
+pkg install netpbm
+pkg install spamassassin
+pkg install p5-FuzzyOcr-devel
+pkg install p5-ExtUtils-CBuilder
+pkg install p5-Encode-Detect
+
+pkg install p5-BerkeleyDB
+pkg install p5-Geography-Countries
+pkg install p5-IP-Country
+
+pkg install p5-Crypt-OpenSSL-Bignum
+pkg install p5-Crypt-OpenSSL-RSA
+pkg install p5-Mail-DomainKeys
+
+pkg install p5-URI
+pkg install p5-Mail-SPF
+pkg install mysql56-server
 ```
