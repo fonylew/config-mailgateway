@@ -20,6 +20,7 @@ alias cdgit	cd ~/config-mailgateway
 alias mlog	vim /var/log/maillog
 alias rlog	vim /var/log/redis/redis.log
 alias alog	cat /var/log/maillog|grep amavisd
+alias pup	cd /usr/local/etc/puppetlabs/puppet
 alias plog	cat /var/log/maillog|grep postfix
 alias lo0	vim /var/log/local0
 alias ulocal	cd /usr/local/etc
@@ -27,6 +28,7 @@ alias saconf	vim /usr/local/etc/mail/spamassassin/local.cf
 alias aconf	vim /usr/local/etc/amavisd.conf
 alias tdir	cd /home/user3/Maildir
 alias rr	redis-server /usr/local/etc/redis.conf
+alias mod	cd /usr/local/etc/puppet/modules
 
 # A righteous umask
 umask 22

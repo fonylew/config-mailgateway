@@ -16152,3 +16152,725 @@ Jun  4 09:38:03 host postfix/proxymap[1424]: error: unsupported dictionary type:
 Jun  4 09:38:06 host maiad[1428]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
 Jun  4 09:38:06 host maiad[1428]: Perl version               5.020002
 Jun  4 09:48:03 host postfix/pickup[1594]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 09:58:04 host postfix/pickup[1625]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 10:08:04 host postfix/pickup[1700]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 10:18:04 host postfix/pickup[1723]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 10:28:05 host postfix/pickup[1744]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 10:38:05 host postfix/pickup[1764]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 10:48:06 host postfix/pickup[1783]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 10:58:06 host postfix/pickup[1804]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 11:08:06 host postfix/pickup[1843]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 11:18:07 host postfix/pickup[1864]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 11:28:07 host postfix/pickup[1885]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 11:38:08 host postfix/pickup[1906]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 11:48:08 host postfix/pickup[1928]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 11:58:08 host postfix/pickup[1949]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 12:08:09 host postfix/pickup[1988]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 12:18:09 host postfix/pickup[2009]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 12:28:10 host postfix/pickup[2030]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 12:38:10 host postfix/pickup[2051]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 12:48:10 host postfix/pickup[2072]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 12:58:11 host postfix/pickup[2102]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 13:46:54 host postfix/pickup[2105]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 13:56:55 host postfix/pickup[2128]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 14:06:55 host postfix/pickup[2163]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 14:16:56 host postfix/pickup[2189]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 14:26:56 host postfix/pickup[2210]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 14:36:56 host postfix/pickup[2231]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 14:46:56 host postfix/pickup[2252]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 14:56:56 host postfix/pickup[2273]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 15:06:56 host postfix/pickup[2308]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 15:16:56 host postfix/pickup[2333]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 15:26:56 host postfix/pickup[2354]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 15:36:57 host postfix/pickup[2375]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 15:46:57 host postfix/pickup[2396]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 15:56:57 host postfix/pickup[2417]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 16:06:58 host postfix/pickup[2453]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 16:16:58 host postfix/pickup[2478]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 16:26:59 host postfix/pickup[2499]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 16:36:59 host postfix/pickup[2520]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 16:47:00 host postfix/pickup[2541]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 16:56:59 host postfix/pickup[2562]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:06:59 host postfix/pickup[2600]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:13:25 host postfix[2764]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:13:25 host postfix/master[2769]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:13:25 host postfix/postlog[2770]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:13:25 host postfix/postfix-script[2770]: stopping the Postfix mail system
+Jun  4 17:13:25 host postfix/master[1419]: terminating on signal 15
+Jun  4 17:13:25 host postfix/master[2772]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 04 17:13:31 host spamd[599]: spamd: server killed by SIGTERM, shutting down 
+Jun 04 17:27:34 host spamd[614]: logger: removing stderr method 
+Jun 04 17:27:36 host spamd[616]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 04 17:27:36 host spamd[616]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 04 17:27:36 host spamd[616]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 04 17:27:36 host spamd[616]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 04 17:27:37 host spamd[616]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 04 17:27:37 host spamd[616]: spamd: server pid: 616 
+Jun 04 17:27:37 host spamd[616]: spamd: server successfully spawned child process, pid 620 
+Jun 04 17:27:37 host spamd[616]: spamd: server successfully spawned child process, pid 621 
+Jun 04 17:27:37 host spamd[616]: prefork: child states: IS 
+Jun 04 17:27:37 host spamd[616]: prefork: child states: II 
+Jun  4 17:28:12 host postfix[1356]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:12 host postfix/master[1361]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postsuper[1389]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postlog[1425]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1425]: warning: damaged message: corrupt/25202106C62
+Jun  4 17:28:13 host postfix/postlog[1426]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1426]: warning: damaged message: corrupt/087FD106DCD
+Jun  4 17:28:13 host postfix/postlog[1427]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1427]: warning: damaged message: corrupt/9B88F106C5B
+Jun  4 17:28:13 host postfix/postlog[1428]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1428]: warning: damaged message: corrupt/0E51A106DD1
+Jun  4 17:28:13 host postfix/postlog[1429]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1429]: warning: damaged message: corrupt/B1F61106DCF
+Jun  4 17:28:13 host postfix/postlog[1430]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1430]: warning: damaged message: corrupt/BF98A106C70
+Jun  4 17:28:13 host postfix/postlog[1431]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1431]: warning: damaged message: corrupt/623A3106C98
+Jun  4 17:28:13 host postfix/postlog[1432]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1432]: warning: damaged message: corrupt/6F11F106DF3
+Jun  4 17:28:13 host postfix/postlog[1433]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1433]: warning: damaged message: corrupt/C9D20106DF6
+Jun  4 17:28:13 host postfix/postlog[1434]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/postfix-script[1434]: starting the Postfix mail system
+Jun  4 17:28:13 host postfix/master[1436]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/master[1436]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun  4 17:28:13 host postfix/pickup[1438]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/qmgr[1439]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/proxymap[1442]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  4 17:28:13 host postfix/proxymap[1442]: error: unsupported dictionary type: mysql
+Jun  4 17:28:14 host maiad[1445]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun  4 17:28:14 host maiad[1445]: Perl version               5.020002
+Jun  4 17:38:14 host postfix/pickup[1575]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 05 15:25:53 host spamd[604]: logger: removing stderr method 
+Jun 05 15:25:54 host spamd[606]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 05 15:25:55 host spamd[606]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 05 15:25:55 host spamd[606]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 05 15:25:55 host spamd[606]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 05 15:25:57 host spamd[606]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 05 15:25:57 host spamd[606]: spamd: server pid: 606 
+Jun 05 15:25:57 host spamd[606]: spamd: server successfully spawned child process, pid 610 
+Jun 05 15:25:57 host spamd[606]: spamd: server successfully spawned child process, pid 611 
+Jun 05 15:25:57 host spamd[606]: prefork: child states: IS 
+Jun 05 15:25:57 host spamd[606]: prefork: child states: II 
+Jun  5 15:26:31 host postfix[1347]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/master[1352]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postsuper[1380]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postlog[1416]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1416]: warning: damaged message: corrupt/25202106C62
+Jun  5 15:26:31 host postfix/postlog[1417]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1417]: warning: damaged message: corrupt/087FD106DCD
+Jun  5 15:26:31 host postfix/postlog[1418]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1418]: warning: damaged message: corrupt/9B88F106C5B
+Jun  5 15:26:31 host postfix/postlog[1419]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1419]: warning: damaged message: corrupt/0E51A106DD1
+Jun  5 15:26:31 host postfix/postlog[1420]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1420]: warning: damaged message: corrupt/B1F61106DCF
+Jun  5 15:26:31 host postfix/postlog[1421]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1421]: warning: damaged message: corrupt/BF98A106C70
+Jun  5 15:26:31 host postfix/postlog[1422]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1422]: warning: damaged message: corrupt/623A3106C98
+Jun  5 15:26:31 host postfix/postlog[1423]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1423]: warning: damaged message: corrupt/6F11F106DF3
+Jun  5 15:26:31 host postfix/postlog[1424]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1424]: warning: damaged message: corrupt/C9D20106DF6
+Jun  5 15:26:31 host postfix/postlog[1425]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/postfix-script[1425]: starting the Postfix mail system
+Jun  5 15:26:31 host postfix/master[1427]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/master[1427]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun  5 15:26:31 host postfix/qmgr[1430]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/pickup[1429]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/proxymap[1434]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:26:31 host postfix/proxymap[1434]: error: unsupported dictionary type: mysql
+Jun  5 15:26:33 host maiad[1436]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun  5 15:26:33 host maiad[1436]: Perl version               5.020002
+Jun  5 15:36:32 host postfix/pickup[1569]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:46:32 host postfix/pickup[1583]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 15:56:32 host postfix/pickup[1598]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 16:02:06 host postfix/pickup[1599]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 16:12:06 host postfix/pickup[1647]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 16:22:07 host postfix/pickup[1665]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 16:32:07 host postfix/pickup[1674]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 16:42:08 host postfix/pickup[1693]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 16:52:08 host postfix/pickup[1713]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 17:02:08 host postfix/pickup[1748]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 17:12:08 host postfix/pickup[1785]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 17:22:08 host postfix/pickup[1806]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 17:32:09 host postfix/pickup[1815]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 17:42:09 host postfix/pickup[1836]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 17:52:10 host postfix/pickup[1857]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 18:02:10 host postfix/pickup[1892]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 18:05:49 host postfix[2011]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 18:05:49 host postfix/master[2016]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 18:05:49 host postfix/postlog[2017]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  5 18:05:49 host postfix/postfix-script[2017]: stopping the Postfix mail system
+Jun  5 18:05:49 host postfix/master[1427]: terminating on signal 15
+Jun  5 18:05:49 host postfix/master[2019]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 05 18:05:55 host spamd[606]: spamd: server killed by SIGTERM, shutting down 
+Jun 08 16:54:12 host spamd[628]: logger: removing stderr method 
+Jun 08 16:54:13 host spamd[630]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 08 16:54:15 host spamd[630]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 08 16:54:15 host spamd[630]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 08 16:54:15 host spamd[630]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 08 16:54:17 host spamd[630]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 08 16:54:17 host spamd[630]: spamd: server pid: 630 
+Jun 08 16:54:17 host spamd[630]: spamd: server successfully spawned child process, pid 632 
+Jun 08 16:54:17 host spamd[630]: spamd: server successfully spawned child process, pid 635 
+Jun 08 16:54:17 host spamd[630]: prefork: child states: IS 
+Jun 08 16:54:17 host spamd[630]: prefork: child states: II 
+Jun  8 16:54:59 host postfix[1370]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:54:59 host postfix/master[1375]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postsuper[1403]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postlog[1439]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1439]: warning: damaged message: corrupt/25202106C62
+Jun  8 16:55:00 host postfix/postlog[1440]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1440]: warning: damaged message: corrupt/087FD106DCD
+Jun  8 16:55:00 host postfix/postlog[1441]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1441]: warning: damaged message: corrupt/9B88F106C5B
+Jun  8 16:55:00 host postfix/postlog[1442]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1442]: warning: damaged message: corrupt/0E51A106DD1
+Jun  8 16:55:00 host postfix/postlog[1443]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1443]: warning: damaged message: corrupt/B1F61106DCF
+Jun  8 16:55:00 host postfix/postlog[1444]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1444]: warning: damaged message: corrupt/BF98A106C70
+Jun  8 16:55:00 host postfix/postlog[1445]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1445]: warning: damaged message: corrupt/623A3106C98
+Jun  8 16:55:00 host postfix/postlog[1446]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1446]: warning: damaged message: corrupt/6F11F106DF3
+Jun  8 16:55:00 host postfix/postlog[1447]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1447]: warning: damaged message: corrupt/C9D20106DF6
+Jun  8 16:55:00 host postfix/postlog[1448]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/postfix-script[1448]: starting the Postfix mail system
+Jun  8 16:55:00 host postfix/master[1450]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/master[1450]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun  8 16:55:00 host postfix/pickup[1452]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/qmgr[1453]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/proxymap[1455]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:55:00 host postfix/proxymap[1455]: error: unsupported dictionary type: mysql
+Jun  8 16:55:22 host maiad[1459]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun  8 16:55:22 host maiad[1459]: Perl version               5.020002
+Jun  8 16:58:55 host postfix[1687]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:58:55 host postfix/master[1692]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:58:55 host postfix/postlog[1693]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  8 16:58:55 host postfix/postfix-script[1693]: stopping the Postfix mail system
+Jun  8 16:58:55 host postfix/master[1450]: terminating on signal 15
+Jun  8 16:58:55 host postfix/master[1695]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 08 16:59:02 host spamd[630]: spamd: server killed by SIGTERM, shutting down 
+Jun 09 13:53:11 host spamd[598]: logger: removing stderr method 
+Jun 09 13:53:13 host spamd[600]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 09 13:53:14 host spamd[600]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 09 13:53:14 host spamd[600]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 09 13:53:14 host spamd[600]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 09 13:53:15 host spamd[600]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 09 13:53:15 host spamd[600]: spamd: server pid: 600 
+Jun 09 13:53:15 host spamd[600]: spamd: server successfully spawned child process, pid 604 
+Jun 09 13:53:16 host spamd[600]: spamd: server successfully spawned child process, pid 605 
+Jun 09 13:53:16 host spamd[600]: prefork: child states: IS 
+Jun 09 13:53:16 host spamd[600]: prefork: child states: II 
+Jun  9 13:54:11 host postfix[1341]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/master[1346]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postsuper[1374]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postlog[1410]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1410]: warning: damaged message: corrupt/25202106C62
+Jun  9 13:54:11 host postfix/postlog[1411]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1411]: warning: damaged message: corrupt/087FD106DCD
+Jun  9 13:54:11 host postfix/postlog[1412]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1412]: warning: damaged message: corrupt/9B88F106C5B
+Jun  9 13:54:11 host postfix/postlog[1413]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1413]: warning: damaged message: corrupt/0E51A106DD1
+Jun  9 13:54:11 host postfix/postlog[1414]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1414]: warning: damaged message: corrupt/B1F61106DCF
+Jun  9 13:54:11 host postfix/postlog[1415]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1415]: warning: damaged message: corrupt/BF98A106C70
+Jun  9 13:54:11 host postfix/postlog[1416]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1416]: warning: damaged message: corrupt/623A3106C98
+Jun  9 13:54:11 host postfix/postlog[1417]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1417]: warning: damaged message: corrupt/6F11F106DF3
+Jun  9 13:54:11 host postfix/postlog[1418]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1418]: warning: damaged message: corrupt/C9D20106DF6
+Jun  9 13:54:11 host postfix/postlog[1419]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/postfix-script[1419]: starting the Postfix mail system
+Jun  9 13:54:11 host postfix/master[1421]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:11 host postfix/master[1421]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun  9 13:54:12 host postfix/qmgr[1424]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:12 host postfix/pickup[1423]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:12 host postfix/proxymap[1428]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 13:54:12 host postfix/proxymap[1428]: error: unsupported dictionary type: mysql
+Jun  9 13:54:14 host maiad[1430]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun  9 13:54:14 host maiad[1430]: Perl version               5.020002
+Jun  9 14:04:11 host postfix/pickup[1589]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:14:11 host postfix/pickup[1744]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:24:11 host postfix/pickup[1837]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:34:12 host postfix/pickup[1940]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:40:32 host postfix[2378]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:40:33 host postfix/master[2383]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:40:33 host postfix/postlog[2384]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:40:33 host postfix/postfix-script[2384]: stopping the Postfix mail system
+Jun  9 14:40:33 host postfix/master[1421]: terminating on signal 15
+Jun  9 14:40:33 host postfix/master[2386]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 09 14:40:42 host spamd[600]: spamd: server killed by SIGTERM, shutting down 
+Jun 09 14:41:28 host spamd[610]: logger: removing stderr method 
+Jun 09 14:41:29 host spamd[612]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 09 14:41:30 host spamd[612]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 09 14:41:30 host spamd[612]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 09 14:41:30 host spamd[612]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 09 14:41:31 host spamd[612]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 09 14:41:31 host spamd[612]: spamd: server pid: 612 
+Jun 09 14:41:31 host spamd[612]: spamd: server successfully spawned child process, pid 616 
+Jun 09 14:41:31 host spamd[612]: spamd: server successfully spawned child process, pid 617 
+Jun 09 14:41:31 host spamd[612]: prefork: child states: IS 
+Jun 09 14:41:31 host spamd[612]: prefork: child states: II 
+Jun  9 14:42:16 host postfix[1416]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:16 host postfix/master[1421]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postsuper[1449]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postlog[1485]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1485]: warning: damaged message: corrupt/25202106C62
+Jun  9 14:42:17 host postfix/postlog[1486]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1486]: warning: damaged message: corrupt/087FD106DCD
+Jun  9 14:42:17 host postfix/postlog[1487]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1487]: warning: damaged message: corrupt/9B88F106C5B
+Jun  9 14:42:17 host postfix/postlog[1488]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1488]: warning: damaged message: corrupt/0E51A106DD1
+Jun  9 14:42:17 host postfix/postlog[1489]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1489]: warning: damaged message: corrupt/B1F61106DCF
+Jun  9 14:42:17 host postfix/postlog[1490]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1490]: warning: damaged message: corrupt/BF98A106C70
+Jun  9 14:42:17 host postfix/postlog[1491]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1491]: warning: damaged message: corrupt/623A3106C98
+Jun  9 14:42:17 host postfix/postlog[1492]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1492]: warning: damaged message: corrupt/6F11F106DF3
+Jun  9 14:42:17 host postfix/postlog[1493]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1493]: warning: damaged message: corrupt/C9D20106DF6
+Jun  9 14:42:17 host postfix/postlog[1494]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/postfix-script[1494]: starting the Postfix mail system
+Jun  9 14:42:17 host postfix/master[1496]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/master[1496]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun  9 14:42:17 host postfix/qmgr[1499]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/pickup[1498]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/proxymap[1503]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 14:42:17 host postfix/proxymap[1503]: error: unsupported dictionary type: mysql
+Jun  9 14:42:18 host maiad[1505]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun  9 14:42:18 host maiad[1505]: Perl version               5.020002
+Jun  9 14:52:17 host postfix/pickup[1800]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 15:02:18 host postfix/pickup[1899]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 15:12:18 host postfix/pickup[1977]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 15:22:19 host postfix/pickup[1999]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 15:32:19 host postfix/pickup[2211]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 15:42:19 host postfix/pickup[2358]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 15:52:20 host postfix/pickup[2399]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 16:02:20 host postfix/pickup[2483]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 16:12:21 host postfix/pickup[2759]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 16:22:21 host postfix/pickup[3042]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 16:32:21 host postfix/pickup[3285]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 16:42:21 host postfix/pickup[3324]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 16:52:21 host postfix/pickup[3427]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 17:02:21 host postfix/pickup[3689]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 17:12:22 host postfix/pickup[3726]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 17:22:22 host postfix/pickup[3749]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 17:32:22 host postfix/pickup[3819]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 17:42:23 host postfix/pickup[3851]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 17:52:23 host postfix/pickup[3911]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 18:02:24 host postfix/pickup[4130]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 18:08:48 host postfix[4514]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 18:08:48 host postfix/master[4519]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 18:08:48 host postfix/postlog[4520]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun  9 18:08:48 host postfix/postfix-script[4520]: stopping the Postfix mail system
+Jun  9 18:08:48 host postfix/master[1496]: terminating on signal 15
+Jun  9 18:08:48 host postfix/master[4522]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 09 18:08:56 host spamd[612]: spamd: server killed by SIGTERM, shutting down 
+Jun 10 12:55:52 host spamd[616]: logger: removing stderr method 
+Jun 10 12:55:53 host spamd[618]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 10 12:55:54 host spamd[618]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 10 12:55:54 host spamd[618]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 10 12:55:54 host spamd[618]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 10 12:55:55 host spamd[618]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 10 12:55:55 host spamd[618]: spamd: server pid: 618 
+Jun 10 12:55:55 host spamd[618]: spamd: server successfully spawned child process, pid 619 
+Jun 10 12:55:55 host spamd[618]: spamd: server successfully spawned child process, pid 620 
+Jun 10 12:55:55 host spamd[618]: prefork: child states: II 
+Jun 10 12:57:10 host postfix[1420]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:10 host postfix/master[1425]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:11 host postfix/postsuper[1453]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postlog[1489]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1489]: warning: damaged message: corrupt/25202106C62
+Jun 10 12:57:12 host postfix/postlog[1490]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1490]: warning: damaged message: corrupt/087FD106DCD
+Jun 10 12:57:12 host postfix/postlog[1491]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1491]: warning: damaged message: corrupt/9B88F106C5B
+Jun 10 12:57:12 host postfix/postlog[1492]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1492]: warning: damaged message: corrupt/0E51A106DD1
+Jun 10 12:57:12 host postfix/postlog[1493]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1493]: warning: damaged message: corrupt/B1F61106DCF
+Jun 10 12:57:12 host postfix/postlog[1494]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1494]: warning: damaged message: corrupt/BF98A106C70
+Jun 10 12:57:12 host postfix/postlog[1495]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1495]: warning: damaged message: corrupt/623A3106C98
+Jun 10 12:57:12 host postfix/postlog[1496]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1496]: warning: damaged message: corrupt/6F11F106DF3
+Jun 10 12:57:12 host postfix/postlog[1497]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1497]: warning: damaged message: corrupt/C9D20106DF6
+Jun 10 12:57:12 host postfix/postlog[1498]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/postfix-script[1498]: starting the Postfix mail system
+Jun 10 12:57:12 host postfix/master[1500]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/master[1500]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun 10 12:57:12 host postfix/pickup[1501]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/qmgr[1502]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/proxymap[1507]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 12:57:12 host postfix/proxymap[1507]: error: unsupported dictionary type: mysql
+Jun 10 12:57:25 host maiad[1509]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun 10 12:57:25 host maiad[1509]: Perl version               5.020002
+Jun 10 13:07:13 host postfix/pickup[1922]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:17:14 host postfix/pickup[2230]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:19:18 host postfix[2467]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:19:18 host postfix/master[2472]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:19:18 host postfix/postlog[2473]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:19:18 host postfix/postfix-script[2473]: stopping the Postfix mail system
+Jun 10 13:19:18 host postfix/master[1500]: terminating on signal 15
+Jun 10 13:19:18 host postfix/master[2475]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:19:22 host spamd[618]: spamd: server killed by SIGTERM, shutting down 
+Jun 10 13:20:05 host spamd[604]: logger: removing stderr method 
+Jun 10 13:20:06 host spamd[606]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 10 13:20:07 host spamd[606]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 10 13:20:07 host spamd[606]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 10 13:20:07 host spamd[606]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 10 13:20:07 host spamd[606]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 10 13:20:07 host spamd[606]: spamd: server pid: 606 
+Jun 10 13:20:07 host spamd[606]: spamd: server successfully spawned child process, pid 607 
+Jun 10 13:20:07 host spamd[606]: spamd: server successfully spawned child process, pid 608 
+Jun 10 13:20:07 host spamd[606]: prefork: child states: IS 
+Jun 10 13:20:07 host spamd[606]: prefork: child states: II 
+Jun 10 13:20:48 host postfix[1432]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/master[1437]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postsuper[1465]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postlog[1501]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1501]: warning: damaged message: corrupt/25202106C62
+Jun 10 13:20:49 host postfix/postlog[1502]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1502]: warning: damaged message: corrupt/087FD106DCD
+Jun 10 13:20:49 host postfix/postlog[1503]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1503]: warning: damaged message: corrupt/9B88F106C5B
+Jun 10 13:20:49 host postfix/postlog[1504]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1504]: warning: damaged message: corrupt/0E51A106DD1
+Jun 10 13:20:49 host postfix/postlog[1505]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1505]: warning: damaged message: corrupt/B1F61106DCF
+Jun 10 13:20:49 host postfix/postlog[1506]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1506]: warning: damaged message: corrupt/BF98A106C70
+Jun 10 13:20:49 host postfix/postlog[1507]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1507]: warning: damaged message: corrupt/623A3106C98
+Jun 10 13:20:49 host postfix/postlog[1508]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1508]: warning: damaged message: corrupt/6F11F106DF3
+Jun 10 13:20:49 host postfix/postlog[1509]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1509]: warning: damaged message: corrupt/C9D20106DF6
+Jun 10 13:20:49 host postfix/postlog[1510]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/postfix-script[1510]: starting the Postfix mail system
+Jun 10 13:20:49 host postfix/master[1512]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/master[1512]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun 10 13:20:49 host postfix/pickup[1513]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/qmgr[1514]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/proxymap[1519]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:20:49 host postfix/proxymap[1519]: error: unsupported dictionary type: mysql
+Jun 10 13:20:52 host maiad[1521]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun 10 13:20:52 host maiad[1521]: Perl version               5.020002
+Jun 10 13:30:50 host postfix/pickup[2138]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 13:40:50 host postfix/pickup[2576]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:32:34 host spamd[613]: logger: removing stderr method 
+Jun 10 14:32:35 host spamd[615]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 10 14:32:36 host spamd[615]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 10 14:32:36 host spamd[615]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 10 14:32:36 host spamd[615]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 10 14:32:37 host spamd[615]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 10 14:32:37 host spamd[615]: spamd: server pid: 615 
+Jun 10 14:32:37 host spamd[615]: spamd: server successfully spawned child process, pid 616 
+Jun 10 14:32:37 host spamd[615]: spamd: server successfully spawned child process, pid 620 
+Jun 10 14:32:37 host spamd[615]: prefork: child states: II 
+Jun 10 14:33:29 host postfix[1437]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/master[1442]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postsuper[1470]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postlog[1506]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1506]: warning: damaged message: corrupt/25202106C62
+Jun 10 14:33:29 host postfix/postlog[1507]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1507]: warning: damaged message: corrupt/087FD106DCD
+Jun 10 14:33:29 host postfix/postlog[1508]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1508]: warning: damaged message: corrupt/9B88F106C5B
+Jun 10 14:33:29 host postfix/postlog[1509]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1509]: warning: damaged message: corrupt/0E51A106DD1
+Jun 10 14:33:29 host postfix/postlog[1510]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1510]: warning: damaged message: corrupt/B1F61106DCF
+Jun 10 14:33:29 host postfix/postlog[1511]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1511]: warning: damaged message: corrupt/BF98A106C70
+Jun 10 14:33:29 host postfix/postlog[1512]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1512]: warning: damaged message: corrupt/623A3106C98
+Jun 10 14:33:29 host postfix/postlog[1513]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1513]: warning: damaged message: corrupt/6F11F106DF3
+Jun 10 14:33:29 host postfix/postlog[1514]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1514]: warning: damaged message: corrupt/C9D20106DF6
+Jun 10 14:33:29 host postfix/postlog[1515]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:29 host postfix/postfix-script[1515]: starting the Postfix mail system
+Jun 10 14:33:30 host postfix/master[1517]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:30 host postfix/master[1517]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun 10 14:33:30 host postfix/pickup[1518]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:30 host postfix/qmgr[1519]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:30 host postfix/proxymap[1524]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:33:30 host postfix/proxymap[1524]: error: unsupported dictionary type: mysql
+Jun 10 14:33:32 host maiad[1526]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun 10 14:33:32 host maiad[1526]: Perl version               5.020002
+Jun 10 14:43:30 host postfix/pickup[2079]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:53:30 host postfix/pickup[2547]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:55:13 host postfix/smtpd[2575]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:55:13 host postfix/proxymap[2576]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:55:13 host postfix/proxymap[2576]: error: unsupported dictionary type: mysql
+Jun 10 14:55:13 host postfix/smtpd[2575]: warning: database /etc/aliases.db is older than source file /etc/aliases
+Jun 10 14:55:13 host postfix/proxymap[2576]: error: unsupported dictionary type: mysql
+Jun 10 14:55:13 host postfix/smtpd[2575]: warning: smtpd_sasl_auth_enable is true, but SASL support is not compiled in
+Jun 10 14:55:13 host postfix/tlsmgr[2577]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 14:55:13 host postfix/smtpd[2575]: cannot load Certificate Authority data: disabling TLS support
+Jun 10 14:55:13 host postfix/smtpd[2575]: warning: TLS library problem: error:02001002:system library:fopen:No such file or directory:/usr/src/secure/lib/libcrypto/../../../crypto/openssl/crypto/bio/bss_file.c:169:fopen('/usr/local/etc/ssl/postfix/postfix.crt','r'):
+Jun 10 14:55:13 host postfix/smtpd[2575]: warning: TLS library problem: error:2006D080:BIO routines:BIO_new_file:no such file:/usr/src/secure/lib/libcrypto/../../../crypto/openssl/crypto/bio/bss_file.c:172:
+Jun 10 14:55:13 host postfix/smtpd[2575]: warning: TLS library problem: error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib:/usr/src/secure/lib/libcrypto/../../../crypto/openssl/crypto/x509/by_file.c:274:
+Jun 10 14:55:13 host postfix/smtpd[2575]: connect from localhost[127.0.0.1]
+Jun 10 14:55:22 host postfix/smtpd[2575]: lost connection after CONNECT from localhost[127.0.0.1]
+Jun 10 14:55:22 host postfix/smtpd[2575]: disconnect from localhost[127.0.0.1]
+Jun 10 15:03:30 host postfix/pickup[3078]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 15:13:30 host postfix/pickup[3587]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 15:23:31 host postfix/pickup[3655]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 15:33:31 host postfix/pickup[3674]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 15:43:32 host postfix/pickup[3739]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 15:53:32 host postfix/pickup[3870]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 16:03:32 host postfix/pickup[3936]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 16:13:32 host postfix/pickup[4133]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 16:23:33 host postfix/pickup[4185]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 16:33:34 host postfix/pickup[4246]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 16:43:34 host postfix/pickup[4272]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 16:53:35 host postfix/pickup[4302]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 10 17:03:35 host postfix/pickup[4343]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 09:14:23 host postfix/pickup[4411]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 09:24:23 host postfix/pickup[4447]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 09:34:24 host postfix/pickup[4474]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 09:44:24 host postfix/pickup[4502]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 09:54:25 host postfix/pickup[4525]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:04:25 host postfix/pickup[4570]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:14:26 host postfix/pickup[4601]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:24:26 host postfix/pickup[4627]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:34:27 host postfix/pickup[4698]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:44:27 host postfix/pickup[4795]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:46:32 host postfix[5044]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:46:32 host postfix/master[5049]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:46:32 host postfix/postlog[5050]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:46:32 host postfix/postfix-script[5050]: stopping the Postfix mail system
+Jun 11 10:46:32 host postfix/master[1517]: terminating on signal 15
+Jun 11 10:46:32 host postfix/master[5052]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:46:35 host spamd[615]: spamd: server killed by SIGTERM, shutting down 
+Jun 11 10:47:21 host spamd[620]: logger: removing stderr method 
+Jun 11 10:47:21 host spamd[622]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 11 10:47:22 host spamd[622]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 11 10:47:22 host spamd[622]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 11 10:47:22 host spamd[622]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 11 10:47:23 host spamd[622]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 11 10:47:23 host spamd[622]: spamd: server pid: 622 
+Jun 11 10:47:23 host spamd[622]: spamd: server successfully spawned child process, pid 623 
+Jun 11 10:47:23 host spamd[622]: spamd: server successfully spawned child process, pid 624 
+Jun 11 10:47:23 host spamd[622]: prefork: child states: IS 
+Jun 11 10:47:23 host spamd[622]: prefork: child states: II 
+Jun 11 10:47:51 host postfix[1362]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/master[1367]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postsuper[1395]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postlog[1431]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1431]: warning: damaged message: corrupt/25202106C62
+Jun 11 10:47:51 host postfix/postlog[1432]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1432]: warning: damaged message: corrupt/087FD106DCD
+Jun 11 10:47:51 host postfix/postlog[1433]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1433]: warning: damaged message: corrupt/9B88F106C5B
+Jun 11 10:47:51 host postfix/postlog[1434]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1434]: warning: damaged message: corrupt/0E51A106DD1
+Jun 11 10:47:51 host postfix/postlog[1435]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1435]: warning: damaged message: corrupt/B1F61106DCF
+Jun 11 10:47:51 host postfix/postlog[1436]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1436]: warning: damaged message: corrupt/BF98A106C70
+Jun 11 10:47:51 host postfix/postlog[1437]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1437]: warning: damaged message: corrupt/623A3106C98
+Jun 11 10:47:51 host postfix/postlog[1438]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1438]: warning: damaged message: corrupt/6F11F106DF3
+Jun 11 10:47:51 host postfix/postlog[1439]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1439]: warning: damaged message: corrupt/C9D20106DF6
+Jun 11 10:47:51 host postfix/postlog[1440]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/postfix-script[1440]: starting the Postfix mail system
+Jun 11 10:47:51 host postfix/master[1442]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/master[1442]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun 11 10:47:51 host postfix/pickup[1443]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/qmgr[1444]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/proxymap[1451]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 10:47:51 host postfix/proxymap[1451]: error: unsupported dictionary type: mysql
+Jun 11 10:47:52 host maiad[1450]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun 11 10:47:52 host maiad[1450]: Perl version               5.020002
+Jun 11 10:57:52 host postfix/pickup[1771]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:01:21 host postfix[1907]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:01:21 host postfix/master[1912]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:01:21 host postfix/postlog[1913]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:01:21 host postfix/postfix-script[1913]: stopping the Postfix mail system
+Jun 11 11:01:21 host postfix/master[1442]: terminating on signal 15
+Jun 11 11:01:21 host postfix/master[1915]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:01:24 host spamd[622]: spamd: server killed by SIGTERM, shutting down 
+Jun 11 11:02:09 host spamd[608]: logger: removing stderr method 
+Jun 11 11:02:10 host spamd[610]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 11 11:02:11 host spamd[610]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 11 11:02:11 host spamd[610]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 11 11:02:11 host spamd[610]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 11 11:02:11 host spamd[610]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 11 11:02:11 host spamd[610]: spamd: server pid: 610 
+Jun 11 11:02:11 host spamd[610]: spamd: server successfully spawned child process, pid 611 
+Jun 11 11:02:11 host spamd[610]: spamd: server successfully spawned child process, pid 612 
+Jun 11 11:02:11 host spamd[610]: prefork: child states: IS 
+Jun 11 11:02:11 host spamd[610]: prefork: child states: II 
+Jun 11 11:02:30 host postfix[1350]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/master[1355]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postsuper[1383]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postlog[1419]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1419]: warning: damaged message: corrupt/25202106C62
+Jun 11 11:02:30 host postfix/postlog[1420]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1420]: warning: damaged message: corrupt/087FD106DCD
+Jun 11 11:02:30 host postfix/postlog[1421]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1421]: warning: damaged message: corrupt/9B88F106C5B
+Jun 11 11:02:30 host postfix/postlog[1422]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1422]: warning: damaged message: corrupt/0E51A106DD1
+Jun 11 11:02:30 host postfix/postlog[1423]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1423]: warning: damaged message: corrupt/B1F61106DCF
+Jun 11 11:02:30 host postfix/postlog[1424]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1424]: warning: damaged message: corrupt/BF98A106C70
+Jun 11 11:02:30 host postfix/postlog[1425]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1425]: warning: damaged message: corrupt/623A3106C98
+Jun 11 11:02:30 host postfix/postlog[1426]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1426]: warning: damaged message: corrupt/6F11F106DF3
+Jun 11 11:02:30 host postfix/postlog[1427]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1427]: warning: damaged message: corrupt/C9D20106DF6
+Jun 11 11:02:30 host postfix/postlog[1428]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/postfix-script[1428]: starting the Postfix mail system
+Jun 11 11:02:30 host postfix/master[1430]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/master[1430]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun 11 11:02:30 host postfix/pickup[1431]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/qmgr[1432]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/proxymap[1439]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:02:30 host postfix/proxymap[1439]: error: unsupported dictionary type: mysql
+Jun 11 11:02:31 host maiad[1438]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun 11 11:02:31 host maiad[1438]: Perl version               5.020002
+Jun 11 11:05:09 host postfix[1703]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:05:09 host postfix/master[1708]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:05:09 host postfix/postlog[1709]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:05:09 host postfix/postfix-script[1709]: stopping the Postfix mail system
+Jun 11 11:05:09 host postfix/master[1430]: terminating on signal 15
+Jun 11 11:05:09 host postfix/master[1711]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:05:12 host spamd[610]: spamd: server killed by SIGTERM, shutting down 
+Jun 11 11:05:53 host spamd[604]: logger: removing stderr method 
+Jun 11 11:05:53 host spamd[606]: config: failed to parse line, skipping, in "/usr/local/etc/mail/spamassassin/local.cf": bayes_autolearn_to_journal 
+Jun 11 11:05:54 host spamd[606]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 11 11:05:54 host spamd[606]: zoom: able to use 353/353 'body_0' compiled rules (100%) 
+Jun 11 11:05:54 host spamd[606]: plugin: eval failed: bayes: Redis failed: Error: Connection refused at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 264. at /usr/local/lib/perl5/site_perl/Mail/SpamAssassin/BayesStore/Redis.pm line 271. 
+Jun 11 11:05:55 host spamd[606]: spamd: server started on IO::Socket::IP [::1]:783, IO::Socket::IP [127.0.0.1]:783 (running version 3.4.1) 
+Jun 11 11:05:55 host spamd[606]: spamd: server pid: 606 
+Jun 11 11:05:55 host spamd[606]: spamd: server successfully spawned child process, pid 607 
+Jun 11 11:05:55 host spamd[606]: spamd: server successfully spawned child process, pid 608 
+Jun 11 11:05:55 host spamd[606]: prefork: child states: SI 
+Jun 11 11:05:55 host spamd[606]: prefork: child states: II 
+Jun 11 11:06:13 host postfix[1346]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/master[1351]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postsuper[1379]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postlog[1415]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1415]: warning: damaged message: corrupt/25202106C62
+Jun 11 11:06:13 host postfix/postlog[1416]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1416]: warning: damaged message: corrupt/087FD106DCD
+Jun 11 11:06:13 host postfix/postlog[1417]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1417]: warning: damaged message: corrupt/9B88F106C5B
+Jun 11 11:06:13 host postfix/postlog[1418]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1418]: warning: damaged message: corrupt/0E51A106DD1
+Jun 11 11:06:13 host postfix/postlog[1419]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1419]: warning: damaged message: corrupt/B1F61106DCF
+Jun 11 11:06:13 host postfix/postlog[1420]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1420]: warning: damaged message: corrupt/BF98A106C70
+Jun 11 11:06:13 host postfix/postlog[1421]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1421]: warning: damaged message: corrupt/623A3106C98
+Jun 11 11:06:13 host postfix/postlog[1422]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1422]: warning: damaged message: corrupt/6F11F106DF3
+Jun 11 11:06:13 host postfix/postlog[1423]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1423]: warning: damaged message: corrupt/C9D20106DF6
+Jun 11 11:06:13 host postfix/postlog[1424]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/postfix-script[1424]: starting the Postfix mail system
+Jun 11 11:06:13 host postfix/master[1426]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/master[1426]: daemon started -- version 2.11.5, configuration /usr/local/etc/postfix
+Jun 11 11:06:13 host postfix/pickup[1427]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/qmgr[1428]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/proxymap[1435]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:06:13 host postfix/proxymap[1435]: error: unsupported dictionary type: mysql
+Jun 11 11:06:14 host maiad[1434]: starting.  /usr/local/sbin/maiad at host.domain.tld Maia Mailguard 1.0.4.1524, Unicode aware
+Jun 11 11:06:14 host maiad[1434]: Perl version               5.020002
+Jun 11 11:16:14 host postfix/pickup[1773]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:26:14 host postfix/pickup[1858]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:36:15 host postfix/pickup[2208]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:46:15 host postfix/pickup[2408]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 11:56:16 host postfix/pickup[2442]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 12:06:16 host postfix/pickup[2775]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 12:16:17 host postfix/pickup[3263]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 12:26:17 host postfix/pickup[3725]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 12:36:17 host postfix/pickup[4094]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 12:46:17 host postfix/pickup[4503]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 12:56:18 host postfix/pickup[4734]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 13:06:18 host postfix/pickup[4932]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 13:16:18 host postfix/pickup[5440]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 13:26:18 host postfix/pickup[5847]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 13:36:18 host postfix/pickup[6374]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 13:46:19 host postfix/pickup[6804]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 13:56:19 host postfix/pickup[6984]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 14:06:20 host postfix/pickup[7214]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 14:16:20 host postfix/pickup[7419]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 14:26:21 host postfix/pickup[8029]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 14:36:21 host postfix/pickup[8585]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 14:46:21 host postfix/pickup[8917]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 14:56:21 host postfix/pickup[9776]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 15:06:21 host postfix/pickup[10016]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 15:16:21 host postfix/pickup[10044]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 15:26:21 host postfix/pickup[10256]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 15:36:21 host postfix/pickup[10399]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 15:46:22 host postfix/pickup[10604]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 15:56:22 host postfix/pickup[10835]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 16:06:23 host postfix/pickup[11162]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 16:58:21 host postfix/pickup[11473]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 17:08:21 host postfix/pickup[11611]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 17:18:22 host postfix/pickup[11829]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 17:28:22 host postfix/pickup[11906]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 17:38:23 host postfix/pickup[11931]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 17:48:23 host postfix/pickup[12005]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 17:58:24 host postfix/pickup[12091]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 18:08:24 host postfix/pickup[12130]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 18:18:24 host postfix/pickup[13880]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 18:28:25 host postfix/pickup[14430]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 18:38:25 host postfix/pickup[14606]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 18:48:26 host postfix/pickup[14751]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 18:58:26 host postfix/pickup[14809]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 19:08:27 host postfix/pickup[14850]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 19:18:27 host postfix/pickup[14871]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 19:28:27 host postfix/pickup[14892]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 19:38:27 host postfix/pickup[14913]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 19:48:27 host postfix/pickup[14934]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 19:58:27 host postfix/pickup[14957]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 20:08:27 host postfix/pickup[14996]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 20:18:27 host postfix/pickup[15017]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 20:28:28 host postfix/pickup[15038]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 20:38:28 host postfix/pickup[15059]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 20:48:29 host postfix/pickup[15101]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 20:58:29 host postfix/pickup[15122]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 21:08:30 host postfix/pickup[15161]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 21:18:30 host postfix/pickup[15211]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 21:28:31 host postfix/pickup[15246]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 21:38:31 host postfix/pickup[15405]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 21:48:32 host postfix/pickup[15490]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 21:58:32 host postfix/pickup[15514]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 22:08:33 host postfix/pickup[15574]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 22:18:33 host postfix/pickup[15715]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 22:28:34 host postfix/pickup[15736]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 22:38:34 host postfix/pickup[15757]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 22:48:35 host postfix/pickup[15788]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 22:58:35 host postfix/pickup[15900]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 23:08:36 host postfix/pickup[16071]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 23:18:36 host postfix/pickup[16496]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 23:28:37 host postfix/pickup[16541]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 23:38:37 host postfix/pickup[16562]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 23:48:37 host postfix/pickup[16826]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 11 23:58:37 host postfix/pickup[16888]: warning: /usr/local/etc/postfix/main.cf, line 285: overriding earlier entry: virtual_alias_maps=proxy:mysql:/usr/local/etc/postfix/mysql_virtual_alias_maps.cf
+Jun 12 00:00:00 host newsyslog[16898]: logfile turned over
